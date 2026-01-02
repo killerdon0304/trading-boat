@@ -1,5 +1,14 @@
 [
-  
+  {
+    "sr": 1,
+    "nsecode": "SUPREMEIND",
+    "name": "Supreme Industries Limited",
+    "bsecode": "509930",
+    "per_chg": 1.43,
+    "close": 3534.1,
+    "volume": 231479,
+    "added_at": "2026-01-02T18:32:17"
+  },
   {
     "sr": 2,
     "nsecode": "BEML",

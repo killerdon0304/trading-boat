@@ -1,6 +1,66 @@
 [
   {
     "sr": 1,
+    "nsecode": "BOSCHLTD",
+    "name": "Bosch Limited",
+    "bsecode": "500530",
+    "per_chg": -0.63,
+    "close": 39170,
+    "volume": 47881,
+    "added_at": "2026-01-05T11:40:32"
+  },
+  {
+    "sr": 2,
+    "nsecode": "BLUESTARCO",
+    "name": "Blue Star Limited",
+    "bsecode": "500067",
+    "per_chg": 1.81,
+    "close": 1848.9,
+    "volume": 602414,
+    "added_at": "2026-01-05T11:40:32"
+  },
+  {
+    "sr": 3,
+    "nsecode": "SOBHA",
+    "name": "Sobha Limited",
+    "bsecode": "532784",
+    "per_chg": 5.79,
+    "close": 1576.9,
+    "volume": 1607183,
+    "added_at": "2026-01-05T11:40:32"
+  },
+  {
+    "sr": 4,
+    "nsecode": "MEDANTA",
+    "name": "Global Health Ltd",
+    "bsecode": "543654",
+    "per_chg": 1.68,
+    "close": 1237.5,
+    "volume": 170454,
+    "added_at": "2026-01-05T11:40:32"
+  },
+  {
+    "sr": 5,
+    "nsecode": "GLOBUSSPR",
+    "name": "Globus Spirits Limited",
+    "bsecode": "533104",
+    "per_chg": 5.67,
+    "close": 1150,
+    "volume": 400354,
+    "added_at": "2026-01-05T11:40:32"
+  },
+  {
+    "sr": 6,
+    "nsecode": "SAREGAMA",
+    "name": "Saregama India Limited",
+    "bsecode": "532163",
+    "per_chg": 3.48,
+    "close": 370.4,
+    "volume": 1030905,
+    "added_at": "2026-01-05T11:40:32"
+  },
+  {
+    "sr": 1,
     "nsecode": "SUPREMEIND",
     "name": "Supreme Industries Limited",
     "bsecode": "509930",

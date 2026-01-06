@@ -1,6 +1,86 @@
 [
   {
     "sr": 1,
+    "nsecode": "SOLARINDS",
+    "name": "Solar Industries India Limited",
+    "bsecode": "532725",
+    "per_chg": 0.98,
+    "close": 12856,
+    "volume": 95218,
+    "added_at": "2026-01-06T11:39:16"
+  },
+  {
+    "sr": 2,
+    "nsecode": "CRISIL",
+    "name": "Crisil Limited",
+    "bsecode": "500092",
+    "per_chg": 5.1,
+    "close": 4667.4,
+    "volume": 331584,
+    "added_at": "2026-01-06T11:39:16"
+  },
+  {
+    "sr": 3,
+    "nsecode": "HINDUNILVR",
+    "name": "Hindustan Unilever Limited",
+    "bsecode": "500696",
+    "per_chg": 1.7,
+    "close": 2424.7,
+    "volume": 1584740,
+    "added_at": "2026-01-06T11:39:16"
+  },
+  {
+    "sr": 4,
+    "nsecode": "MANKIND",
+    "name": "Mankind Pharma Ltd",
+    "bsecode": "543904",
+    "per_chg": 2.09,
+    "close": 2240.8,
+    "volume": 295988,
+    "added_at": "2026-01-06T11:39:16"
+  },
+  {
+    "sr": 5,
+    "nsecode": "CIPLA",
+    "name": "Cipla Limited",
+    "bsecode": "500087",
+    "per_chg": 0.72,
+    "close": 1530.8,
+    "volume": 1614326,
+    "added_at": "2026-01-06T11:39:16"
+  },
+  {
+    "sr": 6,
+    "nsecode": "AXISCADES",
+    "name": "Axiscades Engineering Technologies Limited",
+    "bsecode": "532395",
+    "per_chg": 3.32,
+    "close": 1487.1,
+    "volume": 62791,
+    "added_at": "2026-01-06T11:39:16"
+  },
+  {
+    "sr": 7,
+    "nsecode": "GODREJIND",
+    "name": "Godrej Industries Limited",
+    "bsecode": "500164",
+    "per_chg": 1.43,
+    "close": 1020.2,
+    "volume": 71472,
+    "added_at": "2026-01-06T11:39:16"
+  },
+  {
+    "sr": 8,
+    "nsecode": "SUNDRMFAST",
+    "name": "Sundram Fasteners Limited",
+    "bsecode": "500403",
+    "per_chg": 0.31,
+    "close": 941.9,
+    "volume": 45056,
+    "added_at": "2026-01-06T11:39:16"
+  },
+  {
+    "sr": 1,
     "nsecode": "BOSCHLTD",
     "name": "Bosch Limited",
     "bsecode": "500530",

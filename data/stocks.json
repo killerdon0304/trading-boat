@@ -4,10 +4,30 @@
     "nsecode": "SOLARINDS",
     "name": "Solar Industries India Limited",
     "bsecode": "532725",
-    "per_chg": 3.67,
-    "close": 13328,
-    "volume": 232632,
+    "per_chg": 0.93,
+    "close": 13452,
+    "volume": 301694,
     "added_at": "2026-01-06T11:39:16"
+  },
+  {
+    "sr": 2,
+    "nsecode": "KIRLOSBROS",
+    "name": "Kirloskar Brothers Limited",
+    "bsecode": "500241",
+    "per_chg": 0.17,
+    "close": 1632,
+    "volume": 25247,
+    "added_at": "2026-01-08T11:41:12"
+  },
+  {
+    "sr": 3,
+    "nsecode": "SOBHA",
+    "name": "Sobha Limited",
+    "bsecode": "532784",
+    "per_chg": 2.68,
+    "close": 1570.1,
+    "volume": 304055,
+    "added_at": "2026-01-05T11:40:32"
   },
   {
     "sr": 2,
@@ -167,16 +187,6 @@
     "per_chg": -0.63,
     "close": 39170,
     "volume": 47881,
-    "added_at": "2026-01-05T11:40:32"
-  },
-  {
-    "sr": 3,
-    "nsecode": "SOBHA",
-    "name": "Sobha Limited",
-    "bsecode": "532784",
-    "per_chg": 5.79,
-    "close": 1576.9,
-    "volume": 1607183,
     "added_at": "2026-01-05T11:40:32"
   },
   {

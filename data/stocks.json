@@ -1,6 +1,36 @@
 [
   {
     "sr": 1,
+    "nsecode": "CRISIL",
+    "name": "Crisil Limited",
+    "bsecode": "500092",
+    "per_chg": 0.5,
+    "close": 4742.8,
+    "volume": 44756,
+    "added_at": "2026-01-06T11:39:16"
+  },
+  {
+    "sr": 2,
+    "nsecode": "BBL",
+    "name": "Bharat Bijlee Limited",
+    "bsecode": "503960",
+    "per_chg": -0.37,
+    "close": 2881,
+    "volume": 24544,
+    "added_at": "2026-01-09T11:39:47"
+  },
+  {
+    "sr": 3,
+    "nsecode": "GODREJIND",
+    "name": "Godrej Industries Limited",
+    "bsecode": "500164",
+    "per_chg": 0.06,
+    "close": 1024.2,
+    "volume": 65767,
+    "added_at": "2026-01-06T11:39:16"
+  },
+  {
+    "sr": 1,
     "nsecode": "SOLARINDS",
     "name": "Solar Industries India Limited",
     "bsecode": "532725",
@@ -38,16 +68,6 @@
     "close": 7447.5,
     "volume": 567878,
     "added_at": "2026-01-07T11:40:18"
-  },
-  {
-    "sr": 3,
-    "nsecode": "CRISIL",
-    "name": "Crisil Limited",
-    "bsecode": "500092",
-    "per_chg": 1.24,
-    "close": 4725.5,
-    "volume": 67422,
-    "added_at": "2026-01-06T11:39:16"
   },
   {
     "sr": 4,
@@ -98,16 +118,6 @@
     "close": 1238.5,
     "volume": 204252,
     "added_at": "2026-01-05T11:40:32"
-  },
-  {
-    "sr": 9,
-    "nsecode": "GODREJIND",
-    "name": "Godrej Industries Limited",
-    "bsecode": "500164",
-    "per_chg": 3.33,
-    "close": 1054.2,
-    "volume": 96938,
-    "added_at": "2026-01-06T11:39:16"
   },
   {
     "sr": 10,

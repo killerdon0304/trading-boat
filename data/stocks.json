@@ -1,6 +1,16 @@
 [
   {
     "sr": 1,
+    "nsecode": "APOLLOHOSP",
+    "name": "Apollo Hospitals Enterprise Limited",
+    "bsecode": "508869",
+    "per_chg": 0.17,
+    "close": 7268.5,
+    "volume": 333583,
+    "added_at": "2026-01-07T11:40:18"
+  },
+  {
+    "sr": 1,
     "nsecode": "CRISIL",
     "name": "Crisil Limited",
     "bsecode": "500092",
@@ -50,26 +60,6 @@
     "added_at": "2026-01-08T11:41:12"
   },
   {
-    "sr": 3,
-    "nsecode": "SOBHA",
-    "name": "Sobha Limited",
-    "bsecode": "532784",
-    "per_chg": 2.68,
-    "close": 1570.1,
-    "volume": 304055,
-    "added_at": "2026-01-05T11:40:32"
-  },
-  {
-    "sr": 2,
-    "nsecode": "APOLLOHOSP",
-    "name": "Apollo Hospitals Enterprise Limited",
-    "bsecode": "508869",
-    "per_chg": 1.35,
-    "close": 7447.5,
-    "volume": 567878,
-    "added_at": "2026-01-07T11:40:18"
-  },
-  {
     "sr": 4,
     "nsecode": "MANKIND",
     "name": "Mankind Pharma Ltd",
@@ -78,16 +68,6 @@
     "close": 2311.8,
     "volume": 980887,
     "added_at": "2026-01-06T11:39:16"
-  },
-  {
-    "sr": 5,
-    "nsecode": "BLUESTARCO",
-    "name": "Blue Star Limited",
-    "bsecode": "500067",
-    "per_chg": 1.05,
-    "close": 1842.7,
-    "volume": 630307,
-    "added_at": "2026-01-05T11:40:32"
   },
   {
     "sr": 6,
@@ -108,16 +88,6 @@
     "close": 1370.1,
     "volume": 533364,
     "added_at": "2026-01-07T11:40:18"
-  },
-  {
-    "sr": 8,
-    "nsecode": "MEDANTA",
-    "name": "Global Health Ltd",
-    "bsecode": "543654",
-    "per_chg": 2.45,
-    "close": 1238.5,
-    "volume": 204252,
-    "added_at": "2026-01-05T11:40:32"
   },
   {
     "sr": 10,
@@ -150,16 +120,6 @@
     "added_at": "2026-01-07T11:40:18"
   },
   {
-    "sr": 13,
-    "nsecode": "SAREGAMA",
-    "name": "Saregama India Limited",
-    "bsecode": "532163",
-    "per_chg": 6.76,
-    "close": 377.55,
-    "volume": 4371926,
-    "added_at": "2026-01-05T11:40:32"
-  },
-  {
     "sr": 3,
     "nsecode": "HINDUNILVR",
     "name": "Hindustan Unilever Limited",
@@ -188,135 +148,5 @@
     "close": 941.9,
     "volume": 45056,
     "added_at": "2026-01-06T11:39:16"
-  },
-  {
-    "sr": 1,
-    "nsecode": "BOSCHLTD",
-    "name": "Bosch Limited",
-    "bsecode": "500530",
-    "per_chg": -0.63,
-    "close": 39170,
-    "volume": 47881,
-    "added_at": "2026-01-05T11:40:32"
-  },
-  {
-    "sr": 5,
-    "nsecode": "GLOBUSSPR",
-    "name": "Globus Spirits Limited",
-    "bsecode": "533104",
-    "per_chg": 5.67,
-    "close": 1150,
-    "volume": 400354,
-    "added_at": "2026-01-05T11:40:32"
-  },
-  {
-    "sr": 1,
-    "nsecode": "SUPREMEIND",
-    "name": "Supreme Industries Limited",
-    "bsecode": "509930",
-    "per_chg": 1.43,
-    "close": 3534.1,
-    "volume": 231479,
-    "added_at": "2026-01-02T19:17:04"
-  },
-  {
-    "sr": 2,
-    "nsecode": "BEML",
-    "name": "Beml Limited",
-    "bsecode": "500048",
-    "per_chg": 0.56,
-    "close": 1857.8,
-    "volume": 186395,
-    "added_at": "2026-01-02T19:17:04"
-  },
-  {
-    "sr": 3,
-    "nsecode": "BDL",
-    "name": "Bharat Dynamics Ltd",
-    "bsecode": "541143",
-    "per_chg": 0.91,
-    "close": 1495,
-    "volume": 1636024,
-    "added_at": "2026-01-02T19:17:04"
-  },
-  {
-    "sr": 4,
-    "nsecode": "ENTERO",
-    "name": "Entero Healthcare Solutions Ltd",
-    "bsecode": "544122",
-    "per_chg": -0.54,
-    "close": 1123.5,
-    "volume": 202329,
-    "added_at": "2026-01-02T19:17:04"
-  },
-  {
-    "sr": 5,
-    "nsecode": "SHYAMMETL",
-    "name": "Shyam Metalics & Energy Ltd",
-    "bsecode": "543299",
-    "per_chg": 1,
-    "close": 850.3,
-    "volume": 42944,
-    "added_at": "2026-01-02T19:17:04"
-  },
-  {
-    "sr": 6,
-    "nsecode": "ACI",
-    "name": "Archean Chemical Industries Ltd",
-    "bsecode": "543657",
-    "per_chg": 1.57,
-    "close": 562.7,
-    "volume": 101450,
-    "added_at": "2026-01-02T19:17:04"
-  },
-  {
-    "sr": 7,
-    "nsecode": "HARIOMPIPE",
-    "name": "Hariom Pipe Industries Ltd",
-    "bsecode": "543517",
-    "per_chg": 3.3,
-    "close": 395.5,
-    "volume": 264520,
-    "added_at": "2026-01-02T19:17:04"
-  },
-  {
-    "sr": 8,
-    "nsecode": "MIDHANI",
-    "name": "Mishra Dhatu Nigam Ltd",
-    "bsecode": "541195",
-    "per_chg": 3.92,
-    "close": 355.15,
-    "volume": 1661827,
-    "added_at": "2026-01-02T19:17:04"
-  },
-  {
-    "sr": 9,
-    "nsecode": "TARIL",
-    "name": "Transformers & Rectifiers India Ltd",
-    "bsecode": "532928",
-    "per_chg": 9.26,
-    "close": 336.4,
-    "volume": 39183009,
-    "added_at": "2026-01-02T19:17:04"
-  },
-  {
-    "sr": 10,
-    "nsecode": "ACMESOLAR",
-    "name": "ACME Solar Holdings Ltd",
-    "bsecode": "544283",
-    "per_chg": 1.11,
-    "close": 240.47,
-    "volume": 719847,
-    "added_at": "2026-01-02T19:17:04"
-  },
-  {
-    "sr": 11,
-    "nsecode": "SHK",
-    "name": "S H Kelkar And Company Limited",
-    "bsecode": "539450",
-    "per_chg": 2.95,
-    "close": 181.38,
-    "volume": 192589,
-    "added_at": "2026-01-02T19:17:04"
   }
 ]

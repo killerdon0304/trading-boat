@@ -4,20 +4,20 @@
     "nsecode": "APOLLOHOSP",
     "name": "Apollo Hospitals Enterprise Limited",
     "bsecode": "508869",
-    "per_chg": 0.17,
-    "close": 7268.5,
-    "volume": 333583,
+    "per_chg": 0.59,
+    "close": 7311.5,
+    "volume": 275363,
     "added_at": "2026-01-07T11:40:18"
   },
   {
-    "sr": 1,
-    "nsecode": "CRISIL",
-    "name": "Crisil Limited",
-    "bsecode": "500092",
-    "per_chg": 0.5,
-    "close": 4742.8,
-    "volume": 44756,
-    "added_at": "2026-01-06T11:39:16"
+    "sr": 2,
+    "nsecode": "CHEMPLASTS",
+    "name": "Chemplast Sanmar Ltd",
+    "bsecode": "543336",
+    "per_chg": 15.85,
+    "close": 278.15,
+    "volume": 6581627,
+    "added_at": "2026-01-13T11:40:51"
   },
   {
     "sr": 2,
@@ -30,26 +30,6 @@
     "added_at": "2026-01-09T11:39:47"
   },
   {
-    "sr": 3,
-    "nsecode": "GODREJIND",
-    "name": "Godrej Industries Limited",
-    "bsecode": "500164",
-    "per_chg": 0.06,
-    "close": 1024.2,
-    "volume": 65767,
-    "added_at": "2026-01-06T11:39:16"
-  },
-  {
-    "sr": 1,
-    "nsecode": "SOLARINDS",
-    "name": "Solar Industries India Limited",
-    "bsecode": "532725",
-    "per_chg": 0.93,
-    "close": 13452,
-    "volume": 301694,
-    "added_at": "2026-01-06T11:39:16"
-  },
-  {
     "sr": 2,
     "nsecode": "KIRLOSBROS",
     "name": "Kirloskar Brothers Limited",
@@ -58,26 +38,6 @@
     "close": 1632,
     "volume": 25247,
     "added_at": "2026-01-08T11:41:12"
-  },
-  {
-    "sr": 4,
-    "nsecode": "MANKIND",
-    "name": "Mankind Pharma Ltd",
-    "bsecode": "543904",
-    "per_chg": 3.17,
-    "close": 2311.8,
-    "volume": 980887,
-    "added_at": "2026-01-06T11:39:16"
-  },
-  {
-    "sr": 6,
-    "nsecode": "AXISCADES",
-    "name": "Axiscades Engineering Technologies Limited",
-    "bsecode": "532395",
-    "per_chg": 0.69,
-    "close": 1497.3,
-    "volume": 46225,
-    "added_at": "2026-01-06T11:39:16"
   },
   {
     "sr": 7,
@@ -118,35 +78,5 @@
     "close": 517.85,
     "volume": 12148545,
     "added_at": "2026-01-07T11:40:18"
-  },
-  {
-    "sr": 3,
-    "nsecode": "HINDUNILVR",
-    "name": "Hindustan Unilever Limited",
-    "bsecode": "500696",
-    "per_chg": 1.7,
-    "close": 2424.7,
-    "volume": 1584740,
-    "added_at": "2026-01-06T11:39:16"
-  },
-  {
-    "sr": 5,
-    "nsecode": "CIPLA",
-    "name": "Cipla Limited",
-    "bsecode": "500087",
-    "per_chg": 0.72,
-    "close": 1530.8,
-    "volume": 1614326,
-    "added_at": "2026-01-06T11:39:16"
-  },
-  {
-    "sr": 8,
-    "nsecode": "SUNDRMFAST",
-    "name": "Sundram Fasteners Limited",
-    "bsecode": "500403",
-    "per_chg": 0.31,
-    "close": 941.9,
-    "volume": 45056,
-    "added_at": "2026-01-06T11:39:16"
   }
 ]

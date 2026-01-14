@@ -4,19 +4,29 @@
     "nsecode": "APOLLOHOSP",
     "name": "Apollo Hospitals Enterprise Limited",
     "bsecode": "508869",
-    "per_chg": 0.59,
-    "close": 7311.5,
-    "volume": 275363,
+    "per_chg": -0.53,
+    "close": 7272.5,
+    "volume": 383251,
     "added_at": "2026-01-07T11:40:18"
   },
   {
     "sr": 2,
+    "nsecode": "DMART",
+    "name": "Avenue Supermarts",
+    "bsecode": "540376",
+    "per_chg": 0.09,
+    "close": 3830.3,
+    "volume": 495104,
+    "added_at": "2026-01-14T11:42:25"
+  },
+  {
+    "sr": 3,
     "nsecode": "CHEMPLASTS",
     "name": "Chemplast Sanmar Ltd",
     "bsecode": "543336",
-    "per_chg": 15.85,
-    "close": 278.15,
-    "volume": 6581627,
+    "per_chg": -1.17,
+    "close": 274.9,
+    "volume": 1253265,
     "added_at": "2026-01-13T11:40:51"
   },
   {
@@ -38,45 +48,5 @@
     "close": 1632,
     "volume": 25247,
     "added_at": "2026-01-08T11:41:12"
-  },
-  {
-    "sr": 7,
-    "nsecode": "CONCORDBIO",
-    "name": "Concord Biotech Ltd",
-    "bsecode": "543960",
-    "per_chg": 1.32,
-    "close": 1370.1,
-    "volume": 533364,
-    "added_at": "2026-01-07T11:40:18"
-  },
-  {
-    "sr": 10,
-    "nsecode": "SUDARSCHEM",
-    "name": "Sudarshan Chemical Industries Limited",
-    "bsecode": "506655",
-    "per_chg": 0.74,
-    "close": 976.4,
-    "volume": 43823,
-    "added_at": "2026-01-07T11:40:18"
-  },
-  {
-    "sr": 11,
-    "nsecode": "TATACHEM",
-    "name": "Tata Chemicals Limited",
-    "bsecode": "500770",
-    "per_chg": 3.85,
-    "close": 783.95,
-    "volume": 954660,
-    "added_at": "2026-01-07T11:40:18"
-  },
-  {
-    "sr": 12,
-    "nsecode": "ELECON",
-    "name": "Elecon Engineering Company Limited",
-    "bsecode": "505700",
-    "per_chg": 8.04,
-    "close": 517.85,
-    "volume": 12148545,
-    "added_at": "2026-01-07T11:40:18"
   }
 ]

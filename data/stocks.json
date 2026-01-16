@@ -1,13 +1,23 @@
 [
   {
     "sr": 1,
-    "nsecode": "APOLLOHOSP",
-    "name": "Apollo Hospitals Enterprise Limited",
-    "bsecode": "508869",
-    "per_chg": -0.53,
-    "close": 7272.5,
-    "volume": 383251,
-    "added_at": "2026-01-07T11:40:18"
+    "nsecode": "XPROINDIA",
+    "name": "Xpro India Limited",
+    "bsecode": "590013",
+    "per_chg": 7.77,
+    "close": 1100.9,
+    "volume": 448496,
+    "added_at": "2026-01-16T11:40:32"
+  },
+  {
+    "sr": 2,
+    "nsecode": "ANTELOPUS",
+    "name": "Antelopus Selan Energy Ltd",
+    "bsecode": "530075",
+    "per_chg": 11.95,
+    "close": 494,
+    "volume": 8962861,
+    "added_at": "2026-01-16T11:40:32"
   },
   {
     "sr": 2,
@@ -28,25 +38,5 @@
     "close": 274.9,
     "volume": 1253264,
     "added_at": "2026-01-13T11:40:51"
-  },
-  {
-    "sr": 2,
-    "nsecode": "BBL",
-    "name": "Bharat Bijlee Limited",
-    "bsecode": "503960",
-    "per_chg": -0.37,
-    "close": 2881,
-    "volume": 24544,
-    "added_at": "2026-01-09T11:39:47"
-  },
-  {
-    "sr": 2,
-    "nsecode": "KIRLOSBROS",
-    "name": "Kirloskar Brothers Limited",
-    "bsecode": "500241",
-    "per_chg": 0.17,
-    "close": 1632,
-    "volume": 25247,
-    "added_at": "2026-01-08T11:41:12"
   }
 ]

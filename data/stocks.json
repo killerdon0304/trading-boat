@@ -1,6 +1,26 @@
 [
   {
     "sr": 1,
+    "nsecode": "OFSS",
+    "name": "Oracle Financial Services Software Limited",
+    "bsecode": "532466",
+    "per_chg": 0.39,
+    "close": 7990.5,
+    "volume": 148589,
+    "added_at": "2026-01-19T11:42:44"
+  },
+  {
+    "sr": 2,
+    "nsecode": "STYLEBAAZA",
+    "name": "Baazar Style Retail Ltd",
+    "bsecode": "544243",
+    "per_chg": 13.86,
+    "close": 327.45,
+    "volume": 26459176,
+    "added_at": "2026-01-19T11:42:44"
+  },
+  {
+    "sr": 1,
     "nsecode": "XPROINDIA",
     "name": "Xpro India Limited",
     "bsecode": "590013",

@@ -1,22 +1,22 @@
 [
   {
     "sr": 1,
+    "nsecode": "STYLEBAAZA",
+    "name": "Baazar Style Retail Ltd",
+    "bsecode": "544243",
+    "per_chg": 3.47,
+    "close": 338.8,
+    "volume": 13483263,
+    "added_at": "2026-01-19T11:42:44"
+  },
+  {
+    "sr": 1,
     "nsecode": "OFSS",
     "name": "Oracle Financial Services Software Limited",
     "bsecode": "532466",
     "per_chg": 0.39,
     "close": 7990.5,
     "volume": 148589,
-    "added_at": "2026-01-19T11:42:44"
-  },
-  {
-    "sr": 2,
-    "nsecode": "STYLEBAAZA",
-    "name": "Baazar Style Retail Ltd",
-    "bsecode": "544243",
-    "per_chg": 13.86,
-    "close": 327.45,
-    "volume": 26459176,
     "added_at": "2026-01-19T11:42:44"
   },
   {
@@ -48,15 +48,5 @@
     "close": 3830.3,
     "volume": 495104,
     "added_at": "2026-01-14T11:42:25"
-  },
-  {
-    "sr": 3,
-    "nsecode": "CHEMPLASTS",
-    "name": "Chemplast Sanmar Ltd",
-    "bsecode": "543336",
-    "per_chg": -1.17,
-    "close": 274.9,
-    "volume": 1253264,
-    "added_at": "2026-01-13T11:40:51"
   }
 ]

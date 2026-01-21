@@ -1,6 +1,26 @@
 [
   {
     "sr": 1,
+    "nsecode": "INDIAMART",
+    "name": "Indiamart Intermesh Ltd",
+    "bsecode": "542726",
+    "per_chg": 5.73,
+    "close": 2264.6,
+    "volume": 668657,
+    "added_at": "2026-01-21T11:44:30"
+  },
+  {
+    "sr": 2,
+    "nsecode": "CREDITACC",
+    "name": "CreditAccess Grameen Ltd",
+    "bsecode": "541770",
+    "per_chg": 9.06,
+    "close": 1355.2,
+    "volume": 19755353,
+    "added_at": "2026-01-21T11:44:30"
+  },
+  {
+    "sr": 1,
     "nsecode": "STYLEBAAZA",
     "name": "Baazar Style Retail Ltd",
     "bsecode": "544243",
@@ -38,15 +58,5 @@
     "close": 494,
     "volume": 8962861,
     "added_at": "2026-01-16T11:40:32"
-  },
-  {
-    "sr": 2,
-    "nsecode": "DMART",
-    "name": "Avenue Supermarts",
-    "bsecode": "540376",
-    "per_chg": 0.09,
-    "close": 3830.3,
-    "volume": 495104,
-    "added_at": "2026-01-14T11:42:25"
   }
 ]

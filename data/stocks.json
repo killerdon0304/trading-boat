@@ -1,6 +1,36 @@
 [
   {
     "sr": 1,
+    "nsecode": "OFSS",
+    "name": "Oracle Financial Services Software Limited",
+    "bsecode": "532466",
+    "per_chg": 2.91,
+    "close": 7897,
+    "volume": 326205,
+    "added_at": "2026-01-19T11:42:44"
+  },
+  {
+    "sr": 2,
+    "nsecode": "CREDITACC",
+    "name": "CreditAccess Grameen Ltd",
+    "bsecode": "541770",
+    "per_chg": 6.98,
+    "close": 1449.8,
+    "volume": 10684768,
+    "added_at": "2026-01-21T11:44:30"
+  },
+  {
+    "sr": 3,
+    "nsecode": "STYLEBAAZA",
+    "name": "Baazar Style Retail Ltd",
+    "bsecode": "544243",
+    "per_chg": 5.3,
+    "close": 327.85,
+    "volume": 2871111,
+    "added_at": "2026-01-19T11:42:44"
+  },
+  {
+    "sr": 1,
     "nsecode": "INDIAMART",
     "name": "Indiamart Intermesh Ltd",
     "bsecode": "542726",
@@ -8,36 +38,6 @@
     "close": 2264.6,
     "volume": 668657,
     "added_at": "2026-01-21T11:44:30"
-  },
-  {
-    "sr": 2,
-    "nsecode": "CREDITACC",
-    "name": "CreditAccess Grameen Ltd",
-    "bsecode": "541770",
-    "per_chg": 9.06,
-    "close": 1355.2,
-    "volume": 19755353,
-    "added_at": "2026-01-21T11:44:30"
-  },
-  {
-    "sr": 1,
-    "nsecode": "STYLEBAAZA",
-    "name": "Baazar Style Retail Ltd",
-    "bsecode": "544243",
-    "per_chg": 3.47,
-    "close": 338.8,
-    "volume": 13483263,
-    "added_at": "2026-01-19T11:42:44"
-  },
-  {
-    "sr": 1,
-    "nsecode": "OFSS",
-    "name": "Oracle Financial Services Software Limited",
-    "bsecode": "532466",
-    "per_chg": 0.39,
-    "close": 7990.5,
-    "volume": 148589,
-    "added_at": "2026-01-19T11:42:44"
   },
   {
     "sr": 1,

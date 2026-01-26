@@ -6,7 +6,7 @@
     "bsecode": "532466",
     "per_chg": 0.75,
     "close": 7956,
-    "volume": 174885,
+    "volume": 174884,
     "added_at": "2026-01-19T11:42:44"
   },
   {
@@ -16,8 +16,18 @@
     "bsecode": "542726",
     "per_chg": -0.79,
     "close": 2194,
-    "volume": 112179,
+    "volume": 112154,
     "added_at": "2026-01-21T11:44:30"
+  },
+  {
+    "sr": 3,
+    "nsecode": "STYLEBAAZA",
+    "name": "Baazar Style Retail Ltd",
+    "bsecode": "544243",
+    "per_chg": 2.06,
+    "close": 334.6,
+    "volume": 2269145,
+    "added_at": "2026-01-19T11:42:44"
   },
   {
     "sr": 3,
@@ -38,16 +48,6 @@
     "close": 1112.8,
     "volume": 3110228,
     "added_at": "2026-01-23T11:42:10"
-  },
-  {
-    "sr": 5,
-    "nsecode": "STYLEBAAZA",
-    "name": "Baazar Style Retail Ltd",
-    "bsecode": "544243",
-    "per_chg": 2.06,
-    "close": 334.6,
-    "volume": 2269978,
-    "added_at": "2026-01-19T11:42:44"
   },
   {
     "sr": 2,

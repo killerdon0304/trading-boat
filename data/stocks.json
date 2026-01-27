@@ -1,13 +1,23 @@
 [
   {
     "sr": 1,
-    "nsecode": "OFSS",
-    "name": "Oracle Financial Services Software Limited",
-    "bsecode": "532466",
-    "per_chg": 0.75,
-    "close": 7956,
-    "volume": 174884,
-    "added_at": "2026-01-19T11:42:44"
+    "nsecode": "AAVAS",
+    "name": "AAVAS Financiers Ltd",
+    "bsecode": "541988",
+    "per_chg": 0.37,
+    "close": 1485,
+    "volume": 178601,
+    "added_at": "2026-01-23T11:42:10"
+  },
+  {
+    "sr": 2,
+    "nsecode": "HOMEFIRST",
+    "name": "Home First Finance Company India Ltd",
+    "bsecode": "543259",
+    "per_chg": 12.48,
+    "close": 1251.7,
+    "volume": 7833187,
+    "added_at": "2026-01-23T11:42:10"
   },
   {
     "sr": 2,
@@ -18,36 +28,6 @@
     "close": 2194,
     "volume": 112154,
     "added_at": "2026-01-21T11:44:30"
-  },
-  {
-    "sr": 3,
-    "nsecode": "STYLEBAAZA",
-    "name": "Baazar Style Retail Ltd",
-    "bsecode": "544243",
-    "per_chg": 2.06,
-    "close": 334.6,
-    "volume": 2269145,
-    "added_at": "2026-01-19T11:42:44"
-  },
-  {
-    "sr": 3,
-    "nsecode": "AAVAS",
-    "name": "AAVAS Financiers Ltd",
-    "bsecode": "541988",
-    "per_chg": 1.14,
-    "close": 1479.5,
-    "volume": 227964,
-    "added_at": "2026-01-23T11:42:10"
-  },
-  {
-    "sr": 4,
-    "nsecode": "HOMEFIRST",
-    "name": "Home First Finance Company India Ltd",
-    "bsecode": "543259",
-    "per_chg": 6.12,
-    "close": 1112.8,
-    "volume": 3110228,
-    "added_at": "2026-01-23T11:42:10"
   },
   {
     "sr": 2,

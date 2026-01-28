@@ -4,10 +4,20 @@
     "nsecode": "AAVAS",
     "name": "AAVAS Financiers Ltd",
     "bsecode": "541988",
-    "per_chg": 0.37,
-    "close": 1485,
-    "volume": 178601,
+    "per_chg": 0.5,
+    "close": 1493,
+    "volume": 122572,
     "added_at": "2026-01-23T11:42:10"
+  },
+  {
+    "sr": 2,
+    "nsecode": "GOCOLORS",
+    "name": "Go Fashion (India) Ltd",
+    "bsecode": "543401",
+    "per_chg": 2.9,
+    "close": 418.3,
+    "volume": 294906,
+    "added_at": "2026-01-28T11:43:23"
   },
   {
     "sr": 2,

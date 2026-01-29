@@ -1,6 +1,36 @@
 [
   {
     "sr": 1,
+    "nsecode": "ABB",
+    "name": "Abb India Limited",
+    "bsecode": "500002",
+    "per_chg": 8.54,
+    "close": 5474,
+    "volume": 2492312,
+    "added_at": "2026-01-29T11:51:29"
+  },
+  {
+    "sr": 2,
+    "nsecode": "HOMEFIRST",
+    "name": "Home First Finance Company India Ltd",
+    "bsecode": "543259",
+    "per_chg": 3.22,
+    "close": 1229.2,
+    "volume": 647506,
+    "added_at": "2026-01-23T11:42:10"
+  },
+  {
+    "sr": 3,
+    "nsecode": "SHYAMMETL",
+    "name": "Shyam Metalics & Energy Ltd",
+    "bsecode": "543299",
+    "per_chg": 4.13,
+    "close": 870.75,
+    "volume": 353875,
+    "added_at": "2026-01-29T11:51:29"
+  },
+  {
+    "sr": 1,
     "nsecode": "AAVAS",
     "name": "AAVAS Financiers Ltd",
     "bsecode": "541988",
@@ -18,35 +48,5 @@
     "close": 418.3,
     "volume": 294906,
     "added_at": "2026-01-28T11:43:23"
-  },
-  {
-    "sr": 2,
-    "nsecode": "HOMEFIRST",
-    "name": "Home First Finance Company India Ltd",
-    "bsecode": "543259",
-    "per_chg": 12.48,
-    "close": 1251.7,
-    "volume": 7833187,
-    "added_at": "2026-01-23T11:42:10"
-  },
-  {
-    "sr": 2,
-    "nsecode": "INDIAMART",
-    "name": "Indiamart Intermesh Ltd",
-    "bsecode": "542726",
-    "per_chg": -0.79,
-    "close": 2194,
-    "volume": 112154,
-    "added_at": "2026-01-21T11:44:30"
-  },
-  {
-    "sr": 2,
-    "nsecode": "CREDITACC",
-    "name": "CreditAccess Grameen Ltd",
-    "bsecode": "541770",
-    "per_chg": 6.98,
-    "close": 1449.8,
-    "volume": 10684768,
-    "added_at": "2026-01-21T11:44:30"
   }
 ]

@@ -1,6 +1,86 @@
 [
   {
     "sr": 1,
+    "nsecode": "SIEMENS",
+    "name": "Siemens Limited",
+    "bsecode": "500550",
+    "per_chg": 3.63,
+    "close": 3089.9,
+    "volume": 211380,
+    "added_at": "2026-02-02T11:55:17"
+  },
+  {
+    "sr": 2,
+    "nsecode": "WAAREEENER",
+    "name": "Waaree Energies Ltd",
+    "bsecode": "544277",
+    "per_chg": 5.58,
+    "close": 2795.1,
+    "volume": 1511526,
+    "added_at": "2026-02-02T11:55:17"
+  },
+  {
+    "sr": 3,
+    "nsecode": "BLUESTARCO",
+    "name": "Blue Star Limited",
+    "bsecode": "500067",
+    "per_chg": 2.5,
+    "close": 1838.2,
+    "volume": 433710,
+    "added_at": "2026-02-02T11:55:17"
+  },
+  {
+    "sr": 4,
+    "nsecode": "LALPATHLAB",
+    "name": "Dr. Lal Path Labs Ltd.",
+    "bsecode": "539524",
+    "per_chg": -0.31,
+    "close": 1425.1,
+    "volume": 222136,
+    "added_at": "2026-02-02T11:55:17"
+  },
+  {
+    "sr": 5,
+    "nsecode": "KSCL",
+    "name": "Kaveri Seed Company Limited",
+    "bsecode": "532899",
+    "per_chg": 2.43,
+    "close": 910,
+    "volume": 79556,
+    "added_at": "2026-02-02T11:55:17"
+  },
+  {
+    "sr": 6,
+    "nsecode": "GARFIBRES",
+    "name": "Garware Technical Fibres Ltd",
+    "bsecode": "509557",
+    "per_chg": 0.95,
+    "close": 640.7,
+    "volume": 45885,
+    "added_at": "2026-02-02T11:55:17"
+  },
+  {
+    "sr": 7,
+    "nsecode": "AARTIDRUGS",
+    "name": "Aarti Drugs Limited",
+    "bsecode": "524348",
+    "per_chg": 0.63,
+    "close": 383.55,
+    "volume": 59865,
+    "added_at": "2026-02-02T11:55:17"
+  },
+  {
+    "sr": 8,
+    "nsecode": "MOSCHIP",
+    "name": "Moschip Technologies Ltd",
+    "bsecode": "532407",
+    "per_chg": 3.75,
+    "close": 201.45,
+    "volume": 4578550,
+    "added_at": "2026-02-02T11:55:17"
+  },
+  {
+    "sr": 1,
     "nsecode": "ABB",
     "name": "Abb India Limited",
     "bsecode": "500002",
@@ -28,16 +108,6 @@
     "close": 1659.9,
     "volume": 1986901,
     "added_at": "2026-01-30T11:49:06"
-  },
-  {
-    "sr": 4,
-    "nsecode": "AAVAS",
-    "name": "AAVAS Financiers Ltd",
-    "bsecode": "541988",
-    "per_chg": -0.13,
-    "close": 1461.3,
-    "volume": 152451,
-    "added_at": "2026-01-23T11:42:10"
   },
   {
     "sr": 5,

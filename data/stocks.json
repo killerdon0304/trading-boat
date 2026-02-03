@@ -1,23 +1,133 @@
 [
   {
     "sr": 1,
-    "nsecode": "SIEMENS",
-    "name": "Siemens Limited",
-    "bsecode": "500550",
-    "per_chg": 3.63,
-    "close": 3089.9,
-    "volume": 211380,
-    "added_at": "2026-02-02T11:55:17"
+    "nsecode": "APARINDS",
+    "name": "Apar Industries Limited",
+    "bsecode": "532259",
+    "per_chg": 19.56,
+    "close": 9759,
+    "volume": 973633,
+    "added_at": "2026-02-03T11:55:49"
   },
   {
     "sr": 2,
+    "nsecode": "SIEMENS",
+    "name": "Siemens Limited",
+    "bsecode": "500550",
+    "per_chg": 4.05,
+    "close": 3215,
+    "volume": 555228,
+    "added_at": "2026-02-02T11:55:17"
+  },
+  {
+    "sr": 3,
     "nsecode": "WAAREEENER",
     "name": "Waaree Energies Ltd",
     "bsecode": "544277",
-    "per_chg": 5.58,
-    "close": 2795.1,
-    "volume": 1511526,
+    "per_chg": 10.99,
+    "close": 3102.4,
+    "volume": 8624667,
     "added_at": "2026-02-02T11:55:17"
+  },
+  {
+    "sr": 4,
+    "nsecode": "TIINDIA",
+    "name": "Tube Investments of India Ltd",
+    "bsecode": "540762",
+    "per_chg": 8.1,
+    "close": 2503.3,
+    "volume": 746504,
+    "added_at": "2026-02-03T11:55:49"
+  },
+  {
+    "sr": 5,
+    "nsecode": "KIRLOSBROS",
+    "name": "Kirloskar Brothers Limited",
+    "bsecode": "500241",
+    "per_chg": 4.84,
+    "close": 1600.6,
+    "volume": 142247,
+    "added_at": "2026-02-03T11:55:49"
+  },
+  {
+    "sr": 6,
+    "nsecode": "AVALON",
+    "name": "Avalon Technologies Ltd",
+    "bsecode": "543896",
+    "per_chg": 20,
+    "close": 1022.7,
+    "volume": 467309,
+    "added_at": "2026-02-03T11:55:49"
+  },
+  {
+    "sr": 7,
+    "nsecode": "CHALET",
+    "name": "Chalet Hotels Ltd",
+    "bsecode": "542399",
+    "per_chg": 4.63,
+    "close": 895.65,
+    "volume": 365363,
+    "added_at": "2026-02-03T11:55:49"
+  },
+  {
+    "sr": 8,
+    "nsecode": "INDIASHLTR",
+    "name": "India Shelter Finance Corporation Ltd",
+    "bsecode": "544044",
+    "per_chg": 2.49,
+    "close": 810,
+    "volume": 272825,
+    "added_at": "2026-02-03T11:55:49"
+  },
+  {
+    "sr": 9,
+    "nsecode": "CGPOWER",
+    "name": "CG Power and Industrial Solutions Ltd",
+    "bsecode": "500093",
+    "per_chg": 8.75,
+    "close": 661.55,
+    "volume": 14524072,
+    "added_at": "2026-02-03T11:55:49"
+  },
+  {
+    "sr": 10,
+    "nsecode": "TRANSRAILL",
+    "name": "Transrail Lighting Ltd",
+    "bsecode": "544317",
+    "per_chg": 9.36,
+    "close": 543.25,
+    "volume": 1659223,
+    "added_at": "2026-02-03T11:55:49"
+  },
+  {
+    "sr": 11,
+    "nsecode": "SARDAEN",
+    "name": "Sarda Energy & Minerals Limited",
+    "bsecode": "504614",
+    "per_chg": 3.56,
+    "close": 504.5,
+    "volume": 442105,
+    "added_at": "2026-02-03T11:55:49"
+  },
+  {
+    "sr": 12,
+    "nsecode": "TSFINV",
+    "name": "Tsf Investments Ltd",
+    "bsecode": "535060",
+    "per_chg": 5.84,
+    "close": 455.25,
+    "volume": 156282,
+    "added_at": "2026-02-03T11:55:49"
+  },
+  {
+    "sr": 13,
+    "nsecode": "ELECON",
+    "name": "Elecon Engineering Company Limited",
+    "bsecode": "505700",
+    "per_chg": 11.29,
+    "close": 447.05,
+    "volume": 1643655,
+    "added_at": "2026-02-03T11:55:49"
   },
   {
     "sr": 3,

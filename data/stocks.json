@@ -1,22 +1,22 @@
 [
   {
     "sr": 1,
-    "nsecode": "FINEORG",
-    "name": "Fine Organic Industries Ltd",
-    "bsecode": "541557",
-    "per_chg": -0.13,
-    "close": 4515,
-    "volume": 9895,
-    "added_at": "2026-02-04T11:53:13"
+    "nsecode": "APARINDS",
+    "name": "Apar Industries Limited",
+    "bsecode": "532259",
+    "per_chg": 0.62,
+    "close": 9535,
+    "volume": 78713,
+    "added_at": "2026-02-03T11:55:49"
   },
   {
     "sr": 2,
     "nsecode": "GRWRHITECH",
     "name": "Garware Hi Tech Films Ltd",
     "bsecode": "500655",
-    "per_chg": 11.56,
-    "close": 4360.3,
-    "volume": 806523,
+    "per_chg": -4.77,
+    "close": 4152.2,
+    "volume": 190745,
     "added_at": "2026-02-04T11:53:13"
   },
   {
@@ -24,9 +24,169 @@
     "nsecode": "TRENT",
     "name": "Trent Limited",
     "bsecode": "500251",
-    "per_chg": 4.96,
-    "close": 4012.6,
-    "volume": 1925540,
+    "per_chg": 2.96,
+    "close": 4131.3,
+    "volume": 3837832,
+    "added_at": "2026-02-04T11:53:13"
+  },
+  {
+    "sr": 4,
+    "nsecode": "HDFCAMC",
+    "name": "HDFC Asset Management Company Ltd",
+    "bsecode": "541729",
+    "per_chg": 1.37,
+    "close": 2762.3,
+    "volume": 2336550,
+    "added_at": "2026-02-04T11:53:13"
+  },
+  {
+    "sr": 5,
+    "nsecode": "ENRIN",
+    "name": "Siemens Energy India Ltd",
+    "bsecode": null,
+    "per_chg": -0.22,
+    "close": 2598.9,
+    "volume": 194559,
+    "added_at": "2026-02-04T11:53:13"
+  },
+  {
+    "sr": 6,
+    "nsecode": "MASTEK",
+    "name": "Mastek Limited",
+    "bsecode": "523704",
+    "per_chg": 0.13,
+    "close": 2071.9,
+    "volume": 162390,
+    "added_at": "2026-02-05T11:55:28"
+  },
+  {
+    "sr": 7,
+    "nsecode": "MANORAMA",
+    "name": "Manorama Industries Ltd",
+    "bsecode": "541974",
+    "per_chg": 3.17,
+    "close": 1420.3,
+    "volume": 218676,
+    "added_at": "2026-02-04T11:53:13"
+  },
+  {
+    "sr": 8,
+    "nsecode": "POKARNA",
+    "name": "Pokarna Limited",
+    "bsecode": "532486",
+    "per_chg": 15.89,
+    "close": 1106.95,
+    "volume": 5777993,
+    "added_at": "2026-02-04T11:53:13"
+  },
+  {
+    "sr": 9,
+    "nsecode": "ACE",
+    "name": "Action Construction Equipment Limited",
+    "bsecode": "532762",
+    "per_chg": 2.25,
+    "close": 895.2,
+    "volume": 292110,
+    "added_at": "2026-02-05T11:55:28"
+  },
+  {
+    "sr": 10,
+    "nsecode": "SYRMA",
+    "name": "Syrma SGS Technology Ltd",
+    "bsecode": "543573",
+    "per_chg": 1.22,
+    "close": 860.6,
+    "volume": 1846024,
+    "added_at": "2026-02-04T11:53:13"
+  },
+  {
+    "sr": 11,
+    "nsecode": "WELCORP",
+    "name": "Welspun Corp Limited",
+    "bsecode": "532144",
+    "per_chg": 2.81,
+    "close": 838.65,
+    "volume": 747692,
+    "added_at": "2026-02-05T11:55:28"
+  },
+  {
+    "sr": 12,
+    "nsecode": "QPOWER",
+    "name": "Quality Power Electrical Equipments Ltd",
+    "bsecode": "544367",
+    "per_chg": 6.83,
+    "close": 816.65,
+    "volume": 7116496,
+    "added_at": "2026-02-04T11:53:13"
+  },
+  {
+    "sr": 13,
+    "nsecode": "SFL",
+    "name": "Sheela Foam Limited",
+    "bsecode": "540203",
+    "per_chg": 1.54,
+    "close": 610.55,
+    "volume": 1239809,
+    "added_at": "2026-02-04T11:53:13"
+  },
+  {
+    "sr": 14,
+    "nsecode": "GALLANTT",
+    "name": "Gallant Ispat Ltd",
+    "bsecode": "532726",
+    "per_chg": 0.9,
+    "close": 591.1,
+    "volume": 469081,
+    "added_at": "2026-02-04T11:53:13"
+  },
+  {
+    "sr": 15,
+    "nsecode": "SARDAEN",
+    "name": "Sarda Energy & Minerals Limited",
+    "bsecode": "504614",
+    "per_chg": 1.55,
+    "close": 529.45,
+    "volume": 735193,
+    "added_at": "2026-02-03T11:55:49"
+  },
+  {
+    "sr": 16,
+    "nsecode": "RISHABH",
+    "name": "Rishabh Instruments Ltd",
+    "bsecode": "543977",
+    "per_chg": 3.08,
+    "close": 424,
+    "volume": 60856,
+    "added_at": "2026-02-04T11:53:13"
+  },
+  {
+    "sr": 17,
+    "nsecode": "SHOPERSTOP",
+    "name": "Shoppers Stop Limited",
+    "bsecode": "532638",
+    "per_chg": 0.75,
+    "close": 391.6,
+    "volume": 11899,
+    "added_at": "2026-02-04T11:53:13"
+  },
+  {
+    "sr": 18,
+    "nsecode": "PRINCEPIPE",
+    "name": "Prince Pipes & Fittings Ltd",
+    "bsecode": "542907",
+    "per_chg": 4.69,
+    "close": 262.1,
+    "volume": 335040,
+    "added_at": "2026-02-04T11:53:13"
+  },
+  {
+    "sr": 1,
+    "nsecode": "FINEORG",
+    "name": "Fine Organic Industries Ltd",
+    "bsecode": "541557",
+    "per_chg": -0.13,
+    "close": 4515,
+    "volume": 9895,
     "added_at": "2026-02-04T11:53:13"
   },
   {
@@ -60,16 +220,6 @@
     "added_at": "2026-02-02T11:55:17"
   },
   {
-    "sr": 7,
-    "nsecode": "HDFCAMC",
-    "name": "HDFC Asset Management Company Ltd",
-    "bsecode": "541729",
-    "per_chg": 2.01,
-    "close": 2725,
-    "volume": 2931906,
-    "added_at": "2026-02-04T11:53:13"
-  },
-  {
     "sr": 8,
     "nsecode": "TIINDIA",
     "name": "Tube Investments of India Ltd",
@@ -78,16 +228,6 @@
     "close": 2637.4,
     "volume": 858541,
     "added_at": "2026-02-03T11:55:49"
-  },
-  {
-    "sr": 9,
-    "nsecode": "ENRIN",
-    "name": "Siemens Energy India Ltd",
-    "bsecode": null,
-    "per_chg": 2.96,
-    "close": 2604.6,
-    "volume": 948675,
-    "added_at": "2026-02-04T11:53:13"
   },
   {
     "sr": 10,
@@ -138,16 +278,6 @@
     "close": 1880.2,
     "volume": 941831,
     "added_at": "2026-02-02T11:55:17"
-  },
-  {
-    "sr": 15,
-    "nsecode": "MANORAMA",
-    "name": "Manorama Industries Ltd",
-    "bsecode": "541974",
-    "per_chg": 2.84,
-    "close": 1386,
-    "volume": 154444,
-    "added_at": "2026-02-04T11:53:13"
   },
   {
     "sr": 16,
@@ -220,16 +350,6 @@
     "added_at": "2026-02-04T11:53:13"
   },
   {
-    "sr": 23,
-    "nsecode": "POKARNA",
-    "name": "Pokarna Limited",
-    "bsecode": "532486",
-    "per_chg": 9.41,
-    "close": 955.2,
-    "volume": 4237272,
-    "added_at": "2026-02-04T11:53:13"
-  },
-  {
     "sr": 24,
     "nsecode": "KSCL",
     "name": "Kaveri Seed Company Limited",
@@ -260,16 +380,6 @@
     "added_at": "2026-02-04T11:53:13"
   },
   {
-    "sr": 27,
-    "nsecode": "SYRMA",
-    "name": "Syrma SGS Technology Ltd",
-    "bsecode": "543573",
-    "per_chg": 3.66,
-    "close": 850.2,
-    "volume": 2456047,
-    "added_at": "2026-02-04T11:53:13"
-  },
-  {
     "sr": 28,
     "nsecode": "KSL",
     "name": "Kalyani Steels Limited",
@@ -277,16 +387,6 @@
     "per_chg": 10.11,
     "close": 780.7,
     "volume": 426738,
-    "added_at": "2026-02-04T11:53:13"
-  },
-  {
-    "sr": 29,
-    "nsecode": "QPOWER",
-    "name": "Quality Power Electrical Equipments Ltd",
-    "bsecode": "544367",
-    "per_chg": 2.79,
-    "close": 764.45,
-    "volume": 950345,
     "added_at": "2026-02-04T11:53:13"
   },
   {
@@ -330,26 +430,6 @@
     "added_at": "2026-02-04T11:53:13"
   },
   {
-    "sr": 34,
-    "nsecode": "SFL",
-    "name": "Sheela Foam Limited",
-    "bsecode": "540203",
-    "per_chg": 14.84,
-    "close": 601.3,
-    "volume": 3811376,
-    "added_at": "2026-02-04T11:53:13"
-  },
-  {
-    "sr": 35,
-    "nsecode": "GALLANTT",
-    "name": "Gallant Ispat Ltd",
-    "bsecode": "532726",
-    "per_chg": 5.04,
-    "close": 585.85,
-    "volume": 144858,
-    "added_at": "2026-02-04T11:53:13"
-  },
-  {
     "sr": 36,
     "nsecode": "TRANSRAILL",
     "name": "Transrail Lighting Ltd",
@@ -357,16 +437,6 @@
     "per_chg": 3.02,
     "close": 559.65,
     "volume": 788077,
-    "added_at": "2026-02-03T11:55:49"
-  },
-  {
-    "sr": 37,
-    "nsecode": "SARDAEN",
-    "name": "Sarda Energy & Minerals Limited",
-    "bsecode": "504614",
-    "per_chg": 3.34,
-    "close": 521.35,
-    "volume": 594077,
     "added_at": "2026-02-03T11:55:49"
   },
   {
@@ -420,16 +490,6 @@
     "added_at": "2026-02-04T11:53:13"
   },
   {
-    "sr": 43,
-    "nsecode": "RISHABH",
-    "name": "Rishabh Instruments Ltd",
-    "bsecode": "543977",
-    "per_chg": 2.58,
-    "close": 411.35,
-    "volume": 79059,
-    "added_at": "2026-02-04T11:53:13"
-  },
-  {
     "sr": 44,
     "nsecode": "JASH",
     "name": "Jash Engineering Ltd",
@@ -437,16 +497,6 @@
     "per_chg": -0.49,
     "close": 407.45,
     "volume": 111733,
-    "added_at": "2026-02-04T11:53:13"
-  },
-  {
-    "sr": 45,
-    "nsecode": "SHOPERSTOP",
-    "name": "Shoppers Stop Limited",
-    "bsecode": "532638",
-    "per_chg": 0.75,
-    "close": 388,
-    "volume": 52244,
     "added_at": "2026-02-04T11:53:13"
   },
   {
@@ -470,16 +520,6 @@
     "added_at": "2026-02-04T11:53:13"
   },
   {
-    "sr": 48,
-    "nsecode": "PRINCEPIPE",
-    "name": "Prince Pipes & Fittings Ltd",
-    "bsecode": "542907",
-    "per_chg": 3.73,
-    "close": 250.35,
-    "volume": 127002,
-    "added_at": "2026-02-04T11:53:13"
-  },
-  {
     "sr": 49,
     "nsecode": "ACMESOLAR",
     "name": "ACME Solar Holdings Ltd",
@@ -488,16 +528,6 @@
     "close": 228.73,
     "volume": 1928985,
     "added_at": "2026-02-04T11:53:13"
-  },
-  {
-    "sr": 1,
-    "nsecode": "APARINDS",
-    "name": "Apar Industries Limited",
-    "bsecode": "532259",
-    "per_chg": 19.56,
-    "close": 9759,
-    "volume": 973633,
-    "added_at": "2026-02-03T11:55:49"
   },
   {
     "sr": 5,
@@ -580,16 +610,6 @@
     "added_at": "2026-02-02T11:55:17"
   },
   {
-    "sr": 1,
-    "nsecode": "ABB",
-    "name": "Abb India Limited",
-    "bsecode": "500002",
-    "per_chg": 1.91,
-    "close": 5578.5,
-    "volume": 634938,
-    "added_at": "2026-01-29T11:51:29"
-  },
-  {
     "sr": 2,
     "nsecode": "GRSE",
     "name": "Garden Reach Shipbuilders & Engineers Ltd",
@@ -638,15 +658,5 @@
     "close": 422.95,
     "volume": 6406119,
     "added_at": "2026-01-30T11:49:06"
-  },
-  {
-    "sr": 3,
-    "nsecode": "SHYAMMETL",
-    "name": "Shyam Metalics & Energy Ltd",
-    "bsecode": "543299",
-    "per_chg": 4.13,
-    "close": 870.75,
-    "volume": 353875,
-    "added_at": "2026-01-29T11:51:29"
   }
 ]

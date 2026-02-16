@@ -1,6 +1,46 @@
 [
   {
     "sr": 1,
+    "nsecode": "GODREJPROP",
+    "name": "Godrej Properties Limited",
+    "bsecode": "533150",
+    "per_chg": 1.44,
+    "close": 1832.7,
+    "volume": 1100805,
+    "added_at": "2026-02-16T11:58:32"
+  },
+  {
+    "sr": 2,
+    "nsecode": "ASTERDM",
+    "name": "Aster DM Healthcare Ltd",
+    "bsecode": "540975",
+    "per_chg": 3.46,
+    "close": 620.65,
+    "volume": 925954,
+    "added_at": "2026-02-16T11:58:32"
+  },
+  {
+    "sr": 3,
+    "nsecode": "SWIGGY",
+    "name": "Swiggy Ltd",
+    "bsecode": "544285",
+    "per_chg": 1.29,
+    "close": 342,
+    "volume": 6962769,
+    "added_at": "2026-02-16T11:58:32"
+  },
+  {
+    "sr": 4,
+    "nsecode": "DIFFNKG",
+    "name": "Diffusion Engineers Ltd",
+    "bsecode": "544264",
+    "per_chg": 1.42,
+    "close": 274.9,
+    "volume": 101693,
+    "added_at": "2026-02-16T11:58:32"
+  },
+  {
+    "sr": 1,
     "nsecode": "EICHERMOT",
     "name": "Eicher Motors Limited",
     "bsecode": "505200",
@@ -738,95 +778,5 @@
     "close": 240.98,
     "volume": 3177259,
     "added_at": "2026-02-09T12:02:04"
-  },
-  {
-    "sr": 1,
-    "nsecode": "PAGEIND",
-    "name": "Page Industries Limited",
-    "bsecode": "532827",
-    "per_chg": -0.22,
-    "close": 35560,
-    "volume": 34565,
-    "added_at": "2026-02-06T11:53:57"
-  },
-  {
-    "sr": 3,
-    "nsecode": "APOLLOHOSP",
-    "name": "Apollo Hospitals Enterprise Limited",
-    "bsecode": "508869",
-    "per_chg": 0.43,
-    "close": 7152.5,
-    "volume": 668962,
-    "added_at": "2026-02-06T11:53:57"
-  },
-  {
-    "sr": 4,
-    "nsecode": "AMBER",
-    "name": "Amber Enterprises India Ltd",
-    "bsecode": "540902",
-    "per_chg": 3.76,
-    "close": 6640,
-    "volume": 442276,
-    "added_at": "2026-02-06T11:53:57"
-  },
-  {
-    "sr": 9,
-    "nsecode": "DATAPATTNS",
-    "name": "Data Patterns (India) Ltd",
-    "bsecode": "543428",
-    "per_chg": 7.93,
-    "close": 2723.7,
-    "volume": 3563960,
-    "added_at": "2026-02-06T11:53:57"
-  },
-  {
-    "sr": 12,
-    "nsecode": "METROPOLIS",
-    "name": "Metropolis Healthcare Ltd",
-    "bsecode": "542650",
-    "per_chg": 0.73,
-    "close": 1986.9,
-    "volume": 84253,
-    "added_at": "2026-02-06T11:53:57"
-  },
-  {
-    "sr": 15,
-    "nsecode": "MGL",
-    "name": "Mahanagar Gas Limited",
-    "bsecode": "539957",
-    "per_chg": 7.57,
-    "close": 1152.6,
-    "volume": 1212648,
-    "added_at": "2026-02-06T11:53:57"
-  },
-  {
-    "sr": 20,
-    "nsecode": "LICI",
-    "name": "Life Insurance Corporation of India",
-    "bsecode": "543526",
-    "per_chg": 7.4,
-    "close": 901.85,
-    "volume": 15819930,
-    "added_at": "2026-02-06T11:53:57"
-  },
-  {
-    "sr": 22,
-    "nsecode": "WHIRLPOOL",
-    "name": "Whirlpool Of India Limited",
-    "bsecode": "500238",
-    "per_chg": 2.68,
-    "close": 854.65,
-    "volume": 591847,
-    "added_at": "2026-02-06T11:53:57"
-  },
-  {
-    "sr": 27,
-    "nsecode": "FAZE3Q",
-    "name": "Faze Three Ltd",
-    "bsecode": "530079",
-    "per_chg": 0.7,
-    "close": 520,
-    "volume": 197347,
-    "added_at": "2026-02-06T11:53:57"
   }
 ]

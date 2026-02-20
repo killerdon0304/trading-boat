@@ -4,9 +4,9 @@
     "nsecode": "NETWEB",
     "name": "Netweb Technologies India Ltd",
     "bsecode": "543945",
-    "per_chg": 4.55,
-    "close": 3527.9,
-    "volume": 7729403,
+    "per_chg": 3.08,
+    "close": 3636.5,
+    "volume": 7164730,
     "added_at": "2026-02-18T11:58:43"
   },
   {
@@ -14,20 +14,70 @@
     "nsecode": "RATNAMANI",
     "name": "Ratnamani Metals & Tubes Limited",
     "bsecode": "520111",
-    "per_chg": -0.71,
-    "close": 2476.8,
-    "volume": 172821,
+    "per_chg": 1.13,
+    "close": 2504.8,
+    "volume": 84698,
     "added_at": "2026-02-19T11:59:13"
   },
   {
     "sr": 3,
+    "nsecode": "GODREJPROP",
+    "name": "Godrej Properties Limited",
+    "bsecode": "533150",
+    "per_chg": 0.08,
+    "close": 1825.7,
+    "volume": 1044407,
+    "added_at": "2026-02-16T11:58:32"
+  },
+  {
+    "sr": 4,
+    "nsecode": "INDOTECH",
+    "name": "Indo Tech Transformers Limited",
+    "bsecode": "532717",
+    "per_chg": -0.6,
+    "close": 1417.4,
+    "volume": 33471,
+    "added_at": "2026-02-20T11:51:52"
+  },
+  {
+    "sr": 5,
     "nsecode": "TATAINVEST",
     "name": "Tata Investment Corporation Limited",
     "bsecode": "501301",
-    "per_chg": 7.5,
-    "close": 692.3,
-    "volume": 23162851,
+    "per_chg": 2.14,
+    "close": 707.1,
+    "volume": 15006583,
     "added_at": "2026-02-19T11:59:13"
+  },
+  {
+    "sr": 6,
+    "nsecode": "BALUFORGE",
+    "name": "Balu Forge Industries Ltd",
+    "bsecode": "531112",
+    "per_chg": 1.67,
+    "close": 492.1,
+    "volume": 405719,
+    "added_at": "2026-02-17T11:58:43"
+  },
+  {
+    "sr": 7,
+    "nsecode": "INDRAMEDCO",
+    "name": "Indraprastha Medical Corporation Limited",
+    "bsecode": "532150",
+    "per_chg": 1.37,
+    "close": 411.35,
+    "volume": 169283,
+    "added_at": "2026-02-17T11:58:43"
+  },
+  {
+    "sr": 8,
+    "nsecode": "JSFB",
+    "name": "Jana Small Finance Bank Ltd",
+    "bsecode": null,
+    "per_chg": 0.24,
+    "close": 381.5,
+    "volume": 307096,
+    "added_at": "2026-02-17T11:58:43"
   },
   {
     "sr": 4,
@@ -47,46 +97,6 @@
     "per_chg": 2.61,
     "close": 515.2,
     "volume": 148850,
-    "added_at": "2026-02-17T11:58:43"
-  },
-  {
-    "sr": 2,
-    "nsecode": "GODREJPROP",
-    "name": "Godrej Properties Limited",
-    "bsecode": "533150",
-    "per_chg": 2.17,
-    "close": 1885.1,
-    "volume": 1207700,
-    "added_at": "2026-02-16T11:58:32"
-  },
-  {
-    "sr": 3,
-    "nsecode": "BALUFORGE",
-    "name": "Balu Forge Industries Ltd",
-    "bsecode": "531112",
-    "per_chg": 1.5,
-    "close": 503.3,
-    "volume": 1027786,
-    "added_at": "2026-02-17T11:58:43"
-  },
-  {
-    "sr": 5,
-    "nsecode": "INDRAMEDCO",
-    "name": "Indraprastha Medical Corporation Limited",
-    "bsecode": "532150",
-    "per_chg": 0.63,
-    "close": 420.35,
-    "volume": 154927,
-    "added_at": "2026-02-17T11:58:43"
-  },
-  {
-    "sr": 7,
-    "nsecode": "JSFB",
-    "name": "Jana Small Finance Bank Ltd",
-    "bsecode": null,
-    "per_chg": 2.38,
-    "close": 395,
-    "volume": 657618,
     "added_at": "2026-02-17T11:58:43"
   },
   {
@@ -118,45 +128,5 @@
     "close": 1422.1,
     "volume": 295622,
     "added_at": "2026-02-13T11:52:21"
-  },
-  {
-    "sr": 9,
-    "nsecode": "BAJFINANCE",
-    "name": "Bajaj Finance Limited",
-    "bsecode": "500034",
-    "per_chg": 2.57,
-    "close": 1024.75,
-    "volume": 21613987,
-    "added_at": "2026-02-12T12:00:06"
-  },
-  {
-    "sr": 3,
-    "nsecode": "TIINDIA",
-    "name": "Tube Investments of India Ltd",
-    "bsecode": "540762",
-    "per_chg": 2.5,
-    "close": 2511.4,
-    "volume": 530726,
-    "added_at": "2026-02-12T12:00:06"
-  },
-  {
-    "sr": 5,
-    "nsecode": "ERIS",
-    "name": "Eris Lifesciences",
-    "bsecode": "540596",
-    "per_chg": 2.8,
-    "close": 1510.4,
-    "volume": 157281,
-    "added_at": "2026-02-12T12:00:06"
-  },
-  {
-    "sr": 14,
-    "nsecode": "ASALCBR",
-    "name": "Associated Alcohols & Breweries Ltd",
-    "bsecode": "507526",
-    "per_chg": 1.39,
-    "close": 890.6,
-    "volume": 78364,
-    "added_at": "2026-02-12T12:00:06"
   }
 ]

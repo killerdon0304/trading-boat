@@ -1,6 +1,26 @@
 [
   {
     "sr": 1,
+    "nsecode": "KPIL",
+    "name": "Kalpataru Projects International Ltd",
+    "bsecode": "522287",
+    "per_chg": 4.53,
+    "close": 1187,
+    "volume": 364726,
+    "added_at": "2026-02-23T11:58:11"
+  },
+  {
+    "sr": 2,
+    "nsecode": "AEGISLOG",
+    "name": "Aegis Logistics Ltd",
+    "bsecode": "500003",
+    "per_chg": 1.35,
+    "close": 702.4,
+    "volume": 241366,
+    "added_at": "2026-02-23T11:58:11"
+  },
+  {
+    "sr": 1,
     "nsecode": "NETWEB",
     "name": "Netweb Technologies India Ltd",
     "bsecode": "543945",
@@ -118,15 +138,5 @@
     "close": 342,
     "volume": 6962769,
     "added_at": "2026-02-16T11:58:32"
-  },
-  {
-    "sr": 4,
-    "nsecode": "AXISCADES",
-    "name": "AXISCADES Technologies Ltd",
-    "bsecode": "532395",
-    "per_chg": 4.15,
-    "close": 1422.1,
-    "volume": 295622,
-    "added_at": "2026-02-13T11:52:21"
   }
 ]

@@ -1,13 +1,33 @@
 [
   {
     "sr": 1,
+    "nsecode": "DIVISLAB",
+    "name": "Divi's Laboratories Limited",
+    "bsecode": "532488",
+    "per_chg": -0.6,
+    "close": 6255.5,
+    "volume": 92139,
+    "added_at": "2026-02-24T11:59:54"
+  },
+  {
+    "sr": 2,
     "nsecode": "KPIL",
     "name": "Kalpataru Projects International Ltd",
     "bsecode": "522287",
-    "per_chg": 4.53,
-    "close": 1187,
-    "volume": 364726,
+    "per_chg": 1.52,
+    "close": 1205,
+    "volume": 288395,
     "added_at": "2026-02-23T11:58:11"
+  },
+  {
+    "sr": 3,
+    "nsecode": "ARE&M",
+    "name": "Amara Raja Energy & Mobility Ltd",
+    "bsecode": "500008",
+    "per_chg": 0.21,
+    "close": 858.8,
+    "volume": 233069,
+    "added_at": "2026-02-24T11:59:54"
   },
   {
     "sr": 2,
@@ -40,16 +60,6 @@
     "added_at": "2026-02-19T11:59:13"
   },
   {
-    "sr": 3,
-    "nsecode": "GODREJPROP",
-    "name": "Godrej Properties Limited",
-    "bsecode": "533150",
-    "per_chg": 0.08,
-    "close": 1825.7,
-    "volume": 1044407,
-    "added_at": "2026-02-16T11:58:32"
-  },
-  {
     "sr": 4,
     "nsecode": "INDOTECH",
     "name": "Indo Tech Transformers Limited",
@@ -68,75 +78,5 @@
     "close": 707.1,
     "volume": 15006583,
     "added_at": "2026-02-19T11:59:13"
-  },
-  {
-    "sr": 6,
-    "nsecode": "BALUFORGE",
-    "name": "Balu Forge Industries Ltd",
-    "bsecode": "531112",
-    "per_chg": 1.67,
-    "close": 492.1,
-    "volume": 405719,
-    "added_at": "2026-02-17T11:58:43"
-  },
-  {
-    "sr": 7,
-    "nsecode": "INDRAMEDCO",
-    "name": "Indraprastha Medical Corporation Limited",
-    "bsecode": "532150",
-    "per_chg": 1.37,
-    "close": 411.35,
-    "volume": 169283,
-    "added_at": "2026-02-17T11:58:43"
-  },
-  {
-    "sr": 8,
-    "nsecode": "JSFB",
-    "name": "Jana Small Finance Bank Ltd",
-    "bsecode": null,
-    "per_chg": 0.24,
-    "close": 381.5,
-    "volume": 307096,
-    "added_at": "2026-02-17T11:58:43"
-  },
-  {
-    "sr": 4,
-    "nsecode": "ASTERDM",
-    "name": "Aster DM Healthcare Ltd",
-    "bsecode": "540975",
-    "per_chg": 1.21,
-    "close": 636.8,
-    "volume": 423436,
-    "added_at": "2026-02-16T11:58:32"
-  },
-  {
-    "sr": 5,
-    "nsecode": "STOVEKRAFT",
-    "name": "Stove Kraft Ltd",
-    "bsecode": "543260",
-    "per_chg": 2.61,
-    "close": 515.2,
-    "volume": 148850,
-    "added_at": "2026-02-17T11:58:43"
-  },
-  {
-    "sr": 8,
-    "nsecode": "DIFFNKG",
-    "name": "Diffusion Engineers Ltd",
-    "bsecode": "544264",
-    "per_chg": 2.37,
-    "close": 280.15,
-    "volume": 106028,
-    "added_at": "2026-02-16T11:58:32"
-  },
-  {
-    "sr": 3,
-    "nsecode": "SWIGGY",
-    "name": "Swiggy Ltd",
-    "bsecode": "544285",
-    "per_chg": 1.29,
-    "close": 342,
-    "volume": 6962769,
-    "added_at": "2026-02-16T11:58:32"
   }
 ]

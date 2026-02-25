@@ -4,9 +4,9 @@
     "nsecode": "DIVISLAB",
     "name": "Divi's Laboratories Limited",
     "bsecode": "532488",
-    "per_chg": -0.6,
-    "close": 6255.5,
-    "volume": 92139,
+    "per_chg": 2.24,
+    "close": 6395.5,
+    "volume": 348440,
     "added_at": "2026-02-24T11:59:54"
   },
   {
@@ -14,10 +14,30 @@
     "nsecode": "KPIL",
     "name": "Kalpataru Projects International Ltd",
     "bsecode": "522287",
-    "per_chg": 1.52,
-    "close": 1205,
-    "volume": 288395,
+    "per_chg": 1.05,
+    "close": 1218,
+    "volume": 224043,
     "added_at": "2026-02-23T11:58:11"
+  },
+  {
+    "sr": 3,
+    "nsecode": "AEGISLOG",
+    "name": "Aegis Logistics Ltd",
+    "bsecode": "500003",
+    "per_chg": 4,
+    "close": 727.45,
+    "volume": 1092061,
+    "added_at": "2026-02-23T11:58:11"
+  },
+  {
+    "sr": 4,
+    "nsecode": "PREMEXPLN",
+    "name": "Premier Explosives Limited",
+    "bsecode": "526247",
+    "per_chg": 5.34,
+    "close": 512.7,
+    "volume": 662796,
+    "added_at": "2026-02-25T11:58:20"
   },
   {
     "sr": 3,
@@ -28,16 +48,6 @@
     "close": 858.8,
     "volume": 233069,
     "added_at": "2026-02-24T11:59:54"
-  },
-  {
-    "sr": 2,
-    "nsecode": "AEGISLOG",
-    "name": "Aegis Logistics Ltd",
-    "bsecode": "500003",
-    "per_chg": 1.35,
-    "close": 702.4,
-    "volume": 241366,
-    "added_at": "2026-02-23T11:58:11"
   },
   {
     "sr": 1,

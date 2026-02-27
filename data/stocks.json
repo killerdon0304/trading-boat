@@ -1,6 +1,36 @@
 [
   {
     "sr": 1,
+    "nsecode": "KPIL",
+    "name": "Kalpataru Projects International Ltd",
+    "bsecode": "522287",
+    "per_chg": 3.64,
+    "close": 1240,
+    "volume": 363762,
+    "added_at": "2026-02-23T11:58:11"
+  },
+  {
+    "sr": 2,
+    "nsecode": "PREMEXPLN",
+    "name": "Premier Explosives Limited",
+    "bsecode": "526247",
+    "per_chg": -0.78,
+    "close": 537.65,
+    "volume": 256085,
+    "added_at": "2026-02-25T11:58:20"
+  },
+  {
+    "sr": 3,
+    "nsecode": "TEJASNET",
+    "name": "Tejas Networks",
+    "bsecode": "540595",
+    "per_chg": 17.46,
+    "close": 435.85,
+    "volume": 128397007,
+    "added_at": "2026-02-26T11:59:01"
+  },
+  {
+    "sr": 1,
     "nsecode": "DIVISLAB",
     "name": "Divi's Laboratories Limited",
     "bsecode": "532488",
@@ -17,36 +47,6 @@
     "per_chg": 2.12,
     "close": 1334,
     "volume": 546147,
-    "added_at": "2026-02-26T11:59:01"
-  },
-  {
-    "sr": 3,
-    "nsecode": "KPIL",
-    "name": "Kalpataru Projects International Ltd",
-    "bsecode": "522287",
-    "per_chg": -1.44,
-    "close": 1196.4,
-    "volume": 378582,
-    "added_at": "2026-02-23T11:58:11"
-  },
-  {
-    "sr": 4,
-    "nsecode": "PREMEXPLN",
-    "name": "Premier Explosives Limited",
-    "bsecode": "526247",
-    "per_chg": 5.7,
-    "close": 541.9,
-    "volume": 1458410,
-    "added_at": "2026-02-25T11:58:20"
-  },
-  {
-    "sr": 5,
-    "nsecode": "TEJASNET",
-    "name": "Tejas Networks",
-    "bsecode": "540595",
-    "per_chg": 16.76,
-    "close": 371.05,
-    "volume": 95017228,
     "added_at": "2026-02-26T11:59:01"
   },
   {
@@ -68,35 +68,5 @@
     "close": 858.8,
     "volume": 233069,
     "added_at": "2026-02-24T11:59:54"
-  },
-  {
-    "sr": 2,
-    "nsecode": "RATNAMANI",
-    "name": "Ratnamani Metals & Tubes Limited",
-    "bsecode": "520111",
-    "per_chg": 1.13,
-    "close": 2504.8,
-    "volume": 84698,
-    "added_at": "2026-02-19T11:59:13"
-  },
-  {
-    "sr": 4,
-    "nsecode": "INDOTECH",
-    "name": "Indo Tech Transformers Limited",
-    "bsecode": "532717",
-    "per_chg": -0.6,
-    "close": 1417.4,
-    "volume": 33471,
-    "added_at": "2026-02-20T11:51:52"
-  },
-  {
-    "sr": 5,
-    "nsecode": "TATAINVEST",
-    "name": "Tata Investment Corporation Limited",
-    "bsecode": "501301",
-    "per_chg": 2.14,
-    "close": 707.1,
-    "volume": 15006583,
-    "added_at": "2026-02-19T11:59:13"
   }
 ]

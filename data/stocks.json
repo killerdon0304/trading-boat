@@ -1,6 +1,36 @@
 [
   {
     "sr": 1,
+    "nsecode": "TEGA",
+    "name": "Tega Industries Ltd",
+    "bsecode": "543413",
+    "per_chg": -3.22,
+    "close": 1759.2,
+    "volume": 76080,
+    "added_at": "2026-03-02T11:51:03"
+  },
+  {
+    "sr": 2,
+    "nsecode": "CONCORDBIO",
+    "name": "Concord Biotech Ltd",
+    "bsecode": "543960",
+    "per_chg": -1.61,
+    "close": 1200.9,
+    "volume": 217143,
+    "added_at": "2026-03-02T11:51:03"
+  },
+  {
+    "sr": 3,
+    "nsecode": "PARAS",
+    "name": "Paras Defence and Space Technologies Ltd",
+    "bsecode": "543367",
+    "per_chg": 5.18,
+    "close": 670.85,
+    "volume": 17809445,
+    "added_at": "2026-03-02T11:51:03"
+  },
+  {
+    "sr": 1,
     "nsecode": "KPIL",
     "name": "Kalpataru Projects International Ltd",
     "bsecode": "522287",

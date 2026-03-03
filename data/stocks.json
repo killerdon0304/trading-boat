@@ -30,16 +30,6 @@
     "added_at": "2026-03-02T11:51:03"
   },
   {
-    "sr": 1,
-    "nsecode": "KPIL",
-    "name": "Kalpataru Projects International Ltd",
-    "bsecode": "522287",
-    "per_chg": 3.64,
-    "close": 1240,
-    "volume": 363762,
-    "added_at": "2026-02-23T11:58:11"
-  },
-  {
     "sr": 2,
     "nsecode": "PREMEXPLN",
     "name": "Premier Explosives Limited",
@@ -78,16 +68,6 @@
     "close": 1334,
     "volume": 546147,
     "added_at": "2026-02-26T11:59:01"
-  },
-  {
-    "sr": 3,
-    "nsecode": "AEGISLOG",
-    "name": "Aegis Logistics Ltd",
-    "bsecode": "500003",
-    "per_chg": 4,
-    "close": 727.45,
-    "volume": 1092061,
-    "added_at": "2026-02-23T11:58:11"
   },
   {
     "sr": 3,

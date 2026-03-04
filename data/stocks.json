@@ -1,32 +1,32 @@
 [
   {
     "sr": 1,
+    "nsecode": "CONCORDBIO",
+    "name": "Concord Biotech Ltd",
+    "bsecode": "543960",
+    "per_chg": 0.03,
+    "close": 1201.2,
+    "volume": 154723,
+    "added_at": "2026-03-02T11:51:03"
+  },
+  {
+    "sr": 2,
+    "nsecode": "PARAS",
+    "name": "Paras Defence and Space Technologies Ltd",
+    "bsecode": "543367",
+    "per_chg": 7.48,
+    "close": 721.05,
+    "volume": 23157257,
+    "added_at": "2026-03-02T11:51:03"
+  },
+  {
+    "sr": 1,
     "nsecode": "TEGA",
     "name": "Tega Industries Ltd",
     "bsecode": "543413",
     "per_chg": -3.22,
     "close": 1759.2,
     "volume": 76080,
-    "added_at": "2026-03-02T11:51:03"
-  },
-  {
-    "sr": 2,
-    "nsecode": "CONCORDBIO",
-    "name": "Concord Biotech Ltd",
-    "bsecode": "543960",
-    "per_chg": -1.61,
-    "close": 1200.9,
-    "volume": 217143,
-    "added_at": "2026-03-02T11:51:03"
-  },
-  {
-    "sr": 3,
-    "nsecode": "PARAS",
-    "name": "Paras Defence and Space Technologies Ltd",
-    "bsecode": "543367",
-    "per_chg": 5.18,
-    "close": 670.85,
-    "volume": 17809445,
     "added_at": "2026-03-02T11:51:03"
   },
   {
@@ -50,16 +50,6 @@
     "added_at": "2026-02-26T11:59:01"
   },
   {
-    "sr": 1,
-    "nsecode": "DIVISLAB",
-    "name": "Divi's Laboratories Limited",
-    "bsecode": "532488",
-    "per_chg": 1.23,
-    "close": 6474,
-    "volume": 532383,
-    "added_at": "2026-02-24T11:59:54"
-  },
-  {
     "sr": 2,
     "nsecode": "CREDITACC",
     "name": "CreditAccess Grameen Ltd",
@@ -68,15 +58,5 @@
     "close": 1334,
     "volume": 546147,
     "added_at": "2026-02-26T11:59:01"
-  },
-  {
-    "sr": 3,
-    "nsecode": "ARE&M",
-    "name": "Amara Raja Energy & Mobility Ltd",
-    "bsecode": "500008",
-    "per_chg": 0.21,
-    "close": 858.8,
-    "volume": 233069,
-    "added_at": "2026-02-24T11:59:54"
   }
 ]

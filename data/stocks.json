@@ -4,9 +4,9 @@
     "nsecode": "CONCORDBIO",
     "name": "Concord Biotech Ltd",
     "bsecode": "543960",
-    "per_chg": 0.03,
-    "close": 1201.2,
-    "volume": 154723,
+    "per_chg": 0.32,
+    "close": 1207.5,
+    "volume": 48879,
     "added_at": "2026-03-02T11:51:03"
   },
   {
@@ -14,9 +14,9 @@
     "nsecode": "PARAS",
     "name": "Paras Defence and Space Technologies Ltd",
     "bsecode": "543367",
-    "per_chg": 7.48,
-    "close": 721.05,
-    "volume": 23157257,
+    "per_chg": 4.49,
+    "close": 749.35,
+    "volume": 6637139,
     "added_at": "2026-03-02T11:51:03"
   },
   {
@@ -28,25 +28,5 @@
     "close": 1759.2,
     "volume": 76080,
     "added_at": "2026-03-02T11:51:03"
-  },
-  {
-    "sr": 3,
-    "nsecode": "TEJASNET",
-    "name": "Tejas Networks",
-    "bsecode": "540595",
-    "per_chg": 17.46,
-    "close": 435.85,
-    "volume": 128397007,
-    "added_at": "2026-02-26T11:59:01"
-  },
-  {
-    "sr": 2,
-    "nsecode": "CREDITACC",
-    "name": "CreditAccess Grameen Ltd",
-    "bsecode": "541770",
-    "per_chg": 2.12,
-    "close": 1334,
-    "volume": 546147,
-    "added_at": "2026-02-26T11:59:01"
   }
 ]

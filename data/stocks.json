@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "sr": 1,
+    "nsecode": "BDL",
+    "name": "Bharat Dynamics Ltd",
+    "bsecode": "541143",
+    "per_chg": 3.66,
+    "close": 1384.4,
+    "volume": 2329174,
+    "added_at": "2026-03-10T11:53:24"
+  }
+]

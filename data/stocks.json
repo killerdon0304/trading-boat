@@ -1,6 +1,56 @@
 [
   {
     "sr": 1,
+    "nsecode": "RADICO",
+    "name": "Radico Khaitan Limited",
+    "bsecode": "532497",
+    "per_chg": 4.76,
+    "close": 2894,
+    "volume": 699402,
+    "added_at": "2026-03-11T11:53:16"
+  },
+  {
+    "sr": 2,
+    "nsecode": "FACT",
+    "name": "Fertilizers And Chemicals Travancore Limited",
+    "bsecode": "590024",
+    "per_chg": 11.38,
+    "close": 884.9,
+    "volume": 25190904,
+    "added_at": "2026-03-11T11:53:16"
+  },
+  {
+    "sr": 3,
+    "nsecode": "ATGL",
+    "name": "Adani Total Gas Ltd",
+    "bsecode": "542066",
+    "per_chg": 19.99,
+    "close": 566.9,
+    "volume": 18960911,
+    "added_at": "2026-03-11T11:53:16"
+  },
+  {
+    "sr": 4,
+    "nsecode": "STOVEKRAFT",
+    "name": "Stove Kraft Ltd",
+    "bsecode": "543260",
+    "per_chg": 12.06,
+    "close": 544.95,
+    "volume": 1471972,
+    "added_at": "2026-03-11T11:53:16"
+  },
+  {
+    "sr": 5,
+    "nsecode": "USHAMART",
+    "name": "Usha Martin Limited",
+    "bsecode": "517146",
+    "per_chg": 1.11,
+    "close": 425.1,
+    "volume": 588395,
+    "added_at": "2026-03-11T11:53:16"
+  },
+  {
+    "sr": 1,
     "nsecode": "BDL",
     "name": "Bharat Dynamics Ltd",
     "bsecode": "541143",

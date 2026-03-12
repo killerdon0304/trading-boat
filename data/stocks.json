@@ -1,6 +1,36 @@
 [
   {
     "sr": 1,
+    "nsecode": "TEGA",
+    "name": "Tega Industries Ltd",
+    "bsecode": "543413",
+    "per_chg": 2.72,
+    "close": 1803.8,
+    "volume": 118958,
+    "added_at": "2026-03-12T11:48:36"
+  },
+  {
+    "sr": 2,
+    "nsecode": "BDL",
+    "name": "Bharat Dynamics Ltd",
+    "bsecode": "541143",
+    "per_chg": -0.78,
+    "close": 1349.4,
+    "volume": 1295186,
+    "added_at": "2026-03-10T11:53:24"
+  },
+  {
+    "sr": 3,
+    "nsecode": "ATGL",
+    "name": "Adani Total Gas Ltd",
+    "bsecode": "542066",
+    "per_chg": 7.18,
+    "close": 607.6,
+    "volume": 48585918,
+    "added_at": "2026-03-11T11:53:16"
+  },
+  {
+    "sr": 1,
     "nsecode": "RADICO",
     "name": "Radico Khaitan Limited",
     "bsecode": "532497",
@@ -17,16 +47,6 @@
     "per_chg": 11.38,
     "close": 884.9,
     "volume": 25190904,
-    "added_at": "2026-03-11T11:53:16"
-  },
-  {
-    "sr": 3,
-    "nsecode": "ATGL",
-    "name": "Adani Total Gas Ltd",
-    "bsecode": "542066",
-    "per_chg": 19.99,
-    "close": 566.9,
-    "volume": 18960911,
     "added_at": "2026-03-11T11:53:16"
   },
   {
@@ -48,15 +68,5 @@
     "close": 425.1,
     "volume": 588395,
     "added_at": "2026-03-11T11:53:16"
-  },
-  {
-    "sr": 1,
-    "nsecode": "BDL",
-    "name": "Bharat Dynamics Ltd",
-    "bsecode": "541143",
-    "per_chg": 3.66,
-    "close": 1384.4,
-    "volume": 2329174,
-    "added_at": "2026-03-10T11:53:24"
   }
 ]

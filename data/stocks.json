@@ -1,6 +1,16 @@
 [
   {
     "sr": 1,
+    "nsecode": "FACT",
+    "name": "Fertilizers And Chemicals Travancore Limited",
+    "bsecode": "590024",
+    "close": 851.5,
+    "per_chg": 0.76,
+    "volume": 10764104,
+    "added_at": "2026-03-11T11:53:16"
+  },
+  {
+    "sr": 1,
     "nsecode": "TEGA",
     "name": "Tega Industries Ltd",
     "bsecode": "543413",
@@ -37,16 +47,6 @@
     "per_chg": 4.76,
     "close": 2894,
     "volume": 699402,
-    "added_at": "2026-03-11T11:53:16"
-  },
-  {
-    "sr": 2,
-    "nsecode": "FACT",
-    "name": "Fertilizers And Chemicals Travancore Limited",
-    "bsecode": "590024",
-    "per_chg": 11.38,
-    "close": 884.9,
-    "volume": 25190904,
     "added_at": "2026-03-11T11:53:16"
   },
   {

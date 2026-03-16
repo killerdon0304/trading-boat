@@ -1,6 +1,26 @@
 [
   {
     "sr": 1,
+    "nsecode": "RADICO",
+    "name": "Radico Khaitan Limited",
+    "bsecode": "532497",
+    "close": 2820,
+    "per_chg": 0.71,
+    "volume": 283160,
+    "added_at": "2026-03-11T11:53:16"
+  },
+  {
+    "sr": 2,
+    "nsecode": "KSCL",
+    "name": "Kaveri Seed Company Limited",
+    "bsecode": "532899",
+    "close": 810.15,
+    "per_chg": -0.09,
+    "volume": 104675,
+    "added_at": "2026-03-16T12:02:51"
+  },
+  {
+    "sr": 1,
     "nsecode": "FACT",
     "name": "Fertilizers And Chemicals Travancore Limited",
     "bsecode": "590024",
@@ -37,16 +57,6 @@
     "per_chg": 7.18,
     "close": 607.6,
     "volume": 48585918,
-    "added_at": "2026-03-11T11:53:16"
-  },
-  {
-    "sr": 1,
-    "nsecode": "RADICO",
-    "name": "Radico Khaitan Limited",
-    "bsecode": "532497",
-    "per_chg": 4.76,
-    "close": 2894,
-    "volume": 699402,
     "added_at": "2026-03-11T11:53:16"
   },
   {

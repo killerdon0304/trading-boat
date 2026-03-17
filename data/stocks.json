@@ -1,6 +1,16 @@
 [
   {
     "sr": 1,
+    "nsecode": "SHAILY",
+    "name": "Shaily Engineering Plastics Ltd",
+    "bsecode": "501423",
+    "close": 2279.9,
+    "per_chg": 19.05,
+    "volume": 2043355,
+    "added_at": "2026-03-17T12:00:26"
+  },
+  {
+    "sr": 1,
     "nsecode": "RADICO",
     "name": "Radico Khaitan Limited",
     "bsecode": "532497",
@@ -38,16 +48,6 @@
     "close": 1803.8,
     "volume": 118958,
     "added_at": "2026-03-12T11:48:36"
-  },
-  {
-    "sr": 2,
-    "nsecode": "BDL",
-    "name": "Bharat Dynamics Ltd",
-    "bsecode": "541143",
-    "per_chg": -0.78,
-    "close": 1349.4,
-    "volume": 1295186,
-    "added_at": "2026-03-10T11:53:24"
   },
   {
     "sr": 3,

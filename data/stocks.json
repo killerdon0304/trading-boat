@@ -4,20 +4,70 @@
     "nsecode": "SHAILY",
     "name": "Shaily Engineering Plastics Ltd",
     "bsecode": "501423",
-    "close": 2279.9,
-    "per_chg": 19.05,
-    "volume": 2043355,
+    "close": 2351.3,
+    "per_chg": 3.13,
+    "volume": 1501240,
     "added_at": "2026-03-17T12:00:26"
   },
   {
-    "sr": 1,
-    "nsecode": "RADICO",
-    "name": "Radico Khaitan Limited",
-    "bsecode": "532497",
-    "close": 2820,
-    "per_chg": 0.71,
-    "volume": 283160,
-    "added_at": "2026-03-11T11:53:16"
+    "sr": 2,
+    "nsecode": "OLECTRA",
+    "name": "Olectra Greentech Ltd",
+    "bsecode": "532439",
+    "close": 1055.95,
+    "per_chg": 16.87,
+    "volume": 8794545,
+    "added_at": "2026-03-18T12:03:48"
+  },
+  {
+    "sr": 3,
+    "nsecode": "WAAREERTL",
+    "name": "Waaree Renewables Technologies Ltd",
+    "bsecode": "534618",
+    "close": 864.15,
+    "per_chg": 4.65,
+    "volume": 585071,
+    "added_at": "2026-03-18T12:03:48"
+  },
+  {
+    "sr": 4,
+    "nsecode": "INDIASHLTR",
+    "name": "India Shelter Finance Corporation Ltd",
+    "bsecode": "544044",
+    "close": 738,
+    "per_chg": 6.3,
+    "volume": 267050,
+    "added_at": "2026-03-18T12:03:48"
+  },
+  {
+    "sr": 5,
+    "nsecode": "PNGJL",
+    "name": "P N Gadgil Jewellers Ltd",
+    "bsecode": null,
+    "close": 560.85,
+    "per_chg": 1.87,
+    "volume": 144897,
+    "added_at": "2026-03-18T12:03:48"
+  },
+  {
+    "sr": 6,
+    "nsecode": "DEEPINDS",
+    "name": "Deep Industries Ltd",
+    "bsecode": "543288",
+    "close": 367.55,
+    "per_chg": 4.09,
+    "volume": 336228,
+    "added_at": "2026-03-18T12:03:48"
+  },
+  {
+    "sr": 7,
+    "nsecode": "EMSLIMITED",
+    "name": "EMS Ltd",
+    "bsecode": null,
+    "close": 297.1,
+    "per_chg": 6.72,
+    "volume": 768493,
+    "added_at": "2026-03-18T12:03:48"
   },
   {
     "sr": 2,
@@ -31,16 +81,6 @@
   },
   {
     "sr": 1,
-    "nsecode": "FACT",
-    "name": "Fertilizers And Chemicals Travancore Limited",
-    "bsecode": "590024",
-    "close": 851.5,
-    "per_chg": 0.76,
-    "volume": 10764104,
-    "added_at": "2026-03-11T11:53:16"
-  },
-  {
-    "sr": 1,
     "nsecode": "TEGA",
     "name": "Tega Industries Ltd",
     "bsecode": "543413",
@@ -48,35 +88,5 @@
     "close": 1803.8,
     "volume": 118958,
     "added_at": "2026-03-12T11:48:36"
-  },
-  {
-    "sr": 3,
-    "nsecode": "ATGL",
-    "name": "Adani Total Gas Ltd",
-    "bsecode": "542066",
-    "per_chg": 7.18,
-    "close": 607.6,
-    "volume": 48585918,
-    "added_at": "2026-03-11T11:53:16"
-  },
-  {
-    "sr": 4,
-    "nsecode": "STOVEKRAFT",
-    "name": "Stove Kraft Ltd",
-    "bsecode": "543260",
-    "per_chg": 12.06,
-    "close": 544.95,
-    "volume": 1471972,
-    "added_at": "2026-03-11T11:53:16"
-  },
-  {
-    "sr": 5,
-    "nsecode": "USHAMART",
-    "name": "Usha Martin Limited",
-    "bsecode": "517146",
-    "per_chg": 1.11,
-    "close": 425.1,
-    "volume": 588395,
-    "added_at": "2026-03-11T11:53:16"
   }
 ]

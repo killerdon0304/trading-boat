@@ -4,10 +4,30 @@
     "nsecode": "SHAILY",
     "name": "Shaily Engineering Plastics Ltd",
     "bsecode": "501423",
-    "close": 2351.3,
-    "per_chg": 3.13,
-    "volume": 1501240,
+    "close": 2294.2,
+    "per_chg": -2.43,
+    "volume": 579450,
     "added_at": "2026-03-17T12:00:26"
+  },
+  {
+    "sr": 2,
+    "nsecode": "XPROINDIA",
+    "name": "Xpro India Limited",
+    "bsecode": "590013",
+    "close": 966.35,
+    "per_chg": -0.44,
+    "volume": 78619,
+    "added_at": "2026-03-19T11:56:06"
+  },
+  {
+    "sr": 3,
+    "nsecode": "PNGJL",
+    "name": "P N Gadgil Jewellers Ltd",
+    "bsecode": null,
+    "close": 565.05,
+    "per_chg": 0.75,
+    "volume": 354042,
+    "added_at": "2026-03-18T12:03:48"
   },
   {
     "sr": 2,
@@ -40,16 +60,6 @@
     "added_at": "2026-03-18T12:03:48"
   },
   {
-    "sr": 5,
-    "nsecode": "PNGJL",
-    "name": "P N Gadgil Jewellers Ltd",
-    "bsecode": null,
-    "close": 560.85,
-    "per_chg": 1.87,
-    "volume": 144897,
-    "added_at": "2026-03-18T12:03:48"
-  },
-  {
     "sr": 6,
     "nsecode": "DEEPINDS",
     "name": "Deep Industries Ltd",
@@ -78,15 +88,5 @@
     "per_chg": -0.09,
     "volume": 104675,
     "added_at": "2026-03-16T12:02:51"
-  },
-  {
-    "sr": 1,
-    "nsecode": "TEGA",
-    "name": "Tega Industries Ltd",
-    "bsecode": "543413",
-    "per_chg": 2.72,
-    "close": 1803.8,
-    "volume": 118958,
-    "added_at": "2026-03-12T11:48:36"
   }
 ]

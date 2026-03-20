@@ -4,49 +4,69 @@
     "nsecode": "SHAILY",
     "name": "Shaily Engineering Plastics Ltd",
     "bsecode": "501423",
-    "close": 2294.2,
-    "per_chg": -2.43,
-    "volume": 579450,
+    "close": 2399,
+    "per_chg": 4.57,
+    "volume": 1878101,
     "added_at": "2026-03-17T12:00:26"
-  },
-  {
-    "sr": 2,
-    "nsecode": "XPROINDIA",
-    "name": "Xpro India Limited",
-    "bsecode": "590013",
-    "close": 966.35,
-    "per_chg": -0.44,
-    "volume": 78619,
-    "added_at": "2026-03-19T11:56:06"
-  },
-  {
-    "sr": 3,
-    "nsecode": "PNGJL",
-    "name": "P N Gadgil Jewellers Ltd",
-    "bsecode": null,
-    "close": 565.05,
-    "per_chg": 0.75,
-    "volume": 354042,
-    "added_at": "2026-03-18T12:03:48"
   },
   {
     "sr": 2,
     "nsecode": "OLECTRA",
     "name": "Olectra Greentech Ltd",
     "bsecode": "532439",
-    "close": 1055.95,
-    "per_chg": 16.87,
-    "volume": 8794545,
+    "close": 1097.4,
+    "per_chg": 9.65,
+    "volume": 9112475,
     "added_at": "2026-03-18T12:03:48"
   },
   {
     "sr": 3,
+    "nsecode": "XPROINDIA",
+    "name": "Xpro India Limited",
+    "bsecode": "590013",
+    "close": 1011,
+    "per_chg": 4.62,
+    "volume": 64885,
+    "added_at": "2026-03-19T11:56:06"
+  },
+  {
+    "sr": 4,
     "nsecode": "WAAREERTL",
     "name": "Waaree Renewables Technologies Ltd",
     "bsecode": "534618",
-    "close": 864.15,
-    "per_chg": 4.65,
-    "volume": 585071,
+    "close": 850.25,
+    "per_chg": 0.81,
+    "volume": 248686,
+    "added_at": "2026-03-18T12:03:48"
+  },
+  {
+    "sr": 5,
+    "nsecode": "KSCL",
+    "name": "Kaveri Seed Company Limited",
+    "bsecode": "532899",
+    "close": 807,
+    "per_chg": 5.3,
+    "volume": 547588,
+    "added_at": "2026-03-16T12:02:51"
+  },
+  {
+    "sr": 6,
+    "nsecode": "PNGJL",
+    "name": "P N Gadgil Jewellers Ltd",
+    "bsecode": null,
+    "close": 570.2,
+    "per_chg": 0.91,
+    "volume": 198401,
+    "added_at": "2026-03-18T12:03:48"
+  },
+  {
+    "sr": 7,
+    "nsecode": "DEEPINDS",
+    "name": "Deep Industries Ltd",
+    "bsecode": "543288",
+    "close": 409.75,
+    "per_chg": 12.03,
+    "volume": 10866019,
     "added_at": "2026-03-18T12:03:48"
   },
   {
@@ -60,16 +80,6 @@
     "added_at": "2026-03-18T12:03:48"
   },
   {
-    "sr": 6,
-    "nsecode": "DEEPINDS",
-    "name": "Deep Industries Ltd",
-    "bsecode": "543288",
-    "close": 367.55,
-    "per_chg": 4.09,
-    "volume": 336228,
-    "added_at": "2026-03-18T12:03:48"
-  },
-  {
     "sr": 7,
     "nsecode": "EMSLIMITED",
     "name": "EMS Ltd",
@@ -78,15 +88,5 @@
     "per_chg": 6.72,
     "volume": 768493,
     "added_at": "2026-03-18T12:03:48"
-  },
-  {
-    "sr": 2,
-    "nsecode": "KSCL",
-    "name": "Kaveri Seed Company Limited",
-    "bsecode": "532899",
-    "close": 810.15,
-    "per_chg": -0.09,
-    "volume": 104675,
-    "added_at": "2026-03-16T12:02:51"
   }
 ]

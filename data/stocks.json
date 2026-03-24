@@ -1,13 +1,23 @@
 [
   {
     "sr": 1,
-    "nsecode": "SHAILY",
-    "name": "Shaily Engineering Plastics Ltd",
-    "bsecode": "501423",
-    "close": 2399,
-    "per_chg": 4.57,
-    "volume": 1878101,
-    "added_at": "2026-03-17T12:00:26"
+    "nsecode": "NPST",
+    "name": "Network People Services Technologies Ltd",
+    "bsecode": "535391",
+    "close": 1095.3,
+    "per_chg": 3.24,
+    "volume": 81791,
+    "added_at": "2026-03-24T12:01:47"
+  },
+  {
+    "sr": 2,
+    "nsecode": "WAAREEINDO",
+    "name": "Indosolar Ltd",
+    "bsecode": "533257",
+    "close": 421.65,
+    "per_chg": 4.99,
+    "volume": 132526,
+    "added_at": "2026-03-24T12:01:47"
   },
   {
     "sr": 2,
@@ -38,16 +48,6 @@
     "per_chg": 0.81,
     "volume": 248686,
     "added_at": "2026-03-18T12:03:48"
-  },
-  {
-    "sr": 5,
-    "nsecode": "KSCL",
-    "name": "Kaveri Seed Company Limited",
-    "bsecode": "532899",
-    "close": 807,
-    "per_chg": 5.3,
-    "volume": 547588,
-    "added_at": "2026-03-16T12:02:51"
   },
   {
     "sr": 6,

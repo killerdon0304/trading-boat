@@ -16,7 +16,7 @@
     "bsecode": "535391",
     "close": 1148.8,
     "per_chg": 4.93,
-    "volume": 105702,
+    "volume": 105701,
     "added_at": "2026-03-24T12:01:47"
   },
   {
@@ -24,8 +24,8 @@
     "nsecode": "DCMSHRIRAM",
     "name": "Dcm Shriram Limited",
     "bsecode": "523367",
-    "close": 1119,
-    "per_chg": 4.25,
+    "close": 1119.7,
+    "per_chg": 4.31,
     "volume": 57178,
     "added_at": "2026-03-25T12:01:10"
   },
@@ -36,7 +36,7 @@
     "bsecode": "507488",
     "close": 1059,
     "per_chg": 1.92,
-    "volume": 129922,
+    "volume": 129748,
     "added_at": "2026-03-25T12:01:10"
   },
   {
@@ -78,75 +78,5 @@
     "per_chg": 4.99,
     "volume": 132526,
     "added_at": "2026-03-24T12:01:47"
-  },
-  {
-    "sr": 2,
-    "nsecode": "OLECTRA",
-    "name": "Olectra Greentech Ltd",
-    "bsecode": "532439",
-    "close": 1097.4,
-    "per_chg": 9.65,
-    "volume": 9112475,
-    "added_at": "2026-03-18T12:03:48"
-  },
-  {
-    "sr": 3,
-    "nsecode": "XPROINDIA",
-    "name": "Xpro India Limited",
-    "bsecode": "590013",
-    "close": 1011,
-    "per_chg": 4.62,
-    "volume": 64885,
-    "added_at": "2026-03-19T11:56:06"
-  },
-  {
-    "sr": 4,
-    "nsecode": "WAAREERTL",
-    "name": "Waaree Renewables Technologies Ltd",
-    "bsecode": "534618",
-    "close": 850.25,
-    "per_chg": 0.81,
-    "volume": 248686,
-    "added_at": "2026-03-18T12:03:48"
-  },
-  {
-    "sr": 6,
-    "nsecode": "PNGJL",
-    "name": "P N Gadgil Jewellers Ltd",
-    "bsecode": null,
-    "close": 570.2,
-    "per_chg": 0.91,
-    "volume": 198401,
-    "added_at": "2026-03-18T12:03:48"
-  },
-  {
-    "sr": 7,
-    "nsecode": "DEEPINDS",
-    "name": "Deep Industries Ltd",
-    "bsecode": "543288",
-    "close": 409.75,
-    "per_chg": 12.03,
-    "volume": 10866019,
-    "added_at": "2026-03-18T12:03:48"
-  },
-  {
-    "sr": 4,
-    "nsecode": "INDIASHLTR",
-    "name": "India Shelter Finance Corporation Ltd",
-    "bsecode": "544044",
-    "close": 738,
-    "per_chg": 6.3,
-    "volume": 267050,
-    "added_at": "2026-03-18T12:03:48"
-  },
-  {
-    "sr": 7,
-    "nsecode": "EMSLIMITED",
-    "name": "EMS Ltd",
-    "bsecode": null,
-    "close": 297.1,
-    "per_chg": 6.72,
-    "volume": 768493,
-    "added_at": "2026-03-18T12:03:48"
   }
 ]

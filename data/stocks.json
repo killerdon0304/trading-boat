@@ -1,6 +1,56 @@
 [
   {
     "sr": 1,
+    "nsecode": "OFSS",
+    "name": "Oracle Financial Services Software Limited",
+    "bsecode": "532466",
+    "close": 6947,
+    "per_chg": 5.27,
+    "volume": 980861,
+    "added_at": "2026-03-27T12:01:09"
+  },
+  {
+    "sr": 2,
+    "nsecode": "MPSLTD",
+    "name": "Mps Limited",
+    "bsecode": "532440",
+    "close": 1510.6,
+    "per_chg": 0.21,
+    "volume": 48990,
+    "added_at": "2026-03-27T12:01:09"
+  },
+  {
+    "sr": 3,
+    "nsecode": "DCMSHRIRAM",
+    "name": "Dcm Shriram Limited",
+    "bsecode": "523367",
+    "close": 1112,
+    "per_chg": -0.69,
+    "volume": 49792,
+    "added_at": "2026-03-25T12:01:10"
+  },
+  {
+    "sr": 4,
+    "nsecode": "RPSGVENT",
+    "name": "RPSG Ventures Ltd",
+    "bsecode": null,
+    "close": 810.65,
+    "per_chg": 12.45,
+    "volume": 20423960,
+    "added_at": "2026-03-25T12:01:10"
+  },
+  {
+    "sr": 5,
+    "nsecode": "IXIGO",
+    "name": "Le Travenues Technology Ltd",
+    "bsecode": "544192",
+    "close": 181.7,
+    "per_chg": 0.23,
+    "volume": 1585322,
+    "added_at": "2026-03-25T12:01:10"
+  },
+  {
+    "sr": 1,
     "nsecode": "ANUP",
     "name": "The Anup Engineering Ltd",
     "bsecode": "542460",
@@ -20,16 +70,6 @@
     "added_at": "2026-03-24T12:01:47"
   },
   {
-    "sr": 3,
-    "nsecode": "DCMSHRIRAM",
-    "name": "Dcm Shriram Limited",
-    "bsecode": "523367",
-    "close": 1119.7,
-    "per_chg": 4.31,
-    "volume": 57178,
-    "added_at": "2026-03-25T12:01:10"
-  },
-  {
     "sr": 4,
     "nsecode": "GMBREW",
     "name": "Gm Breweries Limited",
@@ -47,26 +87,6 @@
     "close": 999.05,
     "per_chg": 8.47,
     "volume": 6810763,
-    "added_at": "2026-03-25T12:01:10"
-  },
-  {
-    "sr": 6,
-    "nsecode": "RPSGVENT",
-    "name": "RPSG Ventures Ltd",
-    "bsecode": null,
-    "close": 720.9,
-    "per_chg": 20,
-    "volume": 1925514,
-    "added_at": "2026-03-25T12:01:10"
-  },
-  {
-    "sr": 7,
-    "nsecode": "IXIGO",
-    "name": "Le Travenues Technology Ltd",
-    "bsecode": "544192",
-    "close": 181.29,
-    "per_chg": 4.63,
-    "volume": 1272766,
     "added_at": "2026-03-25T12:01:10"
   },
   {

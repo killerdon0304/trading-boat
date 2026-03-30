@@ -1,6 +1,26 @@
 [
   {
     "sr": 1,
+    "nsecode": "DOMS",
+    "name": "Doms Industries Ltd",
+    "bsecode": "544045",
+    "close": 2298.4,
+    "per_chg": 2.41,
+    "volume": 120482,
+    "added_at": "2026-03-30T12:08:04"
+  },
+  {
+    "sr": 2,
+    "nsecode": "AFFLE",
+    "name": "Affle India Ltd",
+    "bsecode": "542752",
+    "close": 1449.1,
+    "per_chg": 0.21,
+    "volume": 546383,
+    "added_at": "2026-03-30T12:08:04"
+  },
+  {
+    "sr": 1,
     "nsecode": "OFSS",
     "name": "Oracle Financial Services Software Limited",
     "bsecode": "532466",

@@ -6,7 +6,7 @@
     "bsecode": "544045",
     "close": 2298.4,
     "per_chg": 2.41,
-    "volume": 120482,
+    "volume": 120440,
     "added_at": "2026-03-30T12:08:04"
   },
   {
@@ -16,7 +16,7 @@
     "bsecode": "542752",
     "close": 1449.1,
     "per_chg": 0.21,
-    "volume": 546383,
+    "volume": 546166,
     "added_at": "2026-03-30T12:08:04"
   },
   {
@@ -80,16 +80,6 @@
     "added_at": "2026-03-25T12:01:10"
   },
   {
-    "sr": 2,
-    "nsecode": "NPST",
-    "name": "Network People Services Technologies Ltd",
-    "bsecode": "535391",
-    "close": 1148.8,
-    "per_chg": 4.93,
-    "volume": 105701,
-    "added_at": "2026-03-24T12:01:47"
-  },
-  {
     "sr": 4,
     "nsecode": "GMBREW",
     "name": "Gm Breweries Limited",
@@ -108,15 +98,5 @@
     "per_chg": 8.47,
     "volume": 6810763,
     "added_at": "2026-03-25T12:01:10"
-  },
-  {
-    "sr": 2,
-    "nsecode": "WAAREEINDO",
-    "name": "Indosolar Ltd",
-    "bsecode": "533257",
-    "close": 421.65,
-    "per_chg": 4.99,
-    "volume": 132526,
-    "added_at": "2026-03-24T12:01:47"
   }
 ]

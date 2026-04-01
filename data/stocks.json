@@ -1,6 +1,36 @@
 [
   {
     "sr": 1,
+    "nsecode": "UNIVCABLES",
+    "name": "Universal Cables Limited",
+    "bsecode": "504212",
+    "close": 684.5,
+    "per_chg": 5.37,
+    "volume": 40147,
+    "added_at": "2026-04-01T12:06:12"
+  },
+  {
+    "sr": 2,
+    "nsecode": "MANYAVAR",
+    "name": "Vedant Fashions Ltd",
+    "bsecode": "543463",
+    "close": 374.35,
+    "per_chg": 6.65,
+    "volume": 320966,
+    "added_at": "2026-04-01T12:06:12"
+  },
+  {
+    "sr": 3,
+    "nsecode": "SANGHVIMOV",
+    "name": "Sanghvi Movers Limited",
+    "bsecode": "530073",
+    "close": 267.4,
+    "per_chg": 14.64,
+    "volume": 731600,
+    "added_at": "2026-04-01T12:06:12"
+  },
+  {
+    "sr": 1,
     "nsecode": "DOMS",
     "name": "Doms Industries Ltd",
     "bsecode": "544045",
@@ -38,65 +68,5 @@
     "per_chg": 0.21,
     "volume": 48990,
     "added_at": "2026-03-27T12:01:09"
-  },
-  {
-    "sr": 3,
-    "nsecode": "DCMSHRIRAM",
-    "name": "Dcm Shriram Limited",
-    "bsecode": "523367",
-    "close": 1112,
-    "per_chg": -0.69,
-    "volume": 49792,
-    "added_at": "2026-03-25T12:01:10"
-  },
-  {
-    "sr": 4,
-    "nsecode": "RPSGVENT",
-    "name": "RPSG Ventures Ltd",
-    "bsecode": null,
-    "close": 810.65,
-    "per_chg": 12.45,
-    "volume": 20423960,
-    "added_at": "2026-03-25T12:01:10"
-  },
-  {
-    "sr": 5,
-    "nsecode": "IXIGO",
-    "name": "Le Travenues Technology Ltd",
-    "bsecode": "544192",
-    "close": 181.7,
-    "per_chg": 0.23,
-    "volume": 1585322,
-    "added_at": "2026-03-25T12:01:10"
-  },
-  {
-    "sr": 1,
-    "nsecode": "ANUP",
-    "name": "The Anup Engineering Ltd",
-    "bsecode": "542460",
-    "close": 1714.8,
-    "per_chg": 3.92,
-    "volume": 95034,
-    "added_at": "2026-03-25T12:01:10"
-  },
-  {
-    "sr": 4,
-    "nsecode": "GMBREW",
-    "name": "Gm Breweries Limited",
-    "bsecode": "507488",
-    "close": 1059,
-    "per_chg": 1.92,
-    "volume": 129748,
-    "added_at": "2026-03-25T12:01:10"
-  },
-  {
-    "sr": 5,
-    "nsecode": "DEEPAKFERT",
-    "name": "Deepak Fertilizers And Petrochemicals Corporation Limited",
-    "bsecode": "500645",
-    "close": 999.05,
-    "per_chg": 8.47,
-    "volume": 6810763,
-    "added_at": "2026-03-25T12:01:10"
   }
 ]

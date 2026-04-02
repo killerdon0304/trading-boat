@@ -1,6 +1,106 @@
 [
   {
     "sr": 1,
+    "nsecode": "DOMS",
+    "name": "Doms Industries Ltd",
+    "bsecode": "544045",
+    "close": 2356.4,
+    "per_chg": 0.48,
+    "volume": 41635,
+    "added_at": "2026-03-30T12:08:04"
+  },
+  {
+    "sr": 2,
+    "nsecode": "OBEROIRLTY",
+    "name": "Oberoi Realty Limited",
+    "bsecode": "533273",
+    "close": 1506.9,
+    "per_chg": 2.2,
+    "volume": 808003,
+    "added_at": "2026-04-02T12:04:27"
+  },
+  {
+    "sr": 3,
+    "nsecode": "POLYMED",
+    "name": "Poly Medicure Limited",
+    "bsecode": "531768",
+    "close": 1334.2,
+    "per_chg": 3.97,
+    "volume": 326891,
+    "added_at": "2026-04-02T12:04:27"
+  },
+  {
+    "sr": 4,
+    "nsecode": "ERIS",
+    "name": "Eris Lifesciences Ltd",
+    "bsecode": "540596",
+    "close": 1332.1,
+    "per_chg": 1.67,
+    "volume": 19418,
+    "added_at": "2026-04-02T12:04:27"
+  },
+  {
+    "sr": 5,
+    "nsecode": "BRIGADE",
+    "name": "Brigade Enterprises Limited",
+    "bsecode": "532929",
+    "close": 687.55,
+    "per_chg": 2.22,
+    "volume": 392098,
+    "added_at": "2026-04-02T12:04:27"
+  },
+  {
+    "sr": 6,
+    "nsecode": "VMART",
+    "name": "V-mart Retail Limited",
+    "bsecode": "534976",
+    "close": 544.9,
+    "per_chg": 12.77,
+    "volume": 18304855,
+    "added_at": "2026-04-02T12:04:27"
+  },
+  {
+    "sr": 7,
+    "nsecode": "SOLARA",
+    "name": "Solara Active Pharma Sciences Ltd",
+    "bsecode": "541540",
+    "close": 476.1,
+    "per_chg": 3.7,
+    "volume": 72314,
+    "added_at": "2026-04-02T12:04:27"
+  },
+  {
+    "sr": 8,
+    "nsecode": "MANYAVAR",
+    "name": "Vedant Fashions Ltd",
+    "bsecode": "543463",
+    "close": 372,
+    "per_chg": -0.63,
+    "volume": 261520,
+    "added_at": "2026-04-01T12:06:12"
+  },
+  {
+    "sr": 9,
+    "nsecode": "SANGHVIMOV",
+    "name": "Sanghvi Movers Limited",
+    "bsecode": "530073",
+    "close": 283.55,
+    "per_chg": 6.04,
+    "volume": 677801,
+    "added_at": "2026-04-01T12:06:12"
+  },
+  {
+    "sr": 10,
+    "nsecode": "ZAGGLE",
+    "name": "Zaggle Prepaid Ocean Services Ltd",
+    "bsecode": "543985",
+    "close": 234.92,
+    "per_chg": 8.01,
+    "volume": 17714561,
+    "added_at": "2026-04-02T12:04:27"
+  },
+  {
+    "sr": 1,
     "nsecode": "UNIVCABLES",
     "name": "Universal Cables Limited",
     "bsecode": "504212",
@@ -8,36 +108,6 @@
     "per_chg": 5.37,
     "volume": 40147,
     "added_at": "2026-04-01T12:06:12"
-  },
-  {
-    "sr": 2,
-    "nsecode": "MANYAVAR",
-    "name": "Vedant Fashions Ltd",
-    "bsecode": "543463",
-    "close": 374.35,
-    "per_chg": 6.65,
-    "volume": 320966,
-    "added_at": "2026-04-01T12:06:12"
-  },
-  {
-    "sr": 3,
-    "nsecode": "SANGHVIMOV",
-    "name": "Sanghvi Movers Limited",
-    "bsecode": "530073",
-    "close": 267.4,
-    "per_chg": 14.64,
-    "volume": 731600,
-    "added_at": "2026-04-01T12:06:12"
-  },
-  {
-    "sr": 1,
-    "nsecode": "DOMS",
-    "name": "Doms Industries Ltd",
-    "bsecode": "544045",
-    "close": 2298.4,
-    "per_chg": 2.41,
-    "volume": 120440,
-    "added_at": "2026-03-30T12:08:04"
   },
   {
     "sr": 2,

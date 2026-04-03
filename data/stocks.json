@@ -6,7 +6,7 @@
     "bsecode": "544045",
     "close": 2356.4,
     "per_chg": 0.48,
-    "volume": 41635,
+    "volume": 41630,
     "added_at": "2026-03-30T12:08:04"
   },
   {
@@ -16,7 +16,7 @@
     "bsecode": "533273",
     "close": 1506.9,
     "per_chg": 2.2,
-    "volume": 808003,
+    "volume": 807999,
     "added_at": "2026-04-02T12:04:27"
   },
   {
@@ -26,7 +26,7 @@
     "bsecode": "531768",
     "close": 1334.2,
     "per_chg": 3.97,
-    "volume": 326891,
+    "volume": 326868,
     "added_at": "2026-04-02T12:04:27"
   },
   {
@@ -46,7 +46,7 @@
     "bsecode": "532929",
     "close": 687.55,
     "per_chg": 2.22,
-    "volume": 392098,
+    "volume": 392068,
     "added_at": "2026-04-02T12:04:27"
   },
   {
@@ -71,6 +71,26 @@
   },
   {
     "sr": 8,
+    "nsecode": "SANGHVIMOV",
+    "name": "Sanghvi Movers Limited",
+    "bsecode": "530073",
+    "close": 286.67,
+    "per_chg": 7.21,
+    "volume": 677751,
+    "added_at": "2026-04-01T12:06:12"
+  },
+  {
+    "sr": 9,
+    "nsecode": "ZAGGLE",
+    "name": "Zaggle Prepaid Ocean Services Ltd",
+    "bsecode": "543985",
+    "close": 234.92,
+    "per_chg": 8.01,
+    "volume": 17731573,
+    "added_at": "2026-04-02T12:04:27"
+  },
+  {
+    "sr": 8,
     "nsecode": "MANYAVAR",
     "name": "Vedant Fashions Ltd",
     "bsecode": "543463",
@@ -78,26 +98,6 @@
     "per_chg": -0.63,
     "volume": 261520,
     "added_at": "2026-04-01T12:06:12"
-  },
-  {
-    "sr": 9,
-    "nsecode": "SANGHVIMOV",
-    "name": "Sanghvi Movers Limited",
-    "bsecode": "530073",
-    "close": 283.55,
-    "per_chg": 6.04,
-    "volume": 677801,
-    "added_at": "2026-04-01T12:06:12"
-  },
-  {
-    "sr": 10,
-    "nsecode": "ZAGGLE",
-    "name": "Zaggle Prepaid Ocean Services Ltd",
-    "bsecode": "543985",
-    "close": 234.92,
-    "per_chg": 8.01,
-    "volume": 17714561,
-    "added_at": "2026-04-02T12:04:27"
   },
   {
     "sr": 1,

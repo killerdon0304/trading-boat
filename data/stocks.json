@@ -4,10 +4,990 @@
     "nsecode": "BOSCHLTD",
     "name": "Bosch Limited",
     "bsecode": "500530",
-    "close": 36770,
-    "per_chg": 2.32,
-    "volume": 262676,
+    "close": 37330,
+    "per_chg": 1.52,
+    "volume": 83720,
     "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 2,
+    "nsecode": "JKCEMENT",
+    "name": "Jk Cement Limited",
+    "bsecode": "532644",
+    "close": 5732,
+    "per_chg": 3.48,
+    "volume": 76956,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 3,
+    "nsecode": "INDIGO",
+    "name": "Interglobe Aviation Limited",
+    "bsecode": "539448",
+    "close": 4554.2,
+    "per_chg": 2.36,
+    "volume": 1296006,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 4,
+    "nsecode": "HAL",
+    "name": "Hindustan Aeronautics Ltd",
+    "bsecode": "541154",
+    "close": 4112.2,
+    "per_chg": 1.97,
+    "volume": 1281358,
+    "added_at": "2026-04-09T12:08:08"
+  },
+  {
+    "sr": 5,
+    "nsecode": "TRENT",
+    "name": "Trent Limited",
+    "bsecode": "500251",
+    "close": 3916.5,
+    "per_chg": 1.71,
+    "volume": 1186264,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 6,
+    "nsecode": "LTTS",
+    "name": "L&t Technology Services Limited",
+    "bsecode": "540115",
+    "close": 3446.5,
+    "per_chg": 3.4,
+    "volume": 190182,
+    "added_at": "2026-04-07T12:06:20"
+  },
+  {
+    "sr": 7,
+    "nsecode": "RADICO",
+    "name": "Radico Khaitan Limited",
+    "bsecode": "532497",
+    "close": 2792.7,
+    "per_chg": 2.78,
+    "volume": 425180,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 8,
+    "nsecode": "HDFCAMC",
+    "name": "HDFC Asset Management Company Ltd",
+    "bsecode": "541729",
+    "close": 2619.3,
+    "per_chg": 4.15,
+    "volume": 919491,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 9,
+    "nsecode": "MAZDOCK",
+    "name": "Mazagon Dock Shipbuilders Ltd",
+    "bsecode": "543237",
+    "close": 2470.2,
+    "per_chg": 1.42,
+    "volume": 2003885,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 10,
+    "nsecode": "ASIANPAINT",
+    "name": "Asian Paints Limited",
+    "bsecode": "500820",
+    "close": 2360.7,
+    "per_chg": 4.01,
+    "volume": 3018178,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 11,
+    "nsecode": "POWERMECH",
+    "name": "Power Mech Projects Limited",
+    "bsecode": "539302",
+    "close": 2261.6,
+    "per_chg": 8.84,
+    "volume": 403628,
+    "added_at": "2026-04-07T12:06:20"
+  },
+  {
+    "sr": 12,
+    "nsecode": "ADANIENT",
+    "name": "Adani Enterprises Limited",
+    "bsecode": "512599",
+    "close": 2086.8,
+    "per_chg": 2.27,
+    "volume": 1700162,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 13,
+    "nsecode": "INTERARCH",
+    "name": "Interarch Building Products Ltd",
+    "bsecode": "544232",
+    "close": 1965,
+    "per_chg": 4.02,
+    "volume": 104044,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 14,
+    "nsecode": "CARTRADE",
+    "name": "Cartrade Tech Ltd",
+    "bsecode": "543333",
+    "close": 1836.7,
+    "per_chg": 1.13,
+    "volume": 288048,
+    "added_at": "2026-04-07T12:06:20"
+  },
+  {
+    "sr": 15,
+    "nsecode": "SJS",
+    "name": "S J S Enterprises Ltd",
+    "bsecode": "543387",
+    "close": 1793.4,
+    "per_chg": 3.38,
+    "volume": 160139,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 16,
+    "nsecode": "PHOENIXLTD",
+    "name": "The Phoenix Mills Limited",
+    "bsecode": "503100",
+    "close": 1763.5,
+    "per_chg": 3.13,
+    "volume": 991843,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 17,
+    "nsecode": "CAPLIPOINT",
+    "name": "Caplin Point Laboratories Limited",
+    "bsecode": "524742",
+    "close": 1708,
+    "per_chg": 2.77,
+    "volume": 95693,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 18,
+    "nsecode": "BEML",
+    "name": "Beml Limited",
+    "bsecode": "500048",
+    "close": 1621.2,
+    "per_chg": 1.15,
+    "volume": 202786,
+    "added_at": "2026-04-09T12:08:08"
+  },
+  {
+    "sr": 19,
+    "nsecode": "CHOLAHLDNG",
+    "name": "Cholamandalam Financial Holdings Ltd",
+    "bsecode": "504973",
+    "close": 1593,
+    "per_chg": 0.75,
+    "volume": 215767,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 20,
+    "nsecode": "KIRLOSBROS",
+    "name": "Kirloskar Brothers Limited",
+    "bsecode": "500241",
+    "close": 1588.3,
+    "per_chg": 3.8,
+    "volume": 75393,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 21,
+    "nsecode": "IKS",
+    "name": "Inventurus Knowledge Solutions Ltd",
+    "bsecode": "544309",
+    "close": 1529,
+    "per_chg": 3.5,
+    "volume": 274105,
+    "added_at": "2026-04-09T12:08:08"
+  },
+  {
+    "sr": 22,
+    "nsecode": "POLICYBZR",
+    "name": "PB Fintech Ltd",
+    "bsecode": "543390",
+    "close": 1509.8,
+    "per_chg": 1.1,
+    "volume": 1610221,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 23,
+    "nsecode": "TATACOMM",
+    "name": "Tata Communications Limited",
+    "bsecode": "500483",
+    "close": 1509,
+    "per_chg": 2.58,
+    "volume": 404542,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 24,
+    "nsecode": "ADANIPORTS",
+    "name": "Adani Ports And Special Economic Zone Limited",
+    "bsecode": "532921",
+    "close": 1475.3,
+    "per_chg": 1.93,
+    "volume": 4026881,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 25,
+    "nsecode": "COCHINSHIP",
+    "name": "Cochin Shipyard Ltd",
+    "bsecode": "540678",
+    "close": 1464.6,
+    "per_chg": 2.86,
+    "volume": 3028553,
+    "added_at": "2026-04-09T12:08:08"
+  },
+  {
+    "sr": 26,
+    "nsecode": "VENKEYS",
+    "name": "Venky's (india) Limited",
+    "bsecode": "523261",
+    "close": 1462,
+    "per_chg": 0.2,
+    "volume": 43563,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 27,
+    "nsecode": "ABREL",
+    "name": "Aditya Birla Real Estate Ltd",
+    "bsecode": "500040",
+    "close": 1361.1,
+    "per_chg": 5.56,
+    "volume": 1096732,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 28,
+    "nsecode": "BDL",
+    "name": "Bharat Dynamics Ltd",
+    "bsecode": "541143",
+    "close": 1345.9,
+    "per_chg": 1.54,
+    "volume": 1216787,
+    "added_at": "2026-04-09T12:08:08"
+  },
+  {
+    "sr": 29,
+    "nsecode": "ZOTA",
+    "name": "Zota Health Care Ltd",
+    "bsecode": "538426",
+    "close": 1320,
+    "per_chg": 6.93,
+    "volume": 138132,
+    "added_at": "2026-04-09T12:08:08"
+  },
+  {
+    "sr": 30,
+    "nsecode": "CDSL",
+    "name": "Central Depository Services Ltd",
+    "bsecode": null,
+    "close": 1303.4,
+    "per_chg": 1.88,
+    "volume": 2534434,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 31,
+    "nsecode": "AAVAS",
+    "name": "AAVAS Financiers Ltd",
+    "bsecode": "541988",
+    "close": 1243.8,
+    "per_chg": 1.91,
+    "volume": 285674,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 32,
+    "nsecode": "VENUSPIPES",
+    "name": "Venus Pipes & Tubes Ltd",
+    "bsecode": "543528",
+    "close": 1232.25,
+    "per_chg": 3.03,
+    "volume": 157041,
+    "added_at": "2026-04-07T12:06:20"
+  },
+  {
+    "sr": 33,
+    "nsecode": "POCL",
+    "name": "Pondy Oxides & Chemicals Ltd",
+    "bsecode": "532626",
+    "close": 1191.8,
+    "per_chg": 2.79,
+    "volume": 176696,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 34,
+    "nsecode": "KERNEX",
+    "name": "Kernex Microsystems (india) Limited",
+    "bsecode": "532686",
+    "close": 1167.25,
+    "per_chg": 5.29,
+    "volume": 202029,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 35,
+    "nsecode": "NESCO",
+    "name": "Nesco Limited",
+    "bsecode": "505355",
+    "close": 1148,
+    "per_chg": 2.13,
+    "volume": 35280,
+    "added_at": "2026-04-09T12:08:08"
+  },
+  {
+    "sr": 36,
+    "nsecode": "PAYTM",
+    "name": "One 97 Communications Ltd",
+    "bsecode": "543396",
+    "close": 1123.85,
+    "per_chg": 2.36,
+    "volume": 2508817,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 37,
+    "nsecode": "HOMEFIRST",
+    "name": "Home First Finance Company India Ltd",
+    "bsecode": "543259",
+    "close": 1084.65,
+    "per_chg": 2.34,
+    "volume": 265336,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 38,
+    "nsecode": "IFBIND",
+    "name": "Ifb Industries Limited",
+    "bsecode": "505726",
+    "close": 1081.25,
+    "per_chg": 3.95,
+    "volume": 86430,
+    "added_at": "2026-04-09T12:08:08"
+  },
+  {
+    "sr": 39,
+    "nsecode": "MGL",
+    "name": "Mahanagar Gas Limited",
+    "bsecode": "539957",
+    "close": 1075.75,
+    "per_chg": 3.41,
+    "volume": 437328,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 40,
+    "nsecode": "DSSL",
+    "name": "Dynacons Systems & Solutions Limited",
+    "bsecode": "532365",
+    "close": 1055.2,
+    "per_chg": 7,
+    "volume": 130030,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 41,
+    "nsecode": "NAM-INDIA",
+    "name": "Nippon Life India Asset Management Ltd",
+    "bsecode": "540767",
+    "close": 955.25,
+    "per_chg": 5.13,
+    "volume": 2020947,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 42,
+    "nsecode": "BIRLACORPN",
+    "name": "Birla Corporation Limited",
+    "bsecode": "500335",
+    "close": 946,
+    "per_chg": 1.59,
+    "volume": 117190,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 43,
+    "nsecode": "GLOBUSSPR",
+    "name": "Globus Spirits Limited",
+    "bsecode": "533104",
+    "close": 935.4,
+    "per_chg": 0.12,
+    "volume": 35225,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 44,
+    "nsecode": "GABRIEL",
+    "name": "Gabriel India Limited",
+    "bsecode": "505714",
+    "close": 933.5,
+    "per_chg": 2.9,
+    "volume": 375797,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 45,
+    "nsecode": "JUBLPHARMA",
+    "name": "Jubilant Pharmova Ltd",
+    "bsecode": "530019",
+    "close": 889,
+    "per_chg": 1.14,
+    "volume": 167524,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 46,
+    "nsecode": "AURIONPRO",
+    "name": "Aurionpro Solutions Limited",
+    "bsecode": "532668",
+    "close": 869,
+    "per_chg": 5.9,
+    "volume": 440468,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 47,
+    "nsecode": "EIDPARRY",
+    "name": "Eid Parry India Limited",
+    "bsecode": "500125",
+    "close": 855,
+    "per_chg": 2.93,
+    "volume": 155097,
+    "added_at": "2026-04-07T12:06:20"
+  },
+  {
+    "sr": 48,
+    "nsecode": "SENORES",
+    "name": "Senores Pharmaceuticals Ltd",
+    "bsecode": "544319",
+    "close": 821.4,
+    "per_chg": 1.99,
+    "volume": 221677,
+    "added_at": "2026-04-09T12:08:08"
+  },
+  {
+    "sr": 49,
+    "nsecode": "RAYMONDLSL",
+    "name": "Raymond Lifestyle Ltd",
+    "bsecode": "544240",
+    "close": 804.2,
+    "per_chg": 2.62,
+    "volume": 119538,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 50,
+    "nsecode": "AHLUCONT",
+    "name": "Ahluwalia Contracts (india) Limited",
+    "bsecode": "532811",
+    "close": 782.75,
+    "per_chg": 2.59,
+    "volume": 36974,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 51,
+    "nsecode": "JSL",
+    "name": "Jindal Stainless Limited",
+    "bsecode": "532508",
+    "close": 780.85,
+    "per_chg": 3.14,
+    "volume": 787215,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 52,
+    "nsecode": "MOTILALOFS",
+    "name": "Motilal Oswal Financial Services Limited",
+    "bsecode": "532892",
+    "close": 778.55,
+    "per_chg": 2.29,
+    "volume": 1068186,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 53,
+    "nsecode": "UNIVCABLES",
+    "name": "Universal Cables Limited",
+    "bsecode": "504212",
+    "close": 767.9,
+    "per_chg": 2.8,
+    "volume": 43891,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 54,
+    "nsecode": "HBLENGINE",
+    "name": "HBL Engineering Ltd",
+    "bsecode": "517271",
+    "close": 730.65,
+    "per_chg": 1.12,
+    "volume": 1582943,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 55,
+    "nsecode": "CAMS",
+    "name": "Computer Age Management Services Ltd",
+    "bsecode": "543232",
+    "close": 715.8,
+    "per_chg": 2.4,
+    "volume": 778688,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 56,
+    "nsecode": "BATAINDIA",
+    "name": "Bata India Limited",
+    "bsecode": "500043",
+    "close": 715.45,
+    "per_chg": 2.03,
+    "volume": 139166,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 57,
+    "nsecode": "TATACHEM",
+    "name": "Tata Chemicals Limited",
+    "bsecode": "500770",
+    "close": 689.9,
+    "per_chg": 6.21,
+    "volume": 1583617,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 58,
+    "nsecode": "AARTIPHARM",
+    "name": "Aarti Pharmalabs Ltd",
+    "bsecode": "543748",
+    "close": 689.05,
+    "per_chg": 1.19,
+    "volume": 108049,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 59,
+    "nsecode": "INTELLECT",
+    "name": "Intellect Design Arena Limited",
+    "bsecode": "538835",
+    "close": 679.5,
+    "per_chg": 1.16,
+    "volume": 204961,
+    "added_at": "2026-04-07T12:06:20"
+  },
+  {
+    "sr": 60,
+    "nsecode": "JSLL",
+    "name": "Jeena Sikho Lifecare Ltd",
+    "bsecode": "535446",
+    "close": 666.9,
+    "per_chg": 2.47,
+    "volume": 208444,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 61,
+    "nsecode": "TATAINVEST",
+    "name": "Tata Investment Corporation Limited",
+    "bsecode": "501301",
+    "close": 665.65,
+    "per_chg": 4.52,
+    "volume": 1446214,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 62,
+    "nsecode": "JUBLINGREA",
+    "name": "Jubilant Ingrevia Ltd",
+    "bsecode": "543271",
+    "close": 648.1,
+    "per_chg": 1.45,
+    "volume": 223441,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 63,
+    "nsecode": "SUPRIYA",
+    "name": "Supriya Lifescience Ltd",
+    "bsecode": "543434",
+    "close": 638.75,
+    "per_chg": 1.62,
+    "volume": 57243,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 64,
+    "nsecode": "CEMPRO",
+    "name": "Cemindia Projects Ltd",
+    "bsecode": "509496",
+    "close": 630.35,
+    "per_chg": 4.31,
+    "volume": 410994,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 65,
+    "nsecode": "NELCO",
+    "name": "Nelco Limited",
+    "bsecode": "504112",
+    "close": 628.65,
+    "per_chg": 0.77,
+    "volume": 86727,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 66,
+    "nsecode": "ITDC",
+    "name": "India Tourism Development Corporation Ltd",
+    "bsecode": "532189",
+    "close": 610.4,
+    "per_chg": 15.31,
+    "volume": 34374583,
+    "added_at": "2026-04-09T12:08:08"
+  },
+  {
+    "sr": 67,
+    "nsecode": "BANCOINDIA",
+    "name": "Banco Products (i) Limited",
+    "bsecode": "500039",
+    "close": 590.35,
+    "per_chg": 4.26,
+    "volume": 362958,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 68,
+    "nsecode": "JUSTDIAL",
+    "name": "Just Dial Limited",
+    "bsecode": "535648",
+    "close": 581.5,
+    "per_chg": 2.64,
+    "volume": 206285,
+    "added_at": "2026-04-07T12:06:20"
+  },
+  {
+    "sr": 69,
+    "nsecode": "TEMBO",
+    "name": "Tembo Global Industries Ltd",
+    "bsecode": "535101",
+    "close": 569.6,
+    "per_chg": 3.52,
+    "volume": 181254,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 70,
+    "nsecode": "TATATECH",
+    "name": "Tata Technologies Ltd",
+    "bsecode": "544028",
+    "close": 566.25,
+    "per_chg": 1.32,
+    "volume": 720167,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 71,
+    "nsecode": "ORCHPHARMA",
+    "name": "Orchid Pharma Ltd",
+    "bsecode": "524372",
+    "close": 562,
+    "per_chg": 3.72,
+    "volume": 61386,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 72,
+    "nsecode": "RATEGAIN",
+    "name": "Rategain Travel Technologies Ltd",
+    "bsecode": "543417",
+    "close": 560.85,
+    "per_chg": 1.49,
+    "volume": 185556,
+    "added_at": "2026-04-07T12:06:20"
+  },
+  {
+    "sr": 73,
+    "nsecode": "HCG",
+    "name": "Healthcare Global Enterprises Limited",
+    "bsecode": "539787",
+    "close": 556.1,
+    "per_chg": 1.9,
+    "volume": 85352,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 74,
+    "nsecode": "AGI",
+    "name": "AGI Greenpac Ltd",
+    "bsecode": "500187",
+    "close": 547.7,
+    "per_chg": 5.51,
+    "volume": 248056,
+    "added_at": "2026-04-07T12:06:20"
+  },
+  {
+    "sr": 75,
+    "nsecode": "HGINFRA",
+    "name": "H.G. Infra Engineering Ltd",
+    "bsecode": "541019",
+    "close": 544.9,
+    "per_chg": 4.63,
+    "volume": 350248,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 76,
+    "nsecode": "PROTEAN",
+    "name": "Protean eGov Technologies Ltd",
+    "bsecode": "544021",
+    "close": 532.15,
+    "per_chg": 3.52,
+    "volume": 382756,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 77,
+    "nsecode": "VARROC",
+    "name": "Varroc Engineering Ltd",
+    "bsecode": "541578",
+    "close": 523,
+    "per_chg": 4.66,
+    "volume": 222587,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 78,
+    "nsecode": "ABDL",
+    "name": "Allied Blenders & Distillers Ltd",
+    "bsecode": "544203",
+    "close": 509.4,
+    "per_chg": 9.18,
+    "volume": 2138634,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 79,
+    "nsecode": "EUREKAFORB",
+    "name": "Eureka Forbes Ltd",
+    "bsecode": "543482",
+    "close": 493.75,
+    "per_chg": 4.01,
+    "volume": 167550,
+    "added_at": "2026-04-07T12:06:20"
+  },
+  {
+    "sr": 80,
+    "nsecode": "ANANTRAJ",
+    "name": "Anant Raj Limited",
+    "bsecode": "515055",
+    "close": 488.1,
+    "per_chg": 2.38,
+    "volume": 1912472,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 81,
+    "nsecode": "SBCL",
+    "name": "Shivalik Bimetal Controls Ltd",
+    "bsecode": "513097",
+    "close": 486.35,
+    "per_chg": 4.04,
+    "volume": 302650,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 82,
+    "nsecode": "EMUDHRA",
+    "name": "eMudhra Ltd",
+    "bsecode": "543533",
+    "close": 480,
+    "per_chg": 0.81,
+    "volume": 61873,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 83,
+    "nsecode": "GHCL",
+    "name": "Ghcl Limited",
+    "bsecode": "500171",
+    "close": 475.25,
+    "per_chg": 1.81,
+    "volume": 73332,
+    "added_at": "2026-04-07T12:06:20"
+  },
+  {
+    "sr": 84,
+    "nsecode": "BORORENEW",
+    "name": "Borosil Renewables Ltd",
+    "bsecode": "502219",
+    "close": 467.55,
+    "per_chg": 3.85,
+    "volume": 675169,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 85,
+    "nsecode": "BERGEPAINT",
+    "name": "Berger Paints (i) Limited",
+    "bsecode": "509480",
+    "close": 454,
+    "per_chg": 4.37,
+    "volume": 627433,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 86,
+    "nsecode": "MARATHON",
+    "name": "Marathon Nextgen Realty Limited",
+    "bsecode": "503101",
+    "close": 448.95,
+    "per_chg": 1.23,
+    "volume": 112960,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 87,
+    "nsecode": "FIVESTAR",
+    "name": "Five-Star Business Finance Ltd",
+    "bsecode": null,
+    "close": 428.6,
+    "per_chg": 1.25,
+    "volume": 993887,
+    "added_at": "2026-04-07T12:06:20"
+  },
+  {
+    "sr": 88,
+    "nsecode": "CELLO",
+    "name": "Cello World Ltd",
+    "bsecode": "544012",
+    "close": 423.05,
+    "per_chg": 1.99,
+    "volume": 348023,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 89,
+    "nsecode": "KIRIINDUS",
+    "name": "Kiri Industries Limited",
+    "bsecode": "532967",
+    "close": 405.5,
+    "per_chg": 2.03,
+    "volume": 216477,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 90,
+    "nsecode": "CSBBANK",
+    "name": "CSB Bank Ltd",
+    "bsecode": "542867",
+    "close": 404.9,
+    "per_chg": 2.36,
+    "volume": 268253,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 91,
+    "nsecode": "THYROCARE",
+    "name": "Thyrocare Technologies Limited",
+    "bsecode": "539871",
+    "close": 399,
+    "per_chg": 1.55,
+    "volume": 168283,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 92,
+    "nsecode": "OPTIEMUS",
+    "name": "Optiemus Infracom Ltd",
+    "bsecode": "530135",
+    "close": 377.8,
+    "per_chg": 4.08,
+    "volume": 258738,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 93,
+    "nsecode": "GOLDIAM",
+    "name": "Goldiam International Limited",
+    "bsecode": "526729",
+    "close": 346.55,
+    "per_chg": 3.94,
+    "volume": 767591,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 94,
+    "nsecode": "KRBL",
+    "name": "Krbl Limited",
+    "bsecode": "530813",
+    "close": 331.8,
+    "per_chg": 1.79,
+    "volume": 544728,
+    "added_at": "2026-04-10T12:04:08"
+  },
+  {
+    "sr": 95,
+    "nsecode": "AWFIS",
+    "name": "AWFIS Space Solutions Ltd",
+    "bsecode": "544181",
+    "close": 321.02,
+    "per_chg": 3.29,
+    "volume": 223473,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 96,
+    "nsecode": "MOIL",
+    "name": "Moil Limited",
+    "bsecode": "533286",
+    "close": 305.7,
+    "per_chg": 1.78,
+    "volume": 700303,
+    "added_at": "2026-04-06T12:03:32"
+  },
+  {
+    "sr": 97,
+    "nsecode": "HLEGLAS",
+    "name": "HLE Glascoat Ltd",
+    "bsecode": "522215",
+    "close": 299.85,
+    "per_chg": 1.99,
+    "volume": 90573,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 98,
+    "nsecode": "SONATSOFTW",
+    "name": "Sonata Software Limited",
+    "bsecode": "532221",
+    "close": 246.27,
+    "per_chg": 0.75,
+    "volume": 438646,
+    "added_at": "2026-04-08T12:06:53"
+  },
+  {
+    "sr": 99,
+    "nsecode": "STALLION",
+    "name": "Stallion India Fluorochemicals Ltd",
+    "bsecode": "544342",
+    "close": 136.92,
+    "per_chg": 4.34,
+    "volume": 2689182,
+    "added_at": "2026-04-07T12:06:20"
   },
   {
     "sr": 2,
@@ -18,16 +998,6 @@
     "per_chg": 1.81,
     "volume": 600773,
     "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 3,
-    "nsecode": "HAL",
-    "name": "Hindustan Aeronautics Ltd",
-    "bsecode": "541154",
-    "close": 4032.9,
-    "per_chg": 3.21,
-    "volume": 2791024,
-    "added_at": "2026-04-09T12:08:08"
   },
   {
     "sr": 4,
@@ -50,16 +1020,6 @@
     "added_at": "2026-04-08T12:06:53"
   },
   {
-    "sr": 6,
-    "nsecode": "MAZDOCK",
-    "name": "Mazagon Dock Shipbuilders Ltd",
-    "bsecode": "543237",
-    "close": 2435.5,
-    "per_chg": 1.69,
-    "volume": 2726993,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
     "sr": 7,
     "nsecode": "MPHASIS",
     "name": "Mphasis Limited",
@@ -80,26 +1040,6 @@
     "added_at": "2026-04-09T12:08:08"
   },
   {
-    "sr": 9,
-    "nsecode": "POWERMECH",
-    "name": "Power Mech Projects Limited",
-    "bsecode": "539302",
-    "close": 2080.7,
-    "per_chg": 0.65,
-    "volume": 87214,
-    "added_at": "2026-04-07T12:06:20"
-  },
-  {
-    "sr": 10,
-    "nsecode": "ADANIENT",
-    "name": "Adani Enterprises Limited",
-    "bsecode": "512599",
-    "close": 2040.5,
-    "per_chg": -0.16,
-    "volume": 2481188,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
     "sr": 11,
     "nsecode": "MASTEK",
     "name": "Mastek Limited",
@@ -110,26 +1050,6 @@
     "added_at": "2026-04-08T12:06:53"
   },
   {
-    "sr": 12,
-    "nsecode": "BEML",
-    "name": "Beml Limited",
-    "bsecode": "500048",
-    "close": 1602.7,
-    "per_chg": 1.05,
-    "volume": 369069,
-    "added_at": "2026-04-09T12:08:08"
-  },
-  {
-    "sr": 13,
-    "nsecode": "IKS",
-    "name": "Inventurus Knowledge Solutions Ltd",
-    "bsecode": "544309",
-    "close": 1475,
-    "per_chg": 1.08,
-    "volume": 82054,
-    "added_at": "2026-04-09T12:08:08"
-  },
-  {
     "sr": 14,
     "nsecode": "HCLTECH",
     "name": "Hcl Technologies Limited",
@@ -138,26 +1058,6 @@
     "per_chg": 0.27,
     "volume": 3101227,
     "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 15,
-    "nsecode": "VENKEYS",
-    "name": "Venky's (india) Limited",
-    "bsecode": "523261",
-    "close": 1454.6,
-    "per_chg": 0.02,
-    "volume": 58392,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 16,
-    "nsecode": "COCHINSHIP",
-    "name": "Cochin Shipyard Ltd",
-    "bsecode": "540678",
-    "close": 1423.9,
-    "per_chg": 3.2,
-    "volume": 3535674,
-    "added_at": "2026-04-09T12:08:08"
   },
   {
     "sr": 17,
@@ -190,16 +1090,6 @@
     "added_at": "2026-04-07T12:06:20"
   },
   {
-    "sr": 20,
-    "nsecode": "BDL",
-    "name": "Bharat Dynamics Ltd",
-    "bsecode": "541143",
-    "close": 1325.5,
-    "per_chg": 2.64,
-    "volume": 2714078,
-    "added_at": "2026-04-09T12:08:08"
-  },
-  {
     "sr": 21,
     "nsecode": "NUVAMA",
     "name": "Nuvama Wealth Management Ltd",
@@ -208,16 +1098,6 @@
     "per_chg": 1.08,
     "volume": 329978,
     "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 22,
-    "nsecode": "ABREL",
-    "name": "Aditya Birla Real Estate Ltd",
-    "bsecode": "500040",
-    "close": 1289.4,
-    "per_chg": 2.07,
-    "volume": 297654,
-    "added_at": "2026-04-06T12:03:32"
   },
   {
     "sr": 23,
@@ -230,76 +1110,6 @@
     "added_at": "2026-04-09T12:08:08"
   },
   {
-    "sr": 24,
-    "nsecode": "ZOTA",
-    "name": "Zota Health Care Ltd",
-    "bsecode": "538426",
-    "close": 1230,
-    "per_chg": 0.52,
-    "volume": 62673,
-    "added_at": "2026-04-09T12:08:08"
-  },
-  {
-    "sr": 25,
-    "nsecode": "AAVAS",
-    "name": "AAVAS Financiers Ltd",
-    "bsecode": "541988",
-    "close": 1220.5,
-    "per_chg": 0.93,
-    "volume": 112411,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 26,
-    "nsecode": "VENUSPIPES",
-    "name": "Venus Pipes & Tubes Ltd",
-    "bsecode": "543528",
-    "close": 1196,
-    "per_chg": 6.26,
-    "volume": 263679,
-    "added_at": "2026-04-07T12:06:20"
-  },
-  {
-    "sr": 27,
-    "nsecode": "NESCO",
-    "name": "Nesco Limited",
-    "bsecode": "505355",
-    "close": 1126,
-    "per_chg": 1,
-    "volume": 52109,
-    "added_at": "2026-04-09T12:08:08"
-  },
-  {
-    "sr": 28,
-    "nsecode": "IFBIND",
-    "name": "Ifb Industries Limited",
-    "bsecode": "505726",
-    "close": 1040.2,
-    "per_chg": 0.74,
-    "volume": 54860,
-    "added_at": "2026-04-09T12:08:08"
-  },
-  {
-    "sr": 29,
-    "nsecode": "BIRLACORPN",
-    "name": "Birla Corporation Limited",
-    "bsecode": "500335",
-    "close": 931.2,
-    "per_chg": 0.08,
-    "volume": 66488,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 30,
-    "nsecode": "JUBLPHARMA",
-    "name": "Jubilant Pharmova Ltd",
-    "bsecode": "530019",
-    "close": 879,
-    "per_chg": 0.15,
-    "volume": 269118,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
     "sr": 31,
     "nsecode": "JYOTICNC",
     "name": "Jyoti CNC Automation Ltd",
@@ -307,66 +1117,6 @@
     "close": 808,
     "per_chg": -0.22,
     "volume": 370003,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 32,
-    "nsecode": "SENORES",
-    "name": "Senores Pharmaceuticals Ltd",
-    "bsecode": "544319",
-    "close": 805.35,
-    "per_chg": 2.82,
-    "volume": 545041,
-    "added_at": "2026-04-09T12:08:08"
-  },
-  {
-    "sr": 33,
-    "nsecode": "MOTILALOFS",
-    "name": "Motilal Oswal Financial Services Limited",
-    "bsecode": "532892",
-    "close": 762.05,
-    "per_chg": 0.61,
-    "volume": 1411013,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 34,
-    "nsecode": "HBLENGINE",
-    "name": "HBL Engineering Ltd",
-    "bsecode": "517271",
-    "close": 722.55,
-    "per_chg": 0.58,
-    "volume": 1898606,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 35,
-    "nsecode": "JUBLINGREA",
-    "name": "Jubilant Ingrevia Ltd",
-    "bsecode": "543271",
-    "close": 638.85,
-    "per_chg": 1.4,
-    "volume": 166208,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 36,
-    "nsecode": "TATAINVEST",
-    "name": "Tata Investment Corporation Limited",
-    "bsecode": "501301",
-    "close": 636.85,
-    "per_chg": 2.85,
-    "volume": 2072536,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 37,
-    "nsecode": "CEMPRO",
-    "name": "Cemindia Projects Ltd",
-    "bsecode": "509496",
-    "close": 604.3,
-    "per_chg": -0.12,
-    "volume": 507881,
     "added_at": "2026-04-06T12:03:32"
   },
   {
@@ -380,56 +1130,6 @@
     "added_at": "2026-04-06T12:03:32"
   },
   {
-    "sr": 39,
-    "nsecode": "ITDC",
-    "name": "India Tourism Development Corporation Ltd",
-    "bsecode": "532189",
-    "close": 529.35,
-    "per_chg": 19.99,
-    "volume": 12137619,
-    "added_at": "2026-04-09T12:08:08"
-  },
-  {
-    "sr": 40,
-    "nsecode": "HGINFRA",
-    "name": "H.G. Infra Engineering Ltd",
-    "bsecode": "541019",
-    "close": 520.8,
-    "per_chg": 0.89,
-    "volume": 282178,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 41,
-    "nsecode": "EUREKAFORB",
-    "name": "Eureka Forbes Ltd",
-    "bsecode": "543482",
-    "close": 474.7,
-    "per_chg": 0.67,
-    "volume": 79401,
-    "added_at": "2026-04-07T12:06:20"
-  },
-  {
-    "sr": 42,
-    "nsecode": "SBCL",
-    "name": "Shivalik Bimetal Controls Ltd",
-    "bsecode": "513097",
-    "close": 469.7,
-    "per_chg": 0.57,
-    "volume": 200316,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 43,
-    "nsecode": "ABDL",
-    "name": "Allied Blenders & Distillers Ltd",
-    "bsecode": "544203",
-    "close": 466.55,
-    "per_chg": 2.06,
-    "volume": 619812,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
     "sr": 44,
     "nsecode": "AJAXENGG",
     "name": "Ajax Engineering Ltd",
@@ -440,46 +1140,6 @@
     "added_at": "2026-04-09T12:08:08"
   },
   {
-    "sr": 45,
-    "nsecode": "BORORENEW",
-    "name": "Borosil Renewables Ltd",
-    "bsecode": "502219",
-    "close": 450.2,
-    "per_chg": 0.45,
-    "volume": 661190,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 46,
-    "nsecode": "FIVESTAR",
-    "name": "Five-Star Business Finance Ltd",
-    "bsecode": null,
-    "close": 423.3,
-    "per_chg": 3.95,
-    "volume": 1428855,
-    "added_at": "2026-04-07T12:06:20"
-  },
-  {
-    "sr": 47,
-    "nsecode": "THYROCARE",
-    "name": "Thyrocare Technologies Limited",
-    "bsecode": "539871",
-    "close": 392.9,
-    "per_chg": 0.63,
-    "volume": 155812,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 48,
-    "nsecode": "AWFIS",
-    "name": "AWFIS Space Solutions Ltd",
-    "bsecode": "544181",
-    "close": 310.81,
-    "per_chg": 1.53,
-    "volume": 358037,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
     "sr": 49,
     "nsecode": "CYIENTDLM",
     "name": "Cyient DLM Ltd",
@@ -488,16 +1148,6 @@
     "per_chg": 1.21,
     "volume": 707566,
     "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 50,
-    "nsecode": "MOIL",
-    "name": "Moil Limited",
-    "bsecode": "533286",
-    "close": 300.35,
-    "per_chg": 0.92,
-    "volume": 1533246,
-    "added_at": "2026-04-06T12:03:32"
   },
   {
     "sr": 51,
@@ -517,116 +1167,6 @@
     "close": 201.77,
     "per_chg": 0.07,
     "volume": 1241735,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 2,
-    "nsecode": "JKCEMENT",
-    "name": "Jk Cement Limited",
-    "bsecode": "532644",
-    "close": 5565.5,
-    "per_chg": 5.68,
-    "volume": 41299,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 3,
-    "nsecode": "INDIGO",
-    "name": "Interglobe Aviation Limited",
-    "bsecode": "539448",
-    "close": 4615.5,
-    "per_chg": 8.12,
-    "volume": 5538528,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 4,
-    "nsecode": "RADICO",
-    "name": "Radico Khaitan Limited",
-    "bsecode": "532497",
-    "close": 2762.3,
-    "per_chg": 5.07,
-    "volume": 449048,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 8,
-    "nsecode": "CARTRADE",
-    "name": "Cartrade Tech Ltd",
-    "bsecode": "543333",
-    "close": 1871.6,
-    "per_chg": 6.1,
-    "volume": 308763,
-    "added_at": "2026-04-07T12:06:20"
-  },
-  {
-    "sr": 9,
-    "nsecode": "CHOLAHLDNG",
-    "name": "Cholamandalam Financial Holdings Ltd",
-    "bsecode": "504973",
-    "close": 1633.8,
-    "per_chg": 16.98,
-    "volume": 4499967,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 11,
-    "nsecode": "POLICYBZR",
-    "name": "PB Fintech Ltd",
-    "bsecode": "543390",
-    "close": 1498.5,
-    "per_chg": 2.66,
-    "volume": 1201886,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 15,
-    "nsecode": "CDSL",
-    "name": "Central Depository Services Ltd",
-    "bsecode": null,
-    "close": 1287.4,
-    "per_chg": 6.97,
-    "volume": 4449476,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 19,
-    "nsecode": "POCL",
-    "name": "Pondy Oxides & Chemicals Ltd",
-    "bsecode": "532626",
-    "close": 1167,
-    "per_chg": 5.94,
-    "volume": 188344,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 20,
-    "nsecode": "KERNEX",
-    "name": "Kernex Microsystems (india) Limited",
-    "bsecode": "532686",
-    "close": 1141.3,
-    "per_chg": 8.59,
-    "volume": 325452,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 22,
-    "nsecode": "PAYTM",
-    "name": "One 97 Communications Ltd",
-    "bsecode": "543396",
-    "close": 1112.95,
-    "per_chg": 8.22,
-    "volume": 4233645,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 23,
-    "nsecode": "DSSL",
-    "name": "Dynacons Systems & Solutions Limited",
-    "bsecode": "532365",
-    "close": 1004.55,
-    "per_chg": 9.42,
-    "volume": 141950,
     "added_at": "2026-04-08T12:06:53"
   },
   {
@@ -650,16 +1190,6 @@
     "added_at": "2026-04-06T12:03:32"
   },
   {
-    "sr": 28,
-    "nsecode": "AHLUCONT",
-    "name": "Ahluwalia Contracts (india) Limited",
-    "bsecode": "532811",
-    "close": 770,
-    "per_chg": 6.07,
-    "volume": 99963,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
     "sr": 30,
     "nsecode": "APLLTD",
     "name": "Alembic Pharmaceuticals Limited",
@@ -668,46 +1198,6 @@
     "per_chg": 5.24,
     "volume": 157824,
     "added_at": "2026-04-07T12:06:20"
-  },
-  {
-    "sr": 31,
-    "nsecode": "CAMS",
-    "name": "Computer Age Management Services Ltd",
-    "bsecode": "543232",
-    "close": 704.85,
-    "per_chg": 4.78,
-    "volume": 1393128,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 32,
-    "nsecode": "AARTIPHARM",
-    "name": "Aarti Pharmalabs Ltd",
-    "bsecode": "543748",
-    "close": 689,
-    "per_chg": 6.05,
-    "volume": 252916,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 33,
-    "nsecode": "JSLL",
-    "name": "Jeena Sikho Lifecare Ltd",
-    "bsecode": "535446",
-    "close": 656.95,
-    "per_chg": 5.99,
-    "volume": 493427,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 34,
-    "nsecode": "NELCO",
-    "name": "Nelco Limited",
-    "bsecode": "504112",
-    "close": 639,
-    "per_chg": 5.18,
-    "volume": 118738,
-    "added_at": "2026-04-06T12:03:32"
   },
   {
     "sr": 38,
@@ -720,36 +1210,6 @@
     "added_at": "2026-04-08T12:06:53"
   },
   {
-    "sr": 39,
-    "nsecode": "JUSTDIAL",
-    "name": "Just Dial Limited",
-    "bsecode": "535648",
-    "close": 565.85,
-    "per_chg": 6.57,
-    "volume": 260211,
-    "added_at": "2026-04-07T12:06:20"
-  },
-  {
-    "sr": 40,
-    "nsecode": "RATEGAIN",
-    "name": "Rategain Travel Technologies Ltd",
-    "bsecode": "543417",
-    "close": 555,
-    "per_chg": 9.4,
-    "volume": 641312,
-    "added_at": "2026-04-07T12:06:20"
-  },
-  {
-    "sr": 41,
-    "nsecode": "AGI",
-    "name": "AGI Greenpac Ltd",
-    "bsecode": "500187",
-    "close": 538.55,
-    "per_chg": 7.73,
-    "volume": 351641,
-    "added_at": "2026-04-07T12:06:20"
-  },
-  {
     "sr": 42,
     "nsecode": "SIYSIL",
     "name": "Siyaram Silk Mills Limited",
@@ -760,16 +1220,6 @@
     "added_at": "2026-04-06T12:03:32"
   },
   {
-    "sr": 43,
-    "nsecode": "PROTEAN",
-    "name": "Protean eGov Technologies Ltd",
-    "bsecode": "544021",
-    "close": 521.5,
-    "per_chg": 3.8,
-    "volume": 304650,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
     "sr": 45,
     "nsecode": "ROUTE",
     "name": "Route Mobile Ltd",
@@ -778,56 +1228,6 @@
     "per_chg": 4.53,
     "volume": 336025,
     "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 46,
-    "nsecode": "EMUDHRA",
-    "name": "eMudhra Ltd",
-    "bsecode": "543533",
-    "close": 484.45,
-    "per_chg": 7.63,
-    "volume": 244224,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 47,
-    "nsecode": "GHCL",
-    "name": "Ghcl Limited",
-    "bsecode": "500171",
-    "close": 473.95,
-    "per_chg": 3.62,
-    "volume": 100242,
-    "added_at": "2026-04-07T12:06:20"
-  },
-  {
-    "sr": 50,
-    "nsecode": "MARATHON",
-    "name": "Marathon Nextgen Realty Limited",
-    "bsecode": "503101",
-    "close": 448,
-    "per_chg": 6.2,
-    "volume": 82748,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 51,
-    "nsecode": "CELLO",
-    "name": "Cello World Ltd",
-    "bsecode": "544012",
-    "close": 422.5,
-    "per_chg": 4.93,
-    "volume": 1640582,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 53,
-    "nsecode": "CSBBANK",
-    "name": "CSB Bank Ltd",
-    "bsecode": "542867",
-    "close": 406.15,
-    "per_chg": 8.64,
-    "volume": 597429,
-    "added_at": "2026-04-08T12:06:53"
   },
   {
     "sr": 54,
@@ -850,36 +1250,6 @@
     "added_at": "2026-04-06T12:03:32"
   },
   {
-    "sr": 56,
-    "nsecode": "OPTIEMUS",
-    "name": "Optiemus Infracom Ltd",
-    "bsecode": "530135",
-    "close": 359.35,
-    "per_chg": 11.34,
-    "volume": 407244,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 57,
-    "nsecode": "GOLDIAM",
-    "name": "Goldiam International Limited",
-    "bsecode": "526729",
-    "close": 338.1,
-    "per_chg": 11.18,
-    "volume": 2255285,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 60,
-    "nsecode": "HLEGLAS",
-    "name": "HLE Glascoat Ltd",
-    "bsecode": "522215",
-    "close": 298.35,
-    "per_chg": 6.94,
-    "volume": 141742,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
     "sr": 61,
     "nsecode": "RSYSTEMS",
     "name": "R Systems International Limited",
@@ -887,16 +1257,6 @@
     "close": 282.1,
     "per_chg": 5.54,
     "volume": 1356023,
-    "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 62,
-    "nsecode": "SONATSOFTW",
-    "name": "Sonata Software Limited",
-    "bsecode": "532221",
-    "close": 245.94,
-    "per_chg": 4.19,
-    "volume": 681455,
     "added_at": "2026-04-08T12:06:53"
   },
   {
@@ -908,36 +1268,6 @@
     "per_chg": 5.02,
     "volume": 61801744,
     "added_at": "2026-04-08T12:06:53"
-  },
-  {
-    "sr": 65,
-    "nsecode": "STALLION",
-    "name": "Stallion India Fluorochemicals Ltd",
-    "bsecode": "544342",
-    "close": 135.17,
-    "per_chg": 11.33,
-    "volume": 5485027,
-    "added_at": "2026-04-07T12:06:20"
-  },
-  {
-    "sr": 4,
-    "nsecode": "TRENT",
-    "name": "Trent Limited",
-    "bsecode": "500251",
-    "close": 3823,
-    "per_chg": -0.28,
-    "volume": 1992402,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 5,
-    "nsecode": "LTTS",
-    "name": "L&t Technology Services Limited",
-    "bsecode": "540115",
-    "close": 3342.1,
-    "per_chg": -0.13,
-    "volume": 72291,
-    "added_at": "2026-04-07T12:06:20"
   },
   {
     "sr": 13,
@@ -957,26 +1287,6 @@
     "close": 1007.3,
     "per_chg": 1.31,
     "volume": 1573502,
-    "added_at": "2026-04-07T12:06:20"
-  },
-  {
-    "sr": 18,
-    "nsecode": "GABRIEL",
-    "name": "Gabriel India Limited",
-    "bsecode": "505714",
-    "close": 889.45,
-    "per_chg": 0.11,
-    "volume": 147549,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 20,
-    "nsecode": "EIDPARRY",
-    "name": "Eid Parry India Limited",
-    "bsecode": "500125",
-    "close": 821,
-    "per_chg": 0.74,
-    "volume": 168899,
     "added_at": "2026-04-07T12:06:20"
   },
   {
@@ -1010,16 +1320,6 @@
     "added_at": "2026-04-07T12:06:20"
   },
   {
-    "sr": 29,
-    "nsecode": "INTELLECT",
-    "name": "Intellect Design Arena Limited",
-    "bsecode": "538835",
-    "close": 668,
-    "per_chg": 2.41,
-    "volume": 293150,
-    "added_at": "2026-04-07T12:06:20"
-  },
-  {
     "sr": 42,
     "nsecode": "ROSSARI",
     "name": "Rossari Biotech Ltd",
@@ -1050,36 +1350,6 @@
     "added_at": "2026-04-06T12:03:32"
   },
   {
-    "sr": 7,
-    "nsecode": "INTERARCH",
-    "name": "Interarch Building Products Ltd",
-    "bsecode": "544232",
-    "close": 1828.6,
-    "per_chg": 2.56,
-    "volume": 57121,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 16,
-    "nsecode": "GLOBUSSPR",
-    "name": "Globus Spirits Limited",
-    "bsecode": "533104",
-    "close": 886,
-    "per_chg": 2.37,
-    "volume": 45540,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 24,
-    "nsecode": "SUPRIYA",
-    "name": "Supriya Lifescience Ltd",
-    "bsecode": "543434",
-    "close": 617.45,
-    "per_chg": 0.86,
-    "volume": 108030,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
     "sr": 31,
     "nsecode": "SHAKTIPUMP",
     "name": "Shakti Pumps (india) Limited",
@@ -1087,16 +1357,6 @@
     "close": 503.95,
     "per_chg": 1.63,
     "volume": 800956,
-    "added_at": "2026-04-06T12:03:32"
-  },
-  {
-    "sr": 35,
-    "nsecode": "BERGEPAINT",
-    "name": "Berger Paints (i) Limited",
-    "bsecode": "509480",
-    "close": 431,
-    "per_chg": 2.07,
-    "volume": 207671,
     "added_at": "2026-04-06T12:03:32"
   }
 ]

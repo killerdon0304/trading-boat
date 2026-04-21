@@ -1,52 +1,142 @@
 [
   {
     "sr": 1,
+    "nsecode": "BRITANNIA",
+    "name": "Britannia Industries Limited",
+    "bsecode": "500825",
+    "close": 5837.5,
+    "per_chg": 2.41,
+    "volume": 270417,
+    "added_at": "2026-04-21T12:12:08"
+  },
+  {
+    "sr": 2,
+    "nsecode": "UNITDSPR",
+    "name": "United Spirits Ltd",
+    "bsecode": "532432",
+    "close": 1363,
+    "per_chg": 4.23,
+    "volume": 2334337,
+    "added_at": "2026-04-21T12:12:08"
+  },
+  {
+    "sr": 3,
+    "nsecode": "HDFCLIFE",
+    "name": "HDFC Life Insurance Company Ltd",
+    "bsecode": "540777",
+    "close": 614.2,
+    "per_chg": 0.73,
+    "volume": 4800986,
+    "added_at": "2026-04-21T12:12:08"
+  },
+  {
+    "sr": 4,
+    "nsecode": "IIFL",
+    "name": "IIFL Finance Ltd",
+    "bsecode": "532636",
+    "close": 476.4,
+    "per_chg": 1.63,
+    "volume": 805598,
+    "added_at": "2026-04-21T12:12:08"
+  },
+  {
+    "sr": 5,
+    "nsecode": "DABUR",
+    "name": "Dabur India Limited",
+    "bsecode": "500096",
+    "close": 452,
+    "per_chg": 2.33,
+    "volume": 3053864,
+    "added_at": "2026-04-21T12:12:08"
+  },
+  {
+    "sr": 6,
+    "nsecode": "HINDPETRO",
+    "name": "Hindustan Petroleum Corporation Limited",
+    "bsecode": "500104",
+    "close": 384.4,
+    "per_chg": 1.29,
+    "volume": 7474015,
+    "added_at": "2026-04-20T12:44:58"
+  },
+  {
+    "sr": 7,
+    "nsecode": "KOTAKBANK",
+    "name": "Kotak Mahindra Bank Limited",
+    "bsecode": "500247",
+    "close": 382.15,
+    "per_chg": 0.78,
+    "volume": 12323524,
+    "added_at": "2026-04-21T12:12:08"
+  },
+  {
+    "sr": 8,
+    "nsecode": "GUJGASLTD",
+    "name": "Gujarat Gas Limited",
+    "bsecode": "539336",
+    "close": 374.25,
+    "per_chg": 1.84,
+    "volume": 1517181,
+    "added_at": "2026-04-20T12:44:58"
+  },
+  {
+    "sr": 9,
+    "nsecode": "SUNTECK",
+    "name": "Sunteck Realty Limited",
+    "bsecode": "512179",
+    "close": 341.1,
+    "per_chg": 4.47,
+    "volume": 814481,
+    "added_at": "2026-04-21T12:12:08"
+  },
+  {
+    "sr": 10,
+    "nsecode": "BPCL",
+    "name": "Bharat Petroleum Corporation Limited",
+    "bsecode": "500547",
+    "close": 318.05,
+    "per_chg": 0.63,
+    "volume": 9935289,
+    "added_at": "2026-04-20T12:44:58"
+  },
+  {
+    "sr": 11,
+    "nsecode": "BANKBARODA",
+    "name": "Bank Of Baroda Ltd",
+    "bsecode": "532134",
+    "close": 284.05,
+    "per_chg": 1.08,
+    "volume": 7814738,
+    "added_at": "2026-04-21T12:12:08"
+  },
+  {
+    "sr": 12,
+    "nsecode": "GSPL",
+    "name": "Gujarat State Petronet Limited",
+    "bsecode": "532702",
+    "close": 279.61,
+    "per_chg": 1.66,
+    "volume": 1105340,
+    "added_at": "2026-04-20T12:44:58"
+  },
+  {
+    "sr": 13,
+    "nsecode": "DDEVPLSTIK",
+    "name": "DDev Plastiks Industries Ltd",
+    "bsecode": "543547",
+    "close": 238,
+    "per_chg": 0.11,
+    "volume": 60153,
+    "added_at": "2026-04-21T12:12:08"
+  },
+  {
+    "sr": 1,
     "nsecode": "DREDGECORP",
     "name": "Dredging Corporation Of India Limited",
     "bsecode": "523618",
     "close": 1003.55,
     "per_chg": 2.89,
     "volume": 1701978,
-    "added_at": "2026-04-20T12:44:58"
-  },
-  {
-    "sr": 2,
-    "nsecode": "HINDPETRO",
-    "name": "Hindustan Petroleum Corporation Limited",
-    "bsecode": "500104",
-    "close": 379.5,
-    "per_chg": 2.33,
-    "volume": 10194985,
-    "added_at": "2026-04-20T12:44:58"
-  },
-  {
-    "sr": 3,
-    "nsecode": "GUJGASLTD",
-    "name": "Gujarat Gas Limited",
-    "bsecode": "539336",
-    "close": 367.5,
-    "per_chg": 1.3,
-    "volume": 1416894,
-    "added_at": "2026-04-20T12:44:58"
-  },
-  {
-    "sr": 4,
-    "nsecode": "BPCL",
-    "name": "Bharat Petroleum Corporation Limited",
-    "bsecode": "500547",
-    "close": 316.05,
-    "per_chg": 1.27,
-    "volume": 14504124,
-    "added_at": "2026-04-20T12:44:58"
-  },
-  {
-    "sr": 5,
-    "nsecode": "GSPL",
-    "name": "Gujarat State Petronet Limited",
-    "bsecode": "532702",
-    "close": 275.04,
-    "per_chg": 0.97,
-    "volume": 1189752,
     "added_at": "2026-04-20T12:44:58"
   },
   {

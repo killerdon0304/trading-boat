@@ -4,10 +4,60 @@
     "nsecode": "SRF",
     "name": "Srf Limited",
     "bsecode": "503806",
-    "close": 2492.8,
-    "per_chg": 0.88,
-    "volume": 326971,
+    "close": 2542.4,
+    "per_chg": 1.99,
+    "volume": 950680,
     "added_at": "2026-04-22T12:12:23"
+  },
+  {
+    "sr": 2,
+    "nsecode": "DABUR",
+    "name": "Dabur India Limited",
+    "bsecode": "500096",
+    "close": 460,
+    "per_chg": 0,
+    "volume": 1370396,
+    "added_at": "2026-04-21T12:12:08"
+  },
+  {
+    "sr": 3,
+    "nsecode": "GUJGASLTD",
+    "name": "Gujarat Gas Limited",
+    "bsecode": "539336",
+    "close": 386,
+    "per_chg": 0.82,
+    "volume": 931776,
+    "added_at": "2026-04-20T12:44:58"
+  },
+  {
+    "sr": 4,
+    "nsecode": "KOTAKBANK",
+    "name": "Kotak Mahindra Bank Limited",
+    "bsecode": "500247",
+    "close": 370.4,
+    "per_chg": -1.71,
+    "volume": 27628052,
+    "added_at": "2026-04-21T12:12:08"
+  },
+  {
+    "sr": 5,
+    "nsecode": "GSPL",
+    "name": "Gujarat State Petronet Limited",
+    "bsecode": "532702",
+    "close": 283.48,
+    "per_chg": 0.66,
+    "volume": 591654,
+    "added_at": "2026-04-20T12:44:58"
+  },
+  {
+    "sr": 6,
+    "nsecode": "DDEVPLSTIK",
+    "name": "DDev Plastiks Industries Ltd",
+    "bsecode": "543547",
+    "close": 242.11,
+    "per_chg": 0.35,
+    "volume": 85521,
+    "added_at": "2026-04-21T12:12:08"
   },
   {
     "sr": 2,
@@ -30,26 +80,6 @@
     "added_at": "2026-04-22T12:12:23"
   },
   {
-    "sr": 4,
-    "nsecode": "DABUR",
-    "name": "Dabur India Limited",
-    "bsecode": "500096",
-    "close": 460,
-    "per_chg": 1.77,
-    "volume": 2381662,
-    "added_at": "2026-04-21T12:12:08"
-  },
-  {
-    "sr": 5,
-    "nsecode": "GUJGASLTD",
-    "name": "Gujarat Gas Limited",
-    "bsecode": "539336",
-    "close": 382.85,
-    "per_chg": 2.3,
-    "volume": 1009432,
-    "added_at": "2026-04-20T12:44:58"
-  },
-  {
     "sr": 6,
     "nsecode": "HINDPETRO",
     "name": "Hindustan Petroleum Corporation Limited",
@@ -57,16 +87,6 @@
     "close": 382.55,
     "per_chg": -0.48,
     "volume": 4754758,
-    "added_at": "2026-04-20T12:44:58"
-  },
-  {
-    "sr": 7,
-    "nsecode": "GSPL",
-    "name": "Gujarat State Petronet Limited",
-    "bsecode": "532702",
-    "close": 281.61,
-    "per_chg": 0.72,
-    "volume": 697936,
     "added_at": "2026-04-20T12:44:58"
   },
   {
@@ -120,16 +140,6 @@
     "added_at": "2026-04-21T12:12:08"
   },
   {
-    "sr": 7,
-    "nsecode": "KOTAKBANK",
-    "name": "Kotak Mahindra Bank Limited",
-    "bsecode": "500247",
-    "close": 382.15,
-    "per_chg": 0.78,
-    "volume": 12323524,
-    "added_at": "2026-04-21T12:12:08"
-  },
-  {
     "sr": 9,
     "nsecode": "SUNTECK",
     "name": "Sunteck Realty Limited",
@@ -157,16 +167,6 @@
     "close": 284.05,
     "per_chg": 1.08,
     "volume": 7814738,
-    "added_at": "2026-04-21T12:12:08"
-  },
-  {
-    "sr": 13,
-    "nsecode": "DDEVPLSTIK",
-    "name": "DDev Plastiks Industries Ltd",
-    "bsecode": "543547",
-    "close": 238,
-    "per_chg": 0.11,
-    "volume": 60153,
     "added_at": "2026-04-21T12:12:08"
   },
   {

@@ -1,6 +1,36 @@
 [
   {
     "sr": 1,
+    "nsecode": "BRITANNIA",
+    "name": "Britannia Industries Limited",
+    "bsecode": "500825",
+    "close": 5730.5,
+    "per_chg": 1.04,
+    "volume": 470927,
+    "added_at": "2026-04-21T12:12:08"
+  },
+  {
+    "sr": 2,
+    "nsecode": "UNITDSPR",
+    "name": "United Spirits Ltd",
+    "bsecode": "532432",
+    "close": 1391.9,
+    "per_chg": 0.69,
+    "volume": 967934,
+    "added_at": "2026-04-21T12:12:08"
+  },
+  {
+    "sr": 3,
+    "nsecode": "KOTAKBANK",
+    "name": "Kotak Mahindra Bank Limited",
+    "bsecode": "500247",
+    "close": 370.85,
+    "per_chg": 0.12,
+    "volume": 19678907,
+    "added_at": "2026-04-21T12:12:08"
+  },
+  {
+    "sr": 1,
     "nsecode": "SRF",
     "name": "Srf Limited",
     "bsecode": "503806",
@@ -30,16 +60,6 @@
     "added_at": "2026-04-20T12:44:58"
   },
   {
-    "sr": 4,
-    "nsecode": "KOTAKBANK",
-    "name": "Kotak Mahindra Bank Limited",
-    "bsecode": "500247",
-    "close": 370.4,
-    "per_chg": -1.71,
-    "volume": 27628052,
-    "added_at": "2026-04-21T12:12:08"
-  },
-  {
     "sr": 5,
     "nsecode": "GSPL",
     "name": "Gujarat State Petronet Limited",
@@ -57,16 +77,6 @@
     "close": 242.11,
     "per_chg": 0.35,
     "volume": 85521,
-    "added_at": "2026-04-21T12:12:08"
-  },
-  {
-    "sr": 2,
-    "nsecode": "UNITDSPR",
-    "name": "United Spirits Ltd",
-    "bsecode": "532432",
-    "close": 1392.8,
-    "per_chg": 2.19,
-    "volume": 1841324,
     "added_at": "2026-04-21T12:12:08"
   },
   {
@@ -108,16 +118,6 @@
     "per_chg": 1.21,
     "volume": 373521,
     "added_at": "2026-04-22T12:12:23"
-  },
-  {
-    "sr": 1,
-    "nsecode": "BRITANNIA",
-    "name": "Britannia Industries Limited",
-    "bsecode": "500825",
-    "close": 5837.5,
-    "per_chg": 2.41,
-    "volume": 270417,
-    "added_at": "2026-04-21T12:12:08"
   },
   {
     "sr": 3,
@@ -178,215 +178,5 @@
     "per_chg": 2.89,
     "volume": 1701978,
     "added_at": "2026-04-20T12:44:58"
-  },
-  {
-    "sr": 2,
-    "nsecode": "BAJAJHLDNG",
-    "name": "Bajaj Holdings & Investment Limited",
-    "bsecode": "500490",
-    "close": 10355.5,
-    "per_chg": 1.47,
-    "volume": 47900,
-    "added_at": "2026-04-16T12:13:37"
-  },
-  {
-    "sr": 5,
-    "nsecode": "CRISIL",
-    "name": "Crisil Limited",
-    "bsecode": "500092",
-    "close": 4335.4,
-    "per_chg": 5.07,
-    "volume": 444535,
-    "added_at": "2026-04-17T12:08:44"
-  },
-  {
-    "sr": 8,
-    "nsecode": "ESCORTS",
-    "name": "Escorts Kubota Ltd",
-    "bsecode": "500495",
-    "close": 3295,
-    "per_chg": 0.39,
-    "volume": 84860,
-    "added_at": "2026-04-16T12:13:37"
-  },
-  {
-    "sr": 12,
-    "nsecode": "FIEMIND",
-    "name": "Fiem Industries Limited",
-    "bsecode": "532768",
-    "close": 2264.6,
-    "per_chg": 1.4,
-    "volume": 39439,
-    "added_at": "2026-04-17T12:08:44"
-  },
-  {
-    "sr": 13,
-    "nsecode": "HINDUNILVR",
-    "name": "Hindustan Unilever Limited",
-    "bsecode": "500696",
-    "close": 2240.8,
-    "per_chg": 4.75,
-    "volume": 4882697,
-    "added_at": "2026-04-17T12:08:44"
-  },
-  {
-    "sr": 14,
-    "nsecode": "COLPAL",
-    "name": "Colgate Palmolive (india) Limited",
-    "bsecode": "500830",
-    "close": 2106,
-    "per_chg": 6.5,
-    "volume": 2100907,
-    "added_at": "2026-04-17T12:08:44"
-  },
-  {
-    "sr": 18,
-    "nsecode": "ECLERX",
-    "name": "Eclerx Services Limited",
-    "bsecode": "532927",
-    "close": 1631.1,
-    "per_chg": 5.14,
-    "volume": 614206,
-    "added_at": "2026-04-16T12:13:37"
-  },
-  {
-    "sr": 20,
-    "nsecode": "SAFARI",
-    "name": "Safari Industries (India) Ltd",
-    "bsecode": "523025",
-    "close": 1572.2,
-    "per_chg": 1.41,
-    "volume": 81038,
-    "added_at": "2026-04-17T12:08:44"
-  },
-  {
-    "sr": 21,
-    "nsecode": "RRKABEL",
-    "name": "R R Kabel Ltd",
-    "bsecode": "543981",
-    "close": 1475.6,
-    "per_chg": 1.42,
-    "volume": 514062,
-    "added_at": "2026-04-17T12:08:44"
-  },
-  {
-    "sr": 26,
-    "nsecode": "360ONE",
-    "name": "360 ONE WAM Ltd",
-    "bsecode": "542772",
-    "close": 1113.3,
-    "per_chg": 3.42,
-    "volume": 2643178,
-    "added_at": "2026-04-16T12:13:37"
-  },
-  {
-    "sr": 28,
-    "nsecode": "CONCORDBIO",
-    "name": "Concord Biotech Ltd",
-    "bsecode": "543960",
-    "close": 1081.7,
-    "per_chg": 4.27,
-    "volume": 777340,
-    "added_at": "2026-04-17T12:08:44"
-  },
-  {
-    "sr": 34,
-    "nsecode": "CANFINHOME",
-    "name": "Can Fin Homes Limited",
-    "bsecode": "511196",
-    "close": 868.7,
-    "per_chg": 1.15,
-    "volume": 110798,
-    "added_at": "2026-04-17T12:08:44"
-  },
-  {
-    "sr": 37,
-    "nsecode": "ARE&M",
-    "name": "Amara Raja Energy & Mobility Ltd",
-    "bsecode": "500008",
-    "close": 778.55,
-    "per_chg": 0.76,
-    "volume": 572552,
-    "added_at": "2026-04-16T12:13:37"
-  },
-  {
-    "sr": 45,
-    "nsecode": "MINDACORP",
-    "name": "Minda Corporation Limited",
-    "bsecode": "538962",
-    "close": 532.8,
-    "per_chg": 5.37,
-    "volume": 837251,
-    "added_at": "2026-04-17T12:08:44"
-  },
-  {
-    "sr": 46,
-    "nsecode": "JKIL",
-    "name": "J.kumar Infraprojects Limited",
-    "bsecode": "532940",
-    "close": 519.25,
-    "per_chg": 4.42,
-    "volume": 295916,
-    "added_at": "2026-04-16T12:13:37"
-  },
-  {
-    "sr": 52,
-    "nsecode": "SIRCA",
-    "name": "Sirca Paints India Ltd",
-    "bsecode": "535083",
-    "close": 456.7,
-    "per_chg": 3.94,
-    "volume": 1078482,
-    "added_at": "2026-04-17T12:08:44"
-  },
-  {
-    "sr": 58,
-    "nsecode": "BSOFT",
-    "name": "Birlasoft Ltd",
-    "bsecode": "532400",
-    "close": 390.7,
-    "per_chg": 0.66,
-    "volume": 696710,
-    "added_at": "2026-04-16T12:13:37"
-  },
-  {
-    "sr": 59,
-    "nsecode": "SWANCORP",
-    "name": "Swan Corp Ltd",
-    "bsecode": "503310",
-    "close": 354.85,
-    "per_chg": 0.58,
-    "volume": 1531335,
-    "added_at": "2026-04-16T12:13:37"
-  },
-  {
-    "sr": 61,
-    "nsecode": "INDIANHUME",
-    "name": "Indian Hume Pipe Company Limited",
-    "bsecode": "504741",
-    "close": 330.85,
-    "per_chg": 1.8,
-    "volume": 127076,
-    "added_at": "2026-04-17T12:08:44"
-  },
-  {
-    "sr": 65,
-    "nsecode": "RAMCOIND",
-    "name": "Ramco Industries Limited",
-    "bsecode": "532369",
-    "close": 280.16,
-    "per_chg": 2.76,
-    "volume": 84387,
-    "added_at": "2026-04-17T12:08:44"
-  },
-  {
-    "sr": 23,
-    "nsecode": "SYMPHONY",
-    "name": "Symphony Limited",
-    "bsecode": "517385",
-    "close": 811.85,
-    "per_chg": 2.39,
-    "volume": 225659,
-    "added_at": "2026-04-16T12:13:37"
   }
 ]

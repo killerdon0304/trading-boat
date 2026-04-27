@@ -50,26 +50,6 @@
     "added_at": "2026-04-21T12:12:08"
   },
   {
-    "sr": 3,
-    "nsecode": "GUJGASLTD",
-    "name": "Gujarat Gas Limited",
-    "bsecode": "539336",
-    "close": 386,
-    "per_chg": 0.82,
-    "volume": 931776,
-    "added_at": "2026-04-20T12:44:58"
-  },
-  {
-    "sr": 5,
-    "nsecode": "GSPL",
-    "name": "Gujarat State Petronet Limited",
-    "bsecode": "532702",
-    "close": 283.48,
-    "per_chg": 0.66,
-    "volume": 591654,
-    "added_at": "2026-04-20T12:44:58"
-  },
-  {
     "sr": 6,
     "nsecode": "DDEVPLSTIK",
     "name": "DDev Plastiks Industries Ltd",
@@ -88,26 +68,6 @@
     "per_chg": 1.6,
     "volume": 2253693,
     "added_at": "2026-04-22T12:12:23"
-  },
-  {
-    "sr": 6,
-    "nsecode": "HINDPETRO",
-    "name": "Hindustan Petroleum Corporation Limited",
-    "bsecode": "500104",
-    "close": 382.55,
-    "per_chg": -0.48,
-    "volume": 4754758,
-    "added_at": "2026-04-20T12:44:58"
-  },
-  {
-    "sr": 8,
-    "nsecode": "CUB",
-    "name": "City Union Bank Limited",
-    "bsecode": "532210",
-    "close": 270.15,
-    "per_chg": 1.97,
-    "volume": 5251757,
-    "added_at": "2026-04-20T12:44:58"
   },
   {
     "sr": 9,
@@ -150,16 +110,6 @@
     "added_at": "2026-04-21T12:12:08"
   },
   {
-    "sr": 10,
-    "nsecode": "BPCL",
-    "name": "Bharat Petroleum Corporation Limited",
-    "bsecode": "500547",
-    "close": 318.05,
-    "per_chg": 0.63,
-    "volume": 9935289,
-    "added_at": "2026-04-20T12:44:58"
-  },
-  {
     "sr": 11,
     "nsecode": "BANKBARODA",
     "name": "Bank Of Baroda Ltd",
@@ -168,15 +118,5 @@
     "per_chg": 1.08,
     "volume": 7814738,
     "added_at": "2026-04-21T12:12:08"
-  },
-  {
-    "sr": 1,
-    "nsecode": "DREDGECORP",
-    "name": "Dredging Corporation Of India Limited",
-    "bsecode": "523618",
-    "close": 1003.55,
-    "per_chg": 2.89,
-    "volume": 1701978,
-    "added_at": "2026-04-20T12:44:58"
   }
 ]

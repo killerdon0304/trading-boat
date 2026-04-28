@@ -1,33 +1,23 @@
 [
   {
     "sr": 1,
-    "nsecode": "BRITANNIA",
-    "name": "Britannia Industries Limited",
-    "bsecode": "500825",
-    "close": 5730.5,
-    "per_chg": 1.04,
-    "volume": 470927,
-    "added_at": "2026-04-21T12:12:08"
+    "nsecode": "VINATIORGA",
+    "name": "Vinati Organics Limited",
+    "bsecode": "524200",
+    "close": 1300,
+    "per_chg": 0.5,
+    "volume": 116516,
+    "added_at": "2026-04-28T13:09:55"
   },
   {
     "sr": 2,
-    "nsecode": "UNITDSPR",
-    "name": "United Spirits Ltd",
-    "bsecode": "532432",
-    "close": 1391.9,
-    "per_chg": 0.69,
-    "volume": 967934,
-    "added_at": "2026-04-21T12:12:08"
-  },
-  {
-    "sr": 3,
-    "nsecode": "KOTAKBANK",
-    "name": "Kotak Mahindra Bank Limited",
-    "bsecode": "500247",
-    "close": 370.85,
-    "per_chg": 0.12,
-    "volume": 19678907,
-    "added_at": "2026-04-21T12:12:08"
+    "nsecode": "WEL",
+    "name": "Wonder Electricals Ltd",
+    "bsecode": "535344",
+    "close": 106.12,
+    "per_chg": -0.08,
+    "volume": 1317409,
+    "added_at": "2026-04-28T13:09:55"
   },
   {
     "sr": 1,
@@ -38,26 +28,6 @@
     "per_chg": 1.99,
     "volume": 950680,
     "added_at": "2026-04-22T12:12:23"
-  },
-  {
-    "sr": 2,
-    "nsecode": "DABUR",
-    "name": "Dabur India Limited",
-    "bsecode": "500096",
-    "close": 460,
-    "per_chg": 0,
-    "volume": 1370396,
-    "added_at": "2026-04-21T12:12:08"
-  },
-  {
-    "sr": 6,
-    "nsecode": "DDEVPLSTIK",
-    "name": "DDev Plastiks Industries Ltd",
-    "bsecode": "543547",
-    "close": 242.11,
-    "per_chg": 0.35,
-    "volume": 85521,
-    "added_at": "2026-04-21T12:12:08"
   },
   {
     "sr": 3,
@@ -78,45 +48,5 @@
     "per_chg": 1.21,
     "volume": 373521,
     "added_at": "2026-04-22T12:12:23"
-  },
-  {
-    "sr": 3,
-    "nsecode": "HDFCLIFE",
-    "name": "HDFC Life Insurance Company Ltd",
-    "bsecode": "540777",
-    "close": 614.2,
-    "per_chg": 0.73,
-    "volume": 4800986,
-    "added_at": "2026-04-21T12:12:08"
-  },
-  {
-    "sr": 4,
-    "nsecode": "IIFL",
-    "name": "IIFL Finance Ltd",
-    "bsecode": "532636",
-    "close": 476.4,
-    "per_chg": 1.63,
-    "volume": 805598,
-    "added_at": "2026-04-21T12:12:08"
-  },
-  {
-    "sr": 9,
-    "nsecode": "SUNTECK",
-    "name": "Sunteck Realty Limited",
-    "bsecode": "512179",
-    "close": 341.1,
-    "per_chg": 4.47,
-    "volume": 814481,
-    "added_at": "2026-04-21T12:12:08"
-  },
-  {
-    "sr": 11,
-    "nsecode": "BANKBARODA",
-    "name": "Bank Of Baroda Ltd",
-    "bsecode": "532134",
-    "close": 284.05,
-    "per_chg": 1.08,
-    "volume": 7814738,
-    "added_at": "2026-04-21T12:12:08"
   }
 ]

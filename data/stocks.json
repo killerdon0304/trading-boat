@@ -18,35 +18,5 @@
     "per_chg": -0.08,
     "volume": 1317409,
     "added_at": "2026-04-28T13:09:55"
-  },
-  {
-    "sr": 1,
-    "nsecode": "SRF",
-    "name": "Srf Limited",
-    "bsecode": "503806",
-    "close": 2542.4,
-    "per_chg": 1.99,
-    "volume": 950680,
-    "added_at": "2026-04-22T12:12:23"
-  },
-  {
-    "sr": 3,
-    "nsecode": "INDUSINDBK",
-    "name": "Indusind Bank Limited",
-    "bsecode": "532187",
-    "close": 870.1,
-    "per_chg": 1.6,
-    "volume": 2253693,
-    "added_at": "2026-04-22T12:12:23"
-  },
-  {
-    "sr": 9,
-    "nsecode": "FINOPB",
-    "name": "Fino Payments Bank Ltd",
-    "bsecode": "543386",
-    "close": 139.11,
-    "per_chg": 1.21,
-    "volume": 373521,
-    "added_at": "2026-04-22T12:12:23"
   }
 ]

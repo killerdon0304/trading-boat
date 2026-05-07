@@ -1,12 +1,42 @@
 [
   {
     "sr": 1,
+    "nsecode": "HEROMOTOCO",
+    "name": "Hero Motocorp Limited",
+    "bsecode": "500182",
+    "close": 5343,
+    "per_chg": 3.35,
+    "volume": 1775531,
+    "added_at": "2026-05-07T13:13:50"
+  },
+  {
+    "sr": 2,
+    "nsecode": "STYLAMIND",
+    "name": "Stylam Industries Ltd",
+    "bsecode": "526951",
+    "close": 2634.8,
+    "per_chg": 13.44,
+    "volume": 566223,
+    "added_at": "2026-05-07T13:13:50"
+  },
+  {
+    "sr": 3,
     "nsecode": "HDFCLIFE",
     "name": "HDFC Life Insurance Company Ltd",
     "bsecode": "540777",
-    "close": 606.35,
-    "per_chg": 2.06,
-    "volume": 34338299,
+    "close": 625.4,
+    "per_chg": 3.14,
+    "volume": 22418988,
     "added_at": "2026-05-06T13:10:26"
+  },
+  {
+    "sr": 4,
+    "nsecode": "ICICIPRULI",
+    "name": "Icici Prudential Life Insurance Company Limited",
+    "bsecode": "540133",
+    "close": 562.9,
+    "per_chg": 2.33,
+    "volume": 2640252,
+    "added_at": "2026-05-07T13:13:50"
   }
 ]

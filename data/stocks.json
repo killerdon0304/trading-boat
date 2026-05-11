@@ -1,6 +1,16 @@
 [
   {
     "sr": 1,
+    "nsecode": "SBILIFE",
+    "name": "SBI Life Insurance Company Ltd",
+    "bsecode": "540719",
+    "close": 1884.4,
+    "per_chg": 0.66,
+    "volume": 672604,
+    "added_at": "2026-05-11T14:02:07"
+  },
+  {
+    "sr": 1,
     "nsecode": "ICICIPRULI",
     "name": "Icici Prudential Life Insurance Company Limited",
     "bsecode": "540133",

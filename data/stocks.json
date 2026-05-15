@@ -8,35 +8,5 @@
     "per_chg": 1.59,
     "volume": 765124,
     "added_at": "2026-05-11T14:02:07"
-  },
-  {
-    "sr": 1,
-    "nsecode": "ICICIPRULI",
-    "name": "Icici Prudential Life Insurance Company Limited",
-    "bsecode": "540133",
-    "close": 567.25,
-    "per_chg": 0.77,
-    "volume": 1641598,
-    "added_at": "2026-05-07T13:13:50"
-  },
-  {
-    "sr": 1,
-    "nsecode": "HEROMOTOCO",
-    "name": "Hero Motocorp Limited",
-    "bsecode": "500182",
-    "close": 5343,
-    "per_chg": 3.35,
-    "volume": 1775531,
-    "added_at": "2026-05-07T13:13:50"
-  },
-  {
-    "sr": 2,
-    "nsecode": "STYLAMIND",
-    "name": "Stylam Industries Ltd",
-    "bsecode": "526951",
-    "close": 2634.8,
-    "per_chg": 13.44,
-    "volume": 566223,
-    "added_at": "2026-05-07T13:13:50"
   }
 ]

@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "sr": 1,
+    "nsecode": "HCLTECH",
+    "name": "Hcl Technologies Limited",
+    "bsecode": "532281",
+    "close": 1195.1,
+    "per_chg": 0.95,
+    "volume": 5970435,
+    "added_at": "2026-06-01T16:59:25"
+  }
+]

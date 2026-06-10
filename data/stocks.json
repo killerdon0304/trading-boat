@@ -1,6 +1,16 @@
 [
   {
     "sr": 1,
+    "nsecode": "COROMANDEL",
+    "name": "Coromandel International Limited",
+    "bsecode": "506395",
+    "close": 1880.7,
+    "per_chg": 4.07,
+    "volume": 623772,
+    "added_at": "2026-06-10T14:34:26"
+  },
+  {
+    "sr": 1,
     "nsecode": "GRAUWEIL",
     "name": "Grauer & Weil (India) Ltd",
     "bsecode": "505710",

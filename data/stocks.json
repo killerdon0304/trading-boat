@@ -1,6 +1,36 @@
 [
   {
     "sr": 1,
+    "nsecode": "SHRIRAMFIN",
+    "name": "Shriram Finance Ltd",
+    "bsecode": "511218",
+    "close": 1005.75,
+    "per_chg": 0.51,
+    "volume": 4544903,
+    "added_at": "2026-06-16T16:08:34"
+  },
+  {
+    "sr": 2,
+    "nsecode": "JYOTICNC",
+    "name": "Jyoti CNC Automation Ltd",
+    "bsecode": "544081",
+    "close": 700.95,
+    "per_chg": 1.74,
+    "volume": 1142406,
+    "added_at": "2026-06-16T16:08:34"
+  },
+  {
+    "sr": 3,
+    "nsecode": "BLACKBUCK",
+    "name": "BlackBuck Ltd",
+    "bsecode": "544288",
+    "close": 552.35,
+    "per_chg": 0.86,
+    "volume": 235614,
+    "added_at": "2026-06-16T16:08:34"
+  },
+  {
+    "sr": 1,
     "nsecode": "SMLMAH",
     "name": "SML Mahindra Ltd",
     "bsecode": "505192",
@@ -28,15 +58,5 @@
     "per_chg": 2.74,
     "volume": 284986,
     "added_at": "2026-06-10T14:34:26"
-  },
-  {
-    "sr": 1,
-    "nsecode": "GRAUWEIL",
-    "name": "Grauer & Weil (India) Ltd",
-    "bsecode": "505710",
-    "close": 74.42,
-    "per_chg": 1.46,
-    "volume": 176731,
-    "added_at": "2026-06-09T13:57:33"
   }
 ]

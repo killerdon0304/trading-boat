@@ -1,22 +1,42 @@
 [
   {
     "sr": 1,
-    "nsecode": "SHRIRAMFIN",
-    "name": "Shriram Finance Ltd",
-    "bsecode": "511218",
-    "close": 1005.75,
-    "per_chg": 0.51,
-    "volume": 4544903,
-    "added_at": "2026-06-16T16:08:34"
+    "nsecode": "SBIN",
+    "name": "State Bank Of India Ltd",
+    "bsecode": "500112",
+    "close": 1026.5,
+    "per_chg": 1.1,
+    "volume": 8190062,
+    "added_at": "2026-06-17T14:34:45"
   },
   {
     "sr": 2,
+    "nsecode": "SHRIRAMFIN",
+    "name": "Shriram Finance Ltd",
+    "bsecode": "511218",
+    "close": 1007.5,
+    "per_chg": 0.17,
+    "volume": 4353419,
+    "added_at": "2026-06-16T16:08:34"
+  },
+  {
+    "sr": 3,
+    "nsecode": "INDIANB",
+    "name": "Indian Bank Ltd",
+    "bsecode": "532814",
+    "close": 876.35,
+    "per_chg": 2.7,
+    "volume": 2138011,
+    "added_at": "2026-06-17T14:34:45"
+  },
+  {
+    "sr": 4,
     "nsecode": "JYOTICNC",
     "name": "Jyoti CNC Automation Ltd",
     "bsecode": "544081",
-    "close": 700.95,
-    "per_chg": 1.74,
-    "volume": 1142406,
+    "close": 706.9,
+    "per_chg": 0.85,
+    "volume": 866799,
     "added_at": "2026-06-16T16:08:34"
   },
   {
@@ -48,15 +68,5 @@
     "per_chg": 3.48,
     "volume": 262463,
     "added_at": "2026-06-15T16:24:47"
-  },
-  {
-    "sr": 1,
-    "nsecode": "COROMANDEL",
-    "name": "Coromandel International Limited",
-    "bsecode": "506395",
-    "close": 1916.7,
-    "per_chg": 2.74,
-    "volume": 284986,
-    "added_at": "2026-06-10T14:34:26"
   }
 ]

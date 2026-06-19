@@ -1,6 +1,46 @@
 [
   {
     "sr": 1,
+    "nsecode": "SMLMAH",
+    "name": "SML Mahindra Ltd",
+    "bsecode": "505192",
+    "close": 4092.2,
+    "per_chg": 1.4,
+    "volume": 72589,
+    "added_at": "2026-06-15T16:24:47"
+  },
+  {
+    "sr": 2,
+    "nsecode": "SHRIRAMFIN",
+    "name": "Shriram Finance Ltd",
+    "bsecode": "511218",
+    "close": 1001.9,
+    "per_chg": -0.08,
+    "volume": 2611538,
+    "added_at": "2026-06-16T16:08:34"
+  },
+  {
+    "sr": 3,
+    "nsecode": "JYOTICNC",
+    "name": "Jyoti CNC Automation Ltd",
+    "bsecode": "544081",
+    "close": 737.95,
+    "per_chg": 5.32,
+    "volume": 5625870,
+    "added_at": "2026-06-16T16:08:34"
+  },
+  {
+    "sr": 4,
+    "nsecode": "BLACKBUCK",
+    "name": "BlackBuck Ltd",
+    "bsecode": "544288",
+    "close": 574.05,
+    "per_chg": 4.31,
+    "volume": 1348075,
+    "added_at": "2026-06-16T16:08:34"
+  },
+  {
+    "sr": 1,
     "nsecode": "SBIN",
     "name": "State Bank Of India Ltd",
     "bsecode": "500112",
@@ -8,16 +48,6 @@
     "per_chg": 1.58,
     "volume": 11048009,
     "added_at": "2026-06-17T14:34:45"
-  },
-  {
-    "sr": 2,
-    "nsecode": "SHRIRAMFIN",
-    "name": "Shriram Finance Ltd",
-    "bsecode": "511218",
-    "close": 1007.5,
-    "per_chg": 0.17,
-    "volume": 4353419,
-    "added_at": "2026-06-16T16:08:34"
   },
   {
     "sr": 3,
@@ -28,36 +58,6 @@
     "per_chg": 2.7,
     "volume": 2138011,
     "added_at": "2026-06-17T14:34:45"
-  },
-  {
-    "sr": 4,
-    "nsecode": "JYOTICNC",
-    "name": "Jyoti CNC Automation Ltd",
-    "bsecode": "544081",
-    "close": 706.9,
-    "per_chg": 0.85,
-    "volume": 866799,
-    "added_at": "2026-06-16T16:08:34"
-  },
-  {
-    "sr": 3,
-    "nsecode": "BLACKBUCK",
-    "name": "BlackBuck Ltd",
-    "bsecode": "544288",
-    "close": 552.35,
-    "per_chg": 0.86,
-    "volume": 235614,
-    "added_at": "2026-06-16T16:08:34"
-  },
-  {
-    "sr": 1,
-    "nsecode": "SMLMAH",
-    "name": "SML Mahindra Ltd",
-    "bsecode": "505192",
-    "close": 4015.3,
-    "per_chg": 3.39,
-    "volume": 188829,
-    "added_at": "2026-06-15T16:24:47"
   },
   {
     "sr": 2,

@@ -1,13 +1,13 @@
 [
   {
     "sr": 1,
-    "nsecode": "SMLMAH",
-    "name": "SML Mahindra Ltd",
-    "bsecode": "505192",
-    "close": 4092.2,
-    "per_chg": 1.4,
-    "volume": 72589,
-    "added_at": "2026-06-15T16:24:47"
+    "nsecode": "UBL",
+    "name": "United Breweries Limited",
+    "bsecode": "532478",
+    "close": 1344.1,
+    "per_chg": 0.33,
+    "volume": 78365,
+    "added_at": "2026-06-23T13:57:23"
   },
   {
     "sr": 2,
@@ -58,15 +58,5 @@
     "per_chg": 2.7,
     "volume": 2138011,
     "added_at": "2026-06-17T14:34:45"
-  },
-  {
-    "sr": 2,
-    "nsecode": "RAMCOCEM",
-    "name": "The Ramco Cements Limited",
-    "bsecode": "500260",
-    "close": 911.25,
-    "per_chg": 3.48,
-    "volume": 262463,
-    "added_at": "2026-06-15T16:24:47"
   }
 ]

@@ -10,36 +10,6 @@
     "added_at": "2026-06-23T13:57:23"
   },
   {
-    "sr": 2,
-    "nsecode": "SHRIRAMFIN",
-    "name": "Shriram Finance Ltd",
-    "bsecode": "511218",
-    "close": 1001.9,
-    "per_chg": -0.08,
-    "volume": 2611538,
-    "added_at": "2026-06-16T16:08:34"
-  },
-  {
-    "sr": 3,
-    "nsecode": "JYOTICNC",
-    "name": "Jyoti CNC Automation Ltd",
-    "bsecode": "544081",
-    "close": 737.95,
-    "per_chg": 5.32,
-    "volume": 5625870,
-    "added_at": "2026-06-16T16:08:34"
-  },
-  {
-    "sr": 4,
-    "nsecode": "BLACKBUCK",
-    "name": "BlackBuck Ltd",
-    "bsecode": "544288",
-    "close": 574.05,
-    "per_chg": 4.31,
-    "volume": 1348075,
-    "added_at": "2026-06-16T16:08:34"
-  },
-  {
     "sr": 1,
     "nsecode": "SBIN",
     "name": "State Bank Of India Ltd",

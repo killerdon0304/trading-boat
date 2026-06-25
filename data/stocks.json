@@ -8,25 +8,5 @@
     "per_chg": 0.33,
     "volume": 78365,
     "added_at": "2026-06-23T13:57:23"
-  },
-  {
-    "sr": 1,
-    "nsecode": "SBIN",
-    "name": "State Bank Of India Ltd",
-    "bsecode": "500112",
-    "close": 1042.7,
-    "per_chg": 1.58,
-    "volume": 11048009,
-    "added_at": "2026-06-17T14:34:45"
-  },
-  {
-    "sr": 3,
-    "nsecode": "INDIANB",
-    "name": "Indian Bank Ltd",
-    "bsecode": "532814",
-    "close": 876.35,
-    "per_chg": 2.7,
-    "volume": 2138011,
-    "added_at": "2026-06-17T14:34:45"
   }
 ]

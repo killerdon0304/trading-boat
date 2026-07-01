@@ -1,12 +1,12 @@
 [
   {
     "sr": 1,
-    "nsecode": "UBL",
-    "name": "United Breweries Limited",
-    "bsecode": "532478",
-    "close": 1344.1,
-    "per_chg": 0.33,
-    "volume": 78365,
-    "added_at": "2026-06-23T13:57:23"
+    "nsecode": "LENSKART",
+    "name": "Lenskart Solutions Ltd",
+    "bsecode": "544600",
+    "close": 530.55,
+    "per_chg": 3.03,
+    "volume": 7416571,
+    "added_at": "2026-07-01T13:43:28"
   }
 ]

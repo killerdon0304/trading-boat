@@ -1,6 +1,26 @@
 [
   {
     "sr": 1,
+    "nsecode": "HATSUN",
+    "name": "Hatsun Agro Product Limited",
+    "bsecode": "531531",
+    "close": 930,
+    "per_chg": 3.12,
+    "volume": 94590,
+    "added_at": "2026-07-14T12:46:13"
+  },
+  {
+    "sr": 2,
+    "nsecode": "PFOCUS",
+    "name": "Prime Focus Limited",
+    "bsecode": "532748",
+    "close": 274.09,
+    "per_chg": 1.7,
+    "volume": 734997,
+    "added_at": "2026-07-14T12:46:13"
+  },
+  {
+    "sr": 1,
     "nsecode": "LTM",
     "name": "LTIMindtree Ltd",
     "bsecode": "540005",

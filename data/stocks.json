@@ -18,15 +18,5 @@
     "per_chg": 1.7,
     "volume": 734997,
     "added_at": "2026-07-14T12:46:13"
-  },
-  {
-    "sr": 1,
-    "nsecode": "LTM",
-    "name": "LTIMindtree Ltd",
-    "bsecode": "540005",
-    "close": 4037.2,
-    "per_chg": 4.74,
-    "volume": 1024019,
-    "added_at": "2026-07-07T13:31:43"
   }
 ]

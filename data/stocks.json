@@ -1,6 +1,16 @@
 [
   {
     "sr": 1,
+    "nsecode": "ACI",
+    "name": "Archean Chemical Industries Ltd",
+    "bsecode": "543657",
+    "close": 550.4,
+    "per_chg": 0.23,
+    "volume": 354999,
+    "added_at": "2026-07-17T12:40:57"
+  },
+  {
+    "sr": 1,
     "nsecode": "PFOCUS",
     "name": "Prime Focus Limited",
     "bsecode": "532748",

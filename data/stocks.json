@@ -1,6 +1,26 @@
 [
   {
     "sr": 1,
+    "nsecode": "SUPREMEIND",
+    "name": "Supreme Industries Limited",
+    "bsecode": "509930",
+    "close": 3436.7,
+    "per_chg": 0.09,
+    "volume": 49530,
+    "added_at": "2026-07-20T13:23:48"
+  },
+  {
+    "sr": 2,
+    "nsecode": "OIL",
+    "name": "Oil India Limited",
+    "bsecode": "533106",
+    "close": 453.55,
+    "per_chg": 4.18,
+    "volume": 9434807,
+    "added_at": "2026-07-20T13:23:48"
+  },
+  {
+    "sr": 1,
     "nsecode": "ACI",
     "name": "Archean Chemical Industries Ltd",
     "bsecode": "543657",

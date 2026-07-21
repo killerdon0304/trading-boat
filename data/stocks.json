@@ -28,25 +28,5 @@
     "per_chg": 0.23,
     "volume": 354999,
     "added_at": "2026-07-17T12:40:57"
-  },
-  {
-    "sr": 1,
-    "nsecode": "PFOCUS",
-    "name": "Prime Focus Limited",
-    "bsecode": "532748",
-    "close": 290.84,
-    "per_chg": 9.84,
-    "volume": 2783693,
-    "added_at": "2026-07-14T12:46:13"
-  },
-  {
-    "sr": 1,
-    "nsecode": "HATSUN",
-    "name": "Hatsun Agro Product Limited",
-    "bsecode": "531531",
-    "close": 930,
-    "per_chg": 3.12,
-    "volume": 94590,
-    "added_at": "2026-07-14T12:46:13"
   }
 ]

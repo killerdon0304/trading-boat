@@ -1,22 +1,22 @@
 [
   {
     "sr": 1,
+    "nsecode": "OIL",
+    "name": "Oil India Limited",
+    "bsecode": "533106",
+    "close": 458.8,
+    "per_chg": 1.7,
+    "volume": 4310115,
+    "added_at": "2026-07-20T13:23:48"
+  },
+  {
+    "sr": 1,
     "nsecode": "SUPREMEIND",
     "name": "Supreme Industries Limited",
     "bsecode": "509930",
     "close": 3450.8,
     "per_chg": 1.52,
     "volume": 110586,
-    "added_at": "2026-07-20T13:23:48"
-  },
-  {
-    "sr": 2,
-    "nsecode": "OIL",
-    "name": "Oil India Limited",
-    "bsecode": "533106",
-    "close": 451.15,
-    "per_chg": 1.35,
-    "volume": 2534069,
     "added_at": "2026-07-20T13:23:48"
   },
   {

@@ -1,22 +1,32 @@
 [
   {
     "sr": 1,
-    "nsecode": "ASTRAL",
-    "name": "Astral Ltd",
-    "bsecode": "532830",
-    "close": 1471.4,
-    "per_chg": 0.38,
-    "volume": 356533,
-    "added_at": "2026-07-28T13:07:30"
-  },
-  {
-    "sr": 1,
     "nsecode": "ATUL",
     "name": "Atul Limited",
     "bsecode": "500027",
-    "close": 6789.5,
-    "per_chg": 5.96,
-    "volume": 328187,
+    "close": 6798.5,
+    "per_chg": 2.23,
+    "volume": 115350,
     "added_at": "2026-07-27T13:52:01"
+  },
+  {
+    "sr": 2,
+    "nsecode": "ASTRAL",
+    "name": "Astral Ltd",
+    "bsecode": "532830",
+    "close": 1476.3,
+    "per_chg": 0.33,
+    "volume": 187225,
+    "added_at": "2026-07-28T13:07:30"
+  },
+  {
+    "sr": 3,
+    "nsecode": "SUNTV",
+    "name": "Sun Tv Network Limited",
+    "bsecode": "532733",
+    "close": 512.85,
+    "per_chg": 4.57,
+    "volume": 1036848,
+    "added_at": "2026-07-29T13:12:55"
   }
 ]

@@ -1,6 +1,16 @@
 [
   {
     "sr": 1,
+    "nsecode": "MUTHOOTFIN",
+    "name": "Muthoot Finance Limited",
+    "bsecode": "533398",
+    "close": 3119.6,
+    "per_chg": 3.69,
+    "volume": 1285034,
+    "added_at": "2026-07-31T13:12:20"
+  },
+  {
+    "sr": 1,
     "nsecode": "ATUL",
     "name": "Atul Limited",
     "bsecode": "500027",

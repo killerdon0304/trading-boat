@@ -1,6 +1,36 @@
 [
   {
     "sr": 1,
+    "nsecode": "FORCEMOT",
+    "name": "Force Motors Ltd",
+    "bsecode": "500033",
+    "close": 18494,
+    "per_chg": 3.31,
+    "volume": 369223,
+    "added_at": "2026-08-03T13:56:40"
+  },
+  {
+    "sr": 2,
+    "nsecode": "TATAELXSI",
+    "name": "Tata Elxsi Limited",
+    "bsecode": "500408",
+    "close": 3761.9,
+    "per_chg": 2.42,
+    "volume": 962576,
+    "added_at": "2026-08-03T13:56:40"
+  },
+  {
+    "sr": 3,
+    "nsecode": "LUMAXTECH",
+    "name": "Lumax Auto Technologies Limited",
+    "bsecode": "532796",
+    "close": 1625.7,
+    "per_chg": 3.66,
+    "volume": 308962,
+    "added_at": "2026-08-03T13:56:40"
+  },
+  {
+    "sr": 1,
     "nsecode": "MUTHOOTFIN",
     "name": "Muthoot Finance Limited",
     "bsecode": "533398",
@@ -8,16 +38,6 @@
     "per_chg": 3.69,
     "volume": 1285034,
     "added_at": "2026-07-31T13:12:20"
-  },
-  {
-    "sr": 1,
-    "nsecode": "ATUL",
-    "name": "Atul Limited",
-    "bsecode": "500027",
-    "close": 6803,
-    "per_chg": 0.07,
-    "volume": 46892,
-    "added_at": "2026-07-27T13:52:01"
   },
   {
     "sr": 2,

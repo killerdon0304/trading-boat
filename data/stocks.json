@@ -4,9 +4,9 @@
     "nsecode": "FORCEMOT",
     "name": "Force Motors Ltd",
     "bsecode": "500033",
-    "close": 18538,
-    "per_chg": 0.87,
-    "volume": 174033,
+    "close": 18690,
+    "per_chg": 0.82,
+    "volume": 146264,
     "added_at": "2026-08-03T13:56:40"
   },
   {
@@ -14,9 +14,9 @@
     "nsecode": "LUMAXTECH",
     "name": "Lumax Auto Technologies Limited",
     "bsecode": "532796",
-    "close": 1697.9,
-    "per_chg": 3.89,
-    "volume": 301915,
+    "close": 1698.3,
+    "per_chg": 0.02,
+    "volume": 180268,
     "added_at": "2026-08-03T13:56:40"
   },
   {
@@ -24,9 +24,9 @@
     "nsecode": "HINDCOPPER",
     "name": "Hindustan Copper Limited",
     "bsecode": "513599",
-    "close": 533.8,
-    "per_chg": 8.42,
-    "volume": 22701332,
+    "close": 545.95,
+    "per_chg": 2.28,
+    "volume": 19838083,
     "added_at": "2026-08-05T13:09:18"
   },
   {
@@ -68,15 +68,5 @@
     "per_chg": 3.69,
     "volume": 1285034,
     "added_at": "2026-07-31T13:12:20"
-  },
-  {
-    "sr": 3,
-    "nsecode": "SUNTV",
-    "name": "Sun Tv Network Limited",
-    "bsecode": "532733",
-    "close": 512.85,
-    "per_chg": 4.57,
-    "volume": 1036848,
-    "added_at": "2026-07-29T13:12:55"
   }
 ]

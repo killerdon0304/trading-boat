@@ -1,12 +1,12 @@
 [
   {
     "sr": 1,
-    "nsecode": "FORCEMOT",
-    "name": "Force Motors Ltd",
-    "bsecode": "500033",
-    "close": 18690,
-    "per_chg": 0.82,
-    "volume": 146264,
+    "nsecode": "TATAELXSI",
+    "name": "Tata Elxsi Limited",
+    "bsecode": "500408",
+    "close": 3781,
+    "per_chg": 1.78,
+    "volume": 893840,
     "added_at": "2026-08-03T13:56:40"
   },
   {
@@ -14,9 +14,39 @@
     "nsecode": "LUMAXTECH",
     "name": "Lumax Auto Technologies Limited",
     "bsecode": "532796",
-    "close": 1698.3,
-    "per_chg": 0.02,
-    "volume": 180268,
+    "close": 1722.4,
+    "per_chg": 1.42,
+    "volume": 165034,
+    "added_at": "2026-08-03T13:56:40"
+  },
+  {
+    "sr": 3,
+    "nsecode": "RACLGEAR",
+    "name": "RACL Geartech Ltd",
+    "bsecode": "520073",
+    "close": 1482.7,
+    "per_chg": 0.52,
+    "volume": 77550,
+    "added_at": "2026-08-07T12:06:34"
+  },
+  {
+    "sr": 4,
+    "nsecode": "JINDALSTEL",
+    "name": "Jindal Steel Ltd",
+    "bsecode": "532286",
+    "close": 1103,
+    "per_chg": 0.18,
+    "volume": 772777,
+    "added_at": "2026-08-04T13:14:07"
+  },
+  {
+    "sr": 1,
+    "nsecode": "FORCEMOT",
+    "name": "Force Motors Ltd",
+    "bsecode": "500033",
+    "close": 18690,
+    "per_chg": 0.82,
+    "volume": 146264,
     "added_at": "2026-08-03T13:56:40"
   },
   {
@@ -30,16 +60,6 @@
     "added_at": "2026-08-05T13:09:18"
   },
   {
-    "sr": 2,
-    "nsecode": "JINDALSTEL",
-    "name": "Jindal Steel Ltd",
-    "bsecode": "532286",
-    "close": 1124,
-    "per_chg": 1.71,
-    "volume": 1611784,
-    "added_at": "2026-08-04T13:14:07"
-  },
-  {
     "sr": 3,
     "nsecode": "NATIONALUM",
     "name": "National Aluminium Company Limited",
@@ -48,16 +68,6 @@
     "per_chg": 2.17,
     "volume": 31221212,
     "added_at": "2026-08-04T13:14:07"
-  },
-  {
-    "sr": 2,
-    "nsecode": "TATAELXSI",
-    "name": "Tata Elxsi Limited",
-    "bsecode": "500408",
-    "close": 3761.9,
-    "per_chg": 2.42,
-    "volume": 962576,
-    "added_at": "2026-08-03T13:56:40"
   },
   {
     "sr": 1,

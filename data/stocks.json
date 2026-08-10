@@ -68,15 +68,5 @@
     "per_chg": 2.17,
     "volume": 31221212,
     "added_at": "2026-08-04T13:14:07"
-  },
-  {
-    "sr": 1,
-    "nsecode": "MUTHOOTFIN",
-    "name": "Muthoot Finance Limited",
-    "bsecode": "533398",
-    "close": 3119.6,
-    "per_chg": 3.69,
-    "volume": 1285034,
-    "added_at": "2026-07-31T13:12:20"
   }
 ]

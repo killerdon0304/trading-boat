@@ -18,15 +18,5 @@
     "per_chg": 0.52,
     "volume": 77550,
     "added_at": "2026-08-07T12:06:34"
-  },
-  {
-    "sr": 3,
-    "nsecode": "HINDCOPPER",
-    "name": "Hindustan Copper Limited",
-    "bsecode": "513599",
-    "close": 545.95,
-    "per_chg": 2.28,
-    "volume": 19838083,
-    "added_at": "2026-08-05T13:09:18"
   }
 ]

@@ -1,6 +1,16 @@
 [
   {
     "sr": 1,
+    "nsecode": "MFSL",
+    "name": "Max Financial Services Limited",
+    "bsecode": "500271",
+    "close": 1584.5,
+    "per_chg": 0.81,
+    "volume": 241898,
+    "added_at": "2026-08-18T11:49:37"
+  },
+  {
+    "sr": 1,
     "nsecode": "LINCOLN",
     "name": "Lincoln Pharmaceuticals Limited",
     "bsecode": "531633",

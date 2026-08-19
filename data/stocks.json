@@ -1,6 +1,16 @@
 [
   {
     "sr": 1,
+    "nsecode": "DCMSHRIRAM",
+    "name": "Dcm Shriram Limited",
+    "bsecode": "523367",
+    "close": 1053,
+    "per_chg": 2.59,
+    "volume": 205487,
+    "added_at": "2026-08-19T11:48:36"
+  },
+  {
+    "sr": 1,
     "nsecode": "MFSL",
     "name": "Max Financial Services Limited",
     "bsecode": "500271",
@@ -18,15 +28,5 @@
     "per_chg": 1.08,
     "volume": 6117,
     "added_at": "2026-08-17T11:48:46"
-  },
-  {
-    "sr": 1,
-    "nsecode": "GRMOVER",
-    "name": "GRM Overseas Ltd",
-    "bsecode": "531449",
-    "close": 94.19,
-    "per_chg": 4.02,
-    "volume": 2788567,
-    "added_at": "2026-08-11T12:06:45"
   }
 ]

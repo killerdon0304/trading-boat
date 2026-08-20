@@ -1,23 +1,23 @@
 [
   {
     "sr": 1,
-    "nsecode": "DCMSHRIRAM",
-    "name": "Dcm Shriram Limited",
-    "bsecode": "523367",
-    "close": 1053,
-    "per_chg": 2.59,
-    "volume": 205487,
-    "added_at": "2026-08-19T11:48:36"
-  },
-  {
-    "sr": 1,
     "nsecode": "MFSL",
     "name": "Max Financial Services Limited",
     "bsecode": "500271",
-    "close": 1584.5,
-    "per_chg": 0.81,
-    "volume": 241898,
+    "close": 1575,
+    "per_chg": 1.87,
+    "volume": 859021,
     "added_at": "2026-08-18T11:49:37"
+  },
+  {
+    "sr": 2,
+    "nsecode": "DCMSHRIRAM",
+    "name": "Dcm Shriram Limited",
+    "bsecode": "523367",
+    "close": 1079.7,
+    "per_chg": 2.89,
+    "volume": 239612,
+    "added_at": "2026-08-19T11:48:36"
   },
   {
     "sr": 1,

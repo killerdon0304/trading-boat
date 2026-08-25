@@ -1,6 +1,16 @@
 [
   {
     "sr": 1,
+    "nsecode": "ICICIAMC",
+    "name": "ICICI Prudential Asset Management Co Ltd",
+    "bsecode": "544658",
+    "close": 3291.8,
+    "per_chg": 1.91,
+    "volume": 244830,
+    "added_at": "2026-08-25T11:52:52"
+  },
+  {
+    "sr": 1,
     "nsecode": "ANURAS",
     "name": "Anupam Rasayan India Ltd",
     "bsecode": "543275",
@@ -18,16 +28,6 @@
     "per_chg": 1.75,
     "volume": 1344916,
     "added_at": "2026-08-21T11:50:45"
-  },
-  {
-    "sr": 2,
-    "nsecode": "MFSL",
-    "name": "Max Financial Services Limited",
-    "bsecode": "500271",
-    "close": 1585,
-    "per_chg": 0.63,
-    "volume": 450839,
-    "added_at": "2026-08-18T11:49:37"
   },
   {
     "sr": 2,

@@ -1,6 +1,16 @@
 [
   {
     "sr": 1,
+    "nsecode": "ORKLAINDIA",
+    "name": "Orkla India Ltd",
+    "bsecode": "544595",
+    "close": 579.8,
+    "per_chg": 2.49,
+    "volume": 73904,
+    "added_at": "2026-08-26T11:54:24"
+  },
+  {
+    "sr": 1,
     "nsecode": "ICICIAMC",
     "name": "ICICI Prudential Asset Management Co Ltd",
     "bsecode": "544658",
@@ -28,15 +38,5 @@
     "per_chg": 1.75,
     "volume": 1344916,
     "added_at": "2026-08-21T11:50:45"
-  },
-  {
-    "sr": 2,
-    "nsecode": "DCMSHRIRAM",
-    "name": "Dcm Shriram Limited",
-    "bsecode": "523367",
-    "close": 1079.7,
-    "per_chg": 2.89,
-    "volume": 239612,
-    "added_at": "2026-08-19T11:48:36"
   }
 ]

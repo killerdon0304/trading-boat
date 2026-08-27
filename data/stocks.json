@@ -1,12 +1,22 @@
 [
   {
     "sr": 1,
+    "nsecode": "RATNAMANI",
+    "name": "Ratnamani Metals & Tubes Limited",
+    "bsecode": "520111",
+    "close": 2654.8,
+    "per_chg": 0.5,
+    "volume": 121827,
+    "added_at": "2026-08-27T21:04:32"
+  },
+  {
+    "sr": 2,
     "nsecode": "ORKLAINDIA",
     "name": "Orkla India Ltd",
     "bsecode": "544595",
-    "close": 579.8,
-    "per_chg": 2.49,
-    "volume": 73904,
+    "close": 606,
+    "per_chg": 4.52,
+    "volume": 407447,
     "added_at": "2026-08-26T11:54:24"
   },
   {

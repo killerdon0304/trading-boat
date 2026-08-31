@@ -1,6 +1,16 @@
 [
   {
     "sr": 1,
+    "nsecode": "AXISCADES",
+    "name": "AXISCADES Technologies Ltd",
+    "bsecode": "532395",
+    "close": 1671.2,
+    "per_chg": 4.8,
+    "volume": 322732,
+    "added_at": "2026-08-31T18:03:23"
+  },
+  {
+    "sr": 1,
     "nsecode": "TECHNOE",
     "name": "Techno Electric & Engineering Company Ltd",
     "bsecode": "542141",
@@ -38,15 +48,5 @@
     "per_chg": 1.91,
     "volume": 244830,
     "added_at": "2026-08-25T11:52:52"
-  },
-  {
-    "sr": 1,
-    "nsecode": "ANURAS",
-    "name": "Anupam Rasayan India Ltd",
-    "bsecode": "543275",
-    "close": 1255.5,
-    "per_chg": 0.95,
-    "volume": 633645,
-    "added_at": "2026-08-24T11:52:06"
   }
 ]

@@ -38,15 +38,5 @@
     "per_chg": 4.52,
     "volume": 407447,
     "added_at": "2026-08-26T11:54:24"
-  },
-  {
-    "sr": 1,
-    "nsecode": "ICICIAMC",
-    "name": "ICICI Prudential Asset Management Co Ltd",
-    "bsecode": "544658",
-    "close": 3291.8,
-    "per_chg": 1.91,
-    "volume": 244830,
-    "added_at": "2026-08-25T11:52:52"
   }
 ]

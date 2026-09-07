@@ -1,6 +1,26 @@
 [
   {
     "sr": 1,
+    "nsecode": "GESHIP",
+    "name": "The Great Eastern Shipping Company Limited",
+    "bsecode": "500620",
+    "close": 1376.7,
+    "per_chg": 0.51,
+    "volume": 888277,
+    "added_at": "2026-09-07T16:35:09"
+  },
+  {
+    "sr": 2,
+    "nsecode": "STAR",
+    "name": "Strides Shasun Limited",
+    "bsecode": "532531",
+    "close": 1178.8,
+    "per_chg": 11.25,
+    "volume": 2617272,
+    "added_at": "2026-09-07T16:35:09"
+  },
+  {
+    "sr": 1,
     "nsecode": "AXISCADES",
     "name": "AXISCADES Technologies Ltd",
     "bsecode": "532395",
@@ -8,15 +28,5 @@
     "per_chg": 2.41,
     "volume": 204487,
     "added_at": "2026-08-31T18:03:23"
-  },
-  {
-    "sr": 1,
-    "nsecode": "TECHNOE",
-    "name": "Techno Electric & Engineering Company Ltd",
-    "bsecode": "542141",
-    "close": 1025.5,
-    "per_chg": 2.81,
-    "volume": 272844,
-    "added_at": "2026-08-28T21:27:58"
   }
 ]

@@ -1,32 +1,52 @@
 [
   {
     "sr": 1,
-    "nsecode": "GESHIP",
-    "name": "The Great Eastern Shipping Company Limited",
-    "bsecode": "500620",
-    "close": 1376.7,
-    "per_chg": 0.51,
-    "volume": 888277,
-    "added_at": "2026-09-07T16:35:09"
+    "nsecode": "GVT&D",
+    "name": "GE Vernova T&D India Ltd",
+    "bsecode": "522275",
+    "close": 4750,
+    "per_chg": 8.77,
+    "volume": 4274212,
+    "added_at": "2026-09-08T15:12:34"
   },
   {
     "sr": 2,
-    "nsecode": "STAR",
-    "name": "Strides Shasun Limited",
-    "bsecode": "532531",
-    "close": 1178.8,
-    "per_chg": 11.25,
-    "volume": 2617272,
+    "nsecode": "GESHIP",
+    "name": "The Great Eastern Shipping Company Limited",
+    "bsecode": "500620",
+    "close": 1383.8,
+    "per_chg": 0.52,
+    "volume": 760052,
     "added_at": "2026-09-07T16:35:09"
   },
   {
-    "sr": 1,
-    "nsecode": "AXISCADES",
-    "name": "AXISCADES Technologies Ltd",
-    "bsecode": "532395",
-    "close": 1730.4,
-    "per_chg": 2.41,
-    "volume": 204487,
-    "added_at": "2026-08-31T18:03:23"
+    "sr": 3,
+    "nsecode": "STAR",
+    "name": "Strides Shasun Limited",
+    "bsecode": "532531",
+    "close": 1187.4,
+    "per_chg": 0.73,
+    "volume": 491962,
+    "added_at": "2026-09-07T16:35:09"
+  },
+  {
+    "sr": 4,
+    "nsecode": "NESCO",
+    "name": "Nesco Limited",
+    "bsecode": "505355",
+    "close": 1117.1,
+    "per_chg": 3.82,
+    "volume": 221569,
+    "added_at": "2026-09-08T15:12:34"
+  },
+  {
+    "sr": 5,
+    "nsecode": "JUBLPHARMA",
+    "name": "Jubilant Pharmova Ltd",
+    "bsecode": "530019",
+    "close": 997.75,
+    "per_chg": 4.99,
+    "volume": 1366696,
+    "added_at": "2026-09-08T15:12:34"
   }
 ]

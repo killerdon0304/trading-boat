@@ -10,26 +10,6 @@
     "added_at": "2026-09-11T15:07:28"
   },
   {
-    "sr": 2,
-    "nsecode": "GESHIP",
-    "name": "The Great Eastern Shipping Company Limited",
-    "bsecode": "500620",
-    "close": 1412.2,
-    "per_chg": 0.86,
-    "volume": 902109,
-    "added_at": "2026-09-07T16:35:09"
-  },
-  {
-    "sr": 3,
-    "nsecode": "JUBLPHARMA",
-    "name": "Jubilant Pharmova Ltd",
-    "bsecode": "530019",
-    "close": 1025.2,
-    "per_chg": -0.04,
-    "volume": 230939,
-    "added_at": "2026-09-08T15:12:34"
-  },
-  {
     "sr": 4,
     "nsecode": "HBLENGINE",
     "name": "HBL Engineering Ltd",
@@ -58,25 +38,5 @@
     "per_chg": 14.82,
     "volume": 5356635,
     "added_at": "2026-09-09T15:12:51"
-  },
-  {
-    "sr": 1,
-    "nsecode": "GVT&D",
-    "name": "GE Vernova T&D India Ltd",
-    "bsecode": "522275",
-    "close": 4750,
-    "per_chg": 8.77,
-    "volume": 4274212,
-    "added_at": "2026-09-08T15:12:34"
-  },
-  {
-    "sr": 4,
-    "nsecode": "NESCO",
-    "name": "Nesco Limited",
-    "bsecode": "505355",
-    "close": 1117.1,
-    "per_chg": 3.82,
-    "volume": 221569,
-    "added_at": "2026-09-08T15:12:34"
   }
 ]

@@ -1,22 +1,32 @@
 [
   {
     "sr": 1,
+    "nsecode": "BLUESTARCO",
+    "name": "Blue Star Limited",
+    "bsecode": "500067",
+    "close": 1553,
+    "per_chg": 3.26,
+    "volume": 517440,
+    "added_at": "2026-09-16T15:27:45"
+  },
+  {
+    "sr": 2,
+    "nsecode": "TATACHEM",
+    "name": "Tata Chemicals Limited",
+    "bsecode": "500770",
+    "close": 779.3,
+    "per_chg": 6.49,
+    "volume": 14321725,
+    "added_at": "2026-09-16T15:27:45"
+  },
+  {
+    "sr": 1,
     "nsecode": "ONESOURCE",
     "name": "OneSource Specialty Pharma Ltd",
     "bsecode": "544292",
     "close": 1596.6,
     "per_chg": -0.19,
     "volume": 143256,
-    "added_at": "2026-09-16T15:27:45"
-  },
-  {
-    "sr": 2,
-    "nsecode": "BLUESTARCO",
-    "name": "Blue Star Limited",
-    "bsecode": "500067",
-    "close": 1504,
-    "per_chg": 1.42,
-    "volume": 525657,
     "added_at": "2026-09-16T15:27:45"
   },
   {
@@ -27,16 +37,6 @@
     "close": 1295.3,
     "per_chg": -0.43,
     "volume": 389154,
-    "added_at": "2026-09-16T15:27:45"
-  },
-  {
-    "sr": 4,
-    "nsecode": "TATACHEM",
-    "name": "Tata Chemicals Limited",
-    "bsecode": "500770",
-    "close": 731.8,
-    "per_chg": -0.42,
-    "volume": 25483055,
     "added_at": "2026-09-16T15:27:45"
   },
   {
@@ -58,15 +58,5 @@
     "per_chg": 0.18,
     "volume": 1018560,
     "added_at": "2026-09-11T15:07:28"
-  },
-  {
-    "sr": 4,
-    "nsecode": "GMDCLTD",
-    "name": "Gujarat Mineral Development Corporation Limited",
-    "bsecode": "532181",
-    "close": 580.4,
-    "per_chg": 1.02,
-    "volume": 4880225,
-    "added_at": "2026-09-10T15:04:25"
   }
 ]

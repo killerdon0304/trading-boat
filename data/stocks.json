@@ -1,6 +1,26 @@
 [
   {
     "sr": 1,
+    "nsecode": "ONESOURCE",
+    "name": "OneSource Specialty Pharma Ltd",
+    "bsecode": "544292",
+    "close": 1594.9,
+    "per_chg": 0.94,
+    "volume": 335793,
+    "added_at": "2026-09-16T15:27:45"
+  },
+  {
+    "sr": 2,
+    "nsecode": "DRREDDY",
+    "name": "Dr. Reddy's Laboratories Limited",
+    "bsecode": "500124",
+    "close": 1185,
+    "per_chg": 0.85,
+    "volume": 3002566,
+    "added_at": "2026-09-18T15:04:02"
+  },
+  {
+    "sr": 1,
     "nsecode": "BLUESTARCO",
     "name": "Blue Star Limited",
     "bsecode": "500067",
@@ -17,16 +37,6 @@
     "close": 779.3,
     "per_chg": 6.49,
     "volume": 14321725,
-    "added_at": "2026-09-16T15:27:45"
-  },
-  {
-    "sr": 1,
-    "nsecode": "ONESOURCE",
-    "name": "OneSource Specialty Pharma Ltd",
-    "bsecode": "544292",
-    "close": 1596.6,
-    "per_chg": -0.19,
-    "volume": 143256,
     "added_at": "2026-09-16T15:27:45"
   },
   {

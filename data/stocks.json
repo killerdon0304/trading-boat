@@ -1,6 +1,46 @@
 [
   {
     "sr": 1,
+    "nsecode": "MFSL",
+    "name": "Max Financial Services Limited",
+    "bsecode": "500271",
+    "close": 1569,
+    "per_chg": 0.64,
+    "volume": 534288,
+    "added_at": "2026-09-21T17:07:54"
+  },
+  {
+    "sr": 2,
+    "nsecode": "ZOTA",
+    "name": "Zota Health Care Ltd",
+    "bsecode": "538426",
+    "close": 1287.8,
+    "per_chg": 12.52,
+    "volume": 401249,
+    "added_at": "2026-09-21T17:07:54"
+  },
+  {
+    "sr": 3,
+    "nsecode": "VBL",
+    "name": "Varun Beverages Limited",
+    "bsecode": "540180",
+    "close": 425,
+    "per_chg": 0.72,
+    "volume": 4940296,
+    "added_at": "2026-09-21T17:07:54"
+  },
+  {
+    "sr": 4,
+    "nsecode": "BGRENERGY",
+    "name": "Bgr Energy Systems Limited",
+    "bsecode": "532930",
+    "close": 268.4,
+    "per_chg": 5,
+    "volume": 89055,
+    "added_at": "2026-09-21T17:07:54"
+  },
+  {
+    "sr": 1,
     "nsecode": "ONESOURCE",
     "name": "OneSource Specialty Pharma Ltd",
     "bsecode": "544292",
@@ -48,25 +88,5 @@
     "per_chg": -0.43,
     "volume": 389154,
     "added_at": "2026-09-16T15:27:45"
-  },
-  {
-    "sr": 1,
-    "nsecode": "TIMKEN",
-    "name": "Timken India Limited",
-    "bsecode": "522113",
-    "close": 3302.4,
-    "per_chg": 0.16,
-    "volume": 43706,
-    "added_at": "2026-09-11T15:07:28"
-  },
-  {
-    "sr": 4,
-    "nsecode": "HBLENGINE",
-    "name": "HBL Engineering Ltd",
-    "bsecode": "517271",
-    "close": 722.2,
-    "per_chg": 0.18,
-    "volume": 1018560,
-    "added_at": "2026-09-11T15:07:28"
   }
 ]

@@ -1,42 +1,72 @@
 [
   {
     "sr": 1,
+    "nsecode": "ZOTA",
+    "name": "Zota Health Care Ltd",
+    "bsecode": "538426",
+    "close": 1356,
+    "per_chg": 5.3,
+    "volume": 1031885,
+    "added_at": "2026-09-21T17:07:54"
+  },
+  {
+    "sr": 2,
+    "nsecode": "PROTEAN",
+    "name": "Protean eGov Technologies Ltd",
+    "bsecode": "544021",
+    "close": 620.65,
+    "per_chg": 5.49,
+    "volume": 14817622,
+    "added_at": "2026-09-22T15:34:17"
+  },
+  {
+    "sr": 3,
+    "nsecode": "JSLL",
+    "name": "Jeena Sikho Lifecare Ltd",
+    "bsecode": "535446",
+    "close": 515.4,
+    "per_chg": 1.44,
+    "volume": 504867,
+    "added_at": "2026-09-22T15:34:17"
+  },
+  {
+    "sr": 4,
+    "nsecode": "VBL",
+    "name": "Varun Beverages Limited",
+    "bsecode": "540180",
+    "close": 430,
+    "per_chg": 1.18,
+    "volume": 5138730,
+    "added_at": "2026-09-21T17:07:54"
+  },
+  {
+    "sr": 5,
+    "nsecode": "KPIGREEN",
+    "name": "KPI Green Energy Ltd",
+    "bsecode": "542323",
+    "close": 346.45,
+    "per_chg": 7.79,
+    "volume": 10752256,
+    "added_at": "2026-09-22T15:34:17"
+  },
+  {
+    "sr": 6,
+    "nsecode": "BGRENERGY",
+    "name": "Bgr Energy Systems Limited",
+    "bsecode": "532930",
+    "close": 271.56,
+    "per_chg": 1.18,
+    "volume": 64190,
+    "added_at": "2026-09-21T17:07:54"
+  },
+  {
+    "sr": 1,
     "nsecode": "MFSL",
     "name": "Max Financial Services Limited",
     "bsecode": "500271",
     "close": 1569,
     "per_chg": 0.64,
     "volume": 534288,
-    "added_at": "2026-09-21T17:07:54"
-  },
-  {
-    "sr": 2,
-    "nsecode": "ZOTA",
-    "name": "Zota Health Care Ltd",
-    "bsecode": "538426",
-    "close": 1287.8,
-    "per_chg": 12.52,
-    "volume": 401249,
-    "added_at": "2026-09-21T17:07:54"
-  },
-  {
-    "sr": 3,
-    "nsecode": "VBL",
-    "name": "Varun Beverages Limited",
-    "bsecode": "540180",
-    "close": 425,
-    "per_chg": 0.72,
-    "volume": 4940296,
-    "added_at": "2026-09-21T17:07:54"
-  },
-  {
-    "sr": 4,
-    "nsecode": "BGRENERGY",
-    "name": "Bgr Energy Systems Limited",
-    "bsecode": "532930",
-    "close": 268.4,
-    "per_chg": 5,
-    "volume": 89055,
     "added_at": "2026-09-21T17:07:54"
   },
   {

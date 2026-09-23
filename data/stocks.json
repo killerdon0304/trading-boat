@@ -1,52 +1,72 @@
 [
   {
     "sr": 1,
-    "nsecode": "ZOTA",
-    "name": "Zota Health Care Ltd",
-    "bsecode": "538426",
-    "close": 1356,
-    "per_chg": 5.3,
-    "volume": 1031885,
+    "nsecode": "MFSL",
+    "name": "Max Financial Services Limited",
+    "bsecode": "500271",
+    "close": 1562.9,
+    "per_chg": 0.56,
+    "volume": 324133,
     "added_at": "2026-09-21T17:07:54"
   },
   {
     "sr": 2,
-    "nsecode": "PROTEAN",
-    "name": "Protean eGov Technologies Ltd",
-    "bsecode": "544021",
-    "close": 620.65,
-    "per_chg": 5.49,
-    "volume": 14817622,
-    "added_at": "2026-09-22T15:34:17"
+    "nsecode": "ZOTA",
+    "name": "Zota Health Care Ltd",
+    "bsecode": "538426",
+    "close": 1390.6,
+    "per_chg": 2.55,
+    "volume": 109803,
+    "added_at": "2026-09-21T17:07:54"
   },
   {
     "sr": 3,
-    "nsecode": "JSLL",
-    "name": "Jeena Sikho Lifecare Ltd",
-    "bsecode": "535446",
-    "close": 515.4,
-    "per_chg": 1.44,
-    "volume": 504867,
+    "nsecode": "PROTEAN",
+    "name": "Protean eGov Technologies Ltd",
+    "bsecode": "544021",
+    "close": 636.2,
+    "per_chg": 2.51,
+    "volume": 1881519,
     "added_at": "2026-09-22T15:34:17"
   },
   {
     "sr": 4,
-    "nsecode": "VBL",
-    "name": "Varun Beverages Limited",
-    "bsecode": "540180",
-    "close": 430,
-    "per_chg": 1.18,
-    "volume": 5138730,
-    "added_at": "2026-09-21T17:07:54"
+    "nsecode": "JSLL",
+    "name": "Jeena Sikho Lifecare Ltd",
+    "bsecode": "535446",
+    "close": 524.3,
+    "per_chg": 1.73,
+    "volume": 426083,
+    "added_at": "2026-09-22T15:34:17"
   },
   {
     "sr": 5,
+    "nsecode": "ELECON",
+    "name": "Elecon Engineering Company Limited",
+    "bsecode": "505700",
+    "close": 466.6,
+    "per_chg": 10.95,
+    "volume": 30987016,
+    "added_at": "2026-09-23T15:29:56"
+  },
+  {
+    "sr": 6,
+    "nsecode": "VBL",
+    "name": "Varun Beverages Limited",
+    "bsecode": "540180",
+    "close": 436.15,
+    "per_chg": 1.43,
+    "volume": 4205329,
+    "added_at": "2026-09-21T17:07:54"
+  },
+  {
+    "sr": 7,
     "nsecode": "KPIGREEN",
     "name": "KPI Green Energy Ltd",
     "bsecode": "542323",
-    "close": 346.45,
-    "per_chg": 7.79,
-    "volume": 10752256,
+    "close": 350.05,
+    "per_chg": 1.04,
+    "volume": 3884369,
     "added_at": "2026-09-22T15:34:17"
   },
   {
@@ -60,26 +80,6 @@
     "added_at": "2026-09-21T17:07:54"
   },
   {
-    "sr": 1,
-    "nsecode": "MFSL",
-    "name": "Max Financial Services Limited",
-    "bsecode": "500271",
-    "close": 1569,
-    "per_chg": 0.64,
-    "volume": 534288,
-    "added_at": "2026-09-21T17:07:54"
-  },
-  {
-    "sr": 1,
-    "nsecode": "ONESOURCE",
-    "name": "OneSource Specialty Pharma Ltd",
-    "bsecode": "544292",
-    "close": 1594.9,
-    "per_chg": 0.94,
-    "volume": 335793,
-    "added_at": "2026-09-16T15:27:45"
-  },
-  {
     "sr": 2,
     "nsecode": "DRREDDY",
     "name": "Dr. Reddy's Laboratories Limited",
@@ -88,35 +88,5 @@
     "per_chg": 0.85,
     "volume": 3002566,
     "added_at": "2026-09-18T15:04:02"
-  },
-  {
-    "sr": 1,
-    "nsecode": "BLUESTARCO",
-    "name": "Blue Star Limited",
-    "bsecode": "500067",
-    "close": 1553,
-    "per_chg": 3.26,
-    "volume": 517440,
-    "added_at": "2026-09-16T15:27:45"
-  },
-  {
-    "sr": 2,
-    "nsecode": "TATACHEM",
-    "name": "Tata Chemicals Limited",
-    "bsecode": "500770",
-    "close": 779.3,
-    "per_chg": 6.49,
-    "volume": 14321725,
-    "added_at": "2026-09-16T15:27:45"
-  },
-  {
-    "sr": 3,
-    "nsecode": "TORNTPOWER",
-    "name": "Torrent Power Limited",
-    "bsecode": "532779",
-    "close": 1295.3,
-    "per_chg": -0.43,
-    "volume": 389154,
-    "added_at": "2026-09-16T15:27:45"
   }
 ]

@@ -1,6 +1,16 @@
 [
   {
     "sr": 1,
+    "nsecode": "PROTEAN",
+    "name": "Protean eGov Technologies Ltd",
+    "bsecode": "544021",
+    "close": 641.95,
+    "per_chg": 0.9,
+    "volume": 2739934,
+    "added_at": "2026-09-22T15:34:17"
+  },
+  {
+    "sr": 1,
     "nsecode": "MFSL",
     "name": "Max Financial Services Limited",
     "bsecode": "500271",
@@ -18,16 +28,6 @@
     "per_chg": 2.55,
     "volume": 109803,
     "added_at": "2026-09-21T17:07:54"
-  },
-  {
-    "sr": 3,
-    "nsecode": "PROTEAN",
-    "name": "Protean eGov Technologies Ltd",
-    "bsecode": "544021",
-    "close": 636.2,
-    "per_chg": 2.51,
-    "volume": 1881519,
-    "added_at": "2026-09-22T15:34:17"
   },
   {
     "sr": 4,

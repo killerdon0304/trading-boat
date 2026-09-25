@@ -1,13 +1,73 @@
 [
   {
     "sr": 1,
+    "nsecode": "ZOTA",
+    "name": "Zota Health Care Ltd",
+    "bsecode": "538426",
+    "close": 1336.6,
+    "per_chg": -0.68,
+    "volume": 30110,
+    "added_at": "2026-09-21T17:07:54"
+  },
+  {
+    "sr": 2,
+    "nsecode": "KSCL",
+    "name": "Kaveri Seed Company Limited",
+    "bsecode": "532899",
+    "close": 804.55,
+    "per_chg": 2.64,
+    "volume": 9425259,
+    "added_at": "2026-09-25T15:52:16"
+  },
+  {
+    "sr": 3,
     "nsecode": "PROTEAN",
     "name": "Protean eGov Technologies Ltd",
     "bsecode": "544021",
-    "close": 641.95,
-    "per_chg": 0.9,
-    "volume": 2739934,
+    "close": 690.7,
+    "per_chg": 7.59,
+    "volume": 3560004,
     "added_at": "2026-09-22T15:34:17"
+  },
+  {
+    "sr": 4,
+    "nsecode": "ELECON",
+    "name": "Elecon Engineering Company Limited",
+    "bsecode": "505700",
+    "close": 458.25,
+    "per_chg": -0.19,
+    "volume": 631253,
+    "added_at": "2026-09-23T15:29:56"
+  },
+  {
+    "sr": 5,
+    "nsecode": "VBL",
+    "name": "Varun Beverages Limited",
+    "bsecode": "540180",
+    "close": 434.8,
+    "per_chg": 0.82,
+    "volume": 5365431,
+    "added_at": "2026-09-21T17:07:54"
+  },
+  {
+    "sr": 6,
+    "nsecode": "KPIGREEN",
+    "name": "KPI Green Energy Ltd",
+    "bsecode": "542323",
+    "close": 339.75,
+    "per_chg": 1.97,
+    "volume": 1557582,
+    "added_at": "2026-09-22T15:34:17"
+  },
+  {
+    "sr": 7,
+    "nsecode": "BGRENERGY",
+    "name": "Bgr Energy Systems Limited",
+    "bsecode": "532930",
+    "close": 255.81,
+    "per_chg": 1.7,
+    "volume": 28236,
+    "added_at": "2026-09-21T17:07:54"
   },
   {
     "sr": 1,
@@ -20,16 +80,6 @@
     "added_at": "2026-09-21T17:07:54"
   },
   {
-    "sr": 2,
-    "nsecode": "ZOTA",
-    "name": "Zota Health Care Ltd",
-    "bsecode": "538426",
-    "close": 1390.6,
-    "per_chg": 2.55,
-    "volume": 109803,
-    "added_at": "2026-09-21T17:07:54"
-  },
-  {
     "sr": 4,
     "nsecode": "JSLL",
     "name": "Jeena Sikho Lifecare Ltd",
@@ -38,55 +88,5 @@
     "per_chg": 1.73,
     "volume": 426083,
     "added_at": "2026-09-22T15:34:17"
-  },
-  {
-    "sr": 5,
-    "nsecode": "ELECON",
-    "name": "Elecon Engineering Company Limited",
-    "bsecode": "505700",
-    "close": 466.6,
-    "per_chg": 10.95,
-    "volume": 30987016,
-    "added_at": "2026-09-23T15:29:56"
-  },
-  {
-    "sr": 6,
-    "nsecode": "VBL",
-    "name": "Varun Beverages Limited",
-    "bsecode": "540180",
-    "close": 436.15,
-    "per_chg": 1.43,
-    "volume": 4205329,
-    "added_at": "2026-09-21T17:07:54"
-  },
-  {
-    "sr": 7,
-    "nsecode": "KPIGREEN",
-    "name": "KPI Green Energy Ltd",
-    "bsecode": "542323",
-    "close": 350.05,
-    "per_chg": 1.04,
-    "volume": 3884369,
-    "added_at": "2026-09-22T15:34:17"
-  },
-  {
-    "sr": 6,
-    "nsecode": "BGRENERGY",
-    "name": "Bgr Energy Systems Limited",
-    "bsecode": "532930",
-    "close": 271.56,
-    "per_chg": 1.18,
-    "volume": 64190,
-    "added_at": "2026-09-21T17:07:54"
-  },
-  {
-    "sr": 2,
-    "nsecode": "DRREDDY",
-    "name": "Dr. Reddy's Laboratories Limited",
-    "bsecode": "500124",
-    "close": 1185,
-    "per_chg": 0.85,
-    "volume": 3002566,
-    "added_at": "2026-09-18T15:04:02"
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
     "sr": 1,
-    "nsecode": "ZOTA",
-    "name": "Zota Health Care Ltd",
-    "bsecode": "538426",
-    "close": 1336.6,
-    "per_chg": -0.68,
-    "volume": 30110,
-    "added_at": "2026-09-21T17:07:54"
+    "nsecode": "TRUALT",
+    "name": "TruAlt Bioenergy Ltd",
+    "bsecode": "544545",
+    "close": 458.15,
+    "per_chg": 3.68,
+    "volume": 648345,
+    "added_at": "2026-09-28T18:39:37"
   },
   {
     "sr": 2,
@@ -40,16 +40,6 @@
     "added_at": "2026-09-23T15:29:56"
   },
   {
-    "sr": 5,
-    "nsecode": "VBL",
-    "name": "Varun Beverages Limited",
-    "bsecode": "540180",
-    "close": 434.8,
-    "per_chg": 0.82,
-    "volume": 5365431,
-    "added_at": "2026-09-21T17:07:54"
-  },
-  {
     "sr": 6,
     "nsecode": "KPIGREEN",
     "name": "KPI Green Energy Ltd",
@@ -58,26 +48,6 @@
     "per_chg": 1.97,
     "volume": 1557582,
     "added_at": "2026-09-22T15:34:17"
-  },
-  {
-    "sr": 7,
-    "nsecode": "BGRENERGY",
-    "name": "Bgr Energy Systems Limited",
-    "bsecode": "532930",
-    "close": 255.81,
-    "per_chg": 1.7,
-    "volume": 28236,
-    "added_at": "2026-09-21T17:07:54"
-  },
-  {
-    "sr": 1,
-    "nsecode": "MFSL",
-    "name": "Max Financial Services Limited",
-    "bsecode": "500271",
-    "close": 1562.9,
-    "per_chg": 0.56,
-    "volume": 324133,
-    "added_at": "2026-09-21T17:07:54"
   },
   {
     "sr": 4,

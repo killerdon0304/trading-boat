@@ -1,6 +1,36 @@
 [
   {
     "sr": 1,
+    "nsecode": "DMART",
+    "name": "Avenue Supermarts Ltd",
+    "bsecode": "540376",
+    "close": 3801.4,
+    "per_chg": 1.37,
+    "volume": 620771,
+    "added_at": "2026-09-30T16:53:52"
+  },
+  {
+    "sr": 2,
+    "nsecode": "ICICIGI",
+    "name": "ICICI Lombard General Insurance Company Ltd",
+    "bsecode": "540716",
+    "close": 1590,
+    "per_chg": 4.95,
+    "volume": 1952166,
+    "added_at": "2026-09-30T16:53:52"
+  },
+  {
+    "sr": 3,
+    "nsecode": "TRUALT",
+    "name": "TruAlt Bioenergy Ltd",
+    "bsecode": "544545",
+    "close": 468.65,
+    "per_chg": 2.24,
+    "volume": 396825,
+    "added_at": "2026-09-28T18:39:37"
+  },
+  {
+    "sr": 1,
     "nsecode": "MANKIND",
     "name": "Mankind Pharma Ltd",
     "bsecode": "543904",
@@ -20,16 +50,6 @@
     "added_at": "2026-09-29T16:56:13"
   },
   {
-    "sr": 1,
-    "nsecode": "TRUALT",
-    "name": "TruAlt Bioenergy Ltd",
-    "bsecode": "544545",
-    "close": 458.15,
-    "per_chg": 3.68,
-    "volume": 648345,
-    "added_at": "2026-09-28T18:39:37"
-  },
-  {
     "sr": 2,
     "nsecode": "KSCL",
     "name": "Kaveri Seed Company Limited",
@@ -38,15 +58,5 @@
     "per_chg": 2.64,
     "volume": 9425259,
     "added_at": "2026-09-25T15:52:16"
-  },
-  {
-    "sr": 4,
-    "nsecode": "ELECON",
-    "name": "Elecon Engineering Company Limited",
-    "bsecode": "505700",
-    "close": 458.25,
-    "per_chg": -0.19,
-    "volume": 631253,
-    "added_at": "2026-09-23T15:29:56"
   }
 ]

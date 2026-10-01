@@ -4,10 +4,20 @@
     "nsecode": "DMART",
     "name": "Avenue Supermarts Ltd",
     "bsecode": "540376",
-    "close": 3801.4,
-    "per_chg": 1.37,
-    "volume": 620771,
+    "close": 3813,
+    "per_chg": 0.31,
+    "volume": 652283,
     "added_at": "2026-09-30T16:53:52"
+  },
+  {
+    "sr": 2,
+    "nsecode": "MANKIND",
+    "name": "Mankind Pharma Ltd",
+    "bsecode": "543904",
+    "close": 2535,
+    "per_chg": 1.25,
+    "volume": 427905,
+    "added_at": "2026-09-29T16:56:13"
   },
   {
     "sr": 2,
@@ -28,16 +38,6 @@
     "per_chg": 2.24,
     "volume": 396825,
     "added_at": "2026-09-28T18:39:37"
-  },
-  {
-    "sr": 1,
-    "nsecode": "MANKIND",
-    "name": "Mankind Pharma Ltd",
-    "bsecode": "543904",
-    "close": 2545,
-    "per_chg": 4.49,
-    "volume": 1973968,
-    "added_at": "2026-09-29T16:56:13"
   },
   {
     "sr": 2,

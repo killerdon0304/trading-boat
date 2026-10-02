@@ -48,15 +48,5 @@
     "per_chg": 1.76,
     "volume": 636356,
     "added_at": "2026-09-29T16:56:13"
-  },
-  {
-    "sr": 2,
-    "nsecode": "KSCL",
-    "name": "Kaveri Seed Company Limited",
-    "bsecode": "532899",
-    "close": 804.55,
-    "per_chg": 2.64,
-    "volume": 9425259,
-    "added_at": "2026-09-25T15:52:16"
   }
 ]

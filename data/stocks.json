@@ -1,6 +1,46 @@
 [
   {
     "sr": 1,
+    "nsecode": "ATLANTAELE",
+    "name": "Atlanta Electricals Ltd",
+    "bsecode": "544527",
+    "close": 1882.9,
+    "per_chg": 9.69,
+    "volume": 379316,
+    "added_at": "2026-10-05T19:45:44"
+  },
+  {
+    "sr": 2,
+    "nsecode": "KRISHNADEF",
+    "name": "Krishna Defence & Allied Industries Ltd",
+    "bsecode": "535444",
+    "close": 1201,
+    "per_chg": 19.99,
+    "volume": 1437610,
+    "added_at": "2026-10-05T19:45:44"
+  },
+  {
+    "sr": 3,
+    "nsecode": "DCMSHRIRAM",
+    "name": "Dcm Shriram Limited",
+    "bsecode": "523367",
+    "close": 1044.55,
+    "per_chg": 15.18,
+    "volume": 971948,
+    "added_at": "2026-10-05T19:45:44"
+  },
+  {
+    "sr": 4,
+    "nsecode": "ADFFOODS",
+    "name": "Adf Foods Limited",
+    "bsecode": "519183",
+    "close": 282.15,
+    "per_chg": 0.27,
+    "volume": 145718,
+    "added_at": "2026-10-05T19:45:44"
+  },
+  {
+    "sr": 1,
     "nsecode": "DMART",
     "name": "Avenue Supermarts Ltd",
     "bsecode": "540376",
@@ -28,16 +68,6 @@
     "per_chg": 4.95,
     "volume": 1952166,
     "added_at": "2026-09-30T16:53:52"
-  },
-  {
-    "sr": 3,
-    "nsecode": "TRUALT",
-    "name": "TruAlt Bioenergy Ltd",
-    "bsecode": "544545",
-    "close": 468.65,
-    "per_chg": 2.24,
-    "volume": 396825,
-    "added_at": "2026-09-28T18:39:37"
   },
   {
     "sr": 2,

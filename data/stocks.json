@@ -1,22 +1,52 @@
 [
   {
     "sr": 1,
+    "nsecode": "KRISHNADEF",
+    "name": "Krishna Defence & Allied Industries Ltd",
+    "bsecode": "535444",
+    "close": 1312.3,
+    "per_chg": 9.27,
+    "volume": 1729929,
+    "added_at": "2026-10-05T19:45:44"
+  },
+  {
+    "sr": 2,
+    "nsecode": "GVPIL",
+    "name": "GE Power India Ltd",
+    "bsecode": "532309",
+    "close": 734.85,
+    "per_chg": 4.33,
+    "volume": 421992,
+    "added_at": "2026-10-06T17:19:23"
+  },
+  {
+    "sr": 3,
+    "nsecode": "CEINSYS",
+    "name": "Ceinsys Tech Ltd",
+    "bsecode": "538734",
+    "close": 718.45,
+    "per_chg": 10.6,
+    "volume": 501355,
+    "added_at": "2026-10-06T17:19:23"
+  },
+  {
+    "sr": 4,
+    "nsecode": "ADFFOODS",
+    "name": "Adf Foods Limited",
+    "bsecode": "519183",
+    "close": 293.1,
+    "per_chg": 3.88,
+    "volume": 487913,
+    "added_at": "2026-10-05T19:45:44"
+  },
+  {
+    "sr": 1,
     "nsecode": "ATLANTAELE",
     "name": "Atlanta Electricals Ltd",
     "bsecode": "544527",
     "close": 1882.9,
     "per_chg": 9.69,
     "volume": 379316,
-    "added_at": "2026-10-05T19:45:44"
-  },
-  {
-    "sr": 2,
-    "nsecode": "KRISHNADEF",
-    "name": "Krishna Defence & Allied Industries Ltd",
-    "bsecode": "535444",
-    "close": 1201,
-    "per_chg": 19.99,
-    "volume": 1437610,
     "added_at": "2026-10-05T19:45:44"
   },
   {
@@ -27,16 +57,6 @@
     "close": 1044.55,
     "per_chg": 15.18,
     "volume": 971948,
-    "added_at": "2026-10-05T19:45:44"
-  },
-  {
-    "sr": 4,
-    "nsecode": "ADFFOODS",
-    "name": "Adf Foods Limited",
-    "bsecode": "519183",
-    "close": 282.15,
-    "per_chg": 0.27,
-    "volume": 145718,
     "added_at": "2026-10-05T19:45:44"
   },
   {
@@ -51,16 +71,6 @@
   },
   {
     "sr": 2,
-    "nsecode": "MANKIND",
-    "name": "Mankind Pharma Ltd",
-    "bsecode": "543904",
-    "close": 2535,
-    "per_chg": 1.25,
-    "volume": 427905,
-    "added_at": "2026-09-29T16:56:13"
-  },
-  {
-    "sr": 2,
     "nsecode": "ICICIGI",
     "name": "ICICI Lombard General Insurance Company Ltd",
     "bsecode": "540716",
@@ -68,15 +78,5 @@
     "per_chg": 4.95,
     "volume": 1952166,
     "added_at": "2026-09-30T16:53:52"
-  },
-  {
-    "sr": 2,
-    "nsecode": "NATCOPHARM",
-    "name": "Natco Pharma Limited",
-    "bsecode": "524816",
-    "close": 843.1,
-    "per_chg": 1.76,
-    "volume": 636356,
-    "added_at": "2026-09-29T16:56:13"
   }
 ]

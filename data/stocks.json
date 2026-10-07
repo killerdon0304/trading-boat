@@ -1,6 +1,26 @@
 [
   {
     "sr": 1,
+    "nsecode": "ENRIN",
+    "name": "Siemens Energy India Ltd",
+    "bsecode": null,
+    "close": 3344,
+    "per_chg": 1.1,
+    "volume": 426581,
+    "added_at": "2026-10-07T17:52:40"
+  },
+  {
+    "sr": 2,
+    "nsecode": "ATLANTAELE",
+    "name": "Atlanta Electricals Ltd",
+    "bsecode": "544527",
+    "close": 1875.8,
+    "per_chg": 0.35,
+    "volume": 281587,
+    "added_at": "2026-10-05T19:45:44"
+  },
+  {
+    "sr": 1,
     "nsecode": "KRISHNADEF",
     "name": "Krishna Defence & Allied Industries Ltd",
     "bsecode": "535444",
@@ -40,16 +60,6 @@
     "added_at": "2026-10-05T19:45:44"
   },
   {
-    "sr": 1,
-    "nsecode": "ATLANTAELE",
-    "name": "Atlanta Electricals Ltd",
-    "bsecode": "544527",
-    "close": 1882.9,
-    "per_chg": 9.69,
-    "volume": 379316,
-    "added_at": "2026-10-05T19:45:44"
-  },
-  {
     "sr": 3,
     "nsecode": "DCMSHRIRAM",
     "name": "Dcm Shriram Limited",
@@ -58,25 +68,5 @@
     "per_chg": 15.18,
     "volume": 971948,
     "added_at": "2026-10-05T19:45:44"
-  },
-  {
-    "sr": 1,
-    "nsecode": "DMART",
-    "name": "Avenue Supermarts Ltd",
-    "bsecode": "540376",
-    "close": 3813,
-    "per_chg": 0.31,
-    "volume": 652283,
-    "added_at": "2026-09-30T16:53:52"
-  },
-  {
-    "sr": 2,
-    "nsecode": "ICICIGI",
-    "name": "ICICI Lombard General Insurance Company Ltd",
-    "bsecode": "540716",
-    "close": 1590,
-    "per_chg": 4.95,
-    "volume": 1952166,
-    "added_at": "2026-09-30T16:53:52"
   }
 ]

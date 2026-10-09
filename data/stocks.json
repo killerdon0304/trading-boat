@@ -1,6 +1,26 @@
 [
   {
     "sr": 1,
+    "nsecode": "AXISBANK",
+    "name": "Axis Bank Limited",
+    "bsecode": "532215",
+    "close": 1259.1,
+    "per_chg": 1.13,
+    "volume": 5173548,
+    "added_at": "2026-10-09T17:29:41"
+  },
+  {
+    "sr": 2,
+    "nsecode": "RPSGVENT",
+    "name": "RPSG Ventures Ltd",
+    "bsecode": null,
+    "close": 891.3,
+    "per_chg": 5.52,
+    "volume": 82123,
+    "added_at": "2026-10-09T17:29:41"
+  },
+  {
+    "sr": 1,
     "nsecode": "ENRIN",
     "name": "Siemens Energy India Ltd",
     "bsecode": null,

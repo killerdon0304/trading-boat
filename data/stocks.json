@@ -1,6 +1,66 @@
 [
   {
     "sr": 1,
+    "nsecode": "TATAELXSI",
+    "name": "Tata Elxsi Limited",
+    "bsecode": "500408",
+    "close": 3426.7,
+    "per_chg": 5.21,
+    "volume": 1037830,
+    "added_at": "2026-10-13T18:25:06"
+  },
+  {
+    "sr": 2,
+    "nsecode": "BSE",
+    "name": "BSE (Bombay stock exchange) Ltd",
+    "bsecode": "20",
+    "close": 3375.4,
+    "per_chg": 1.36,
+    "volume": 4119552,
+    "added_at": "2026-10-13T18:25:06"
+  },
+  {
+    "sr": 3,
+    "nsecode": "TRENT",
+    "name": "Trent Limited",
+    "bsecode": "500251",
+    "close": 2987.8,
+    "per_chg": 2.57,
+    "volume": 893115,
+    "added_at": "2026-10-13T18:25:06"
+  },
+  {
+    "sr": 4,
+    "nsecode": "MIDWESTLTD",
+    "name": "Midwest Ltd",
+    "bsecode": "544587",
+    "close": 1019.25,
+    "per_chg": 0.64,
+    "volume": 57256,
+    "added_at": "2026-10-13T18:25:06"
+  },
+  {
+    "sr": 5,
+    "nsecode": "TIPSMUSIC",
+    "name": "Tips Music Ltd",
+    "bsecode": "532375",
+    "close": 706.95,
+    "per_chg": 3.62,
+    "volume": 619262,
+    "added_at": "2026-10-12T20:22:27"
+  },
+  {
+    "sr": 6,
+    "nsecode": "ANGELONE",
+    "name": "Angel One Ltd",
+    "bsecode": null,
+    "close": 310,
+    "per_chg": 2.56,
+    "volume": 6643325,
+    "added_at": "2026-10-12T20:22:27"
+  },
+  {
+    "sr": 1,
     "nsecode": "BBL",
     "name": "Bharat Bijlee Limited",
     "bsecode": "503960",
@@ -20,16 +80,6 @@
     "added_at": "2026-10-12T20:22:27"
   },
   {
-    "sr": 3,
-    "nsecode": "TIPSMUSIC",
-    "name": "Tips Music Ltd",
-    "bsecode": "532375",
-    "close": 682.25,
-    "per_chg": 7.21,
-    "volume": 1435419,
-    "added_at": "2026-10-12T20:22:27"
-  },
-  {
     "sr": 4,
     "nsecode": "GALLANTT",
     "name": "Gallant Ispat Ltd",
@@ -37,16 +87,6 @@
     "close": 595.6,
     "per_chg": 18.23,
     "volume": 23263167,
-    "added_at": "2026-10-12T20:22:27"
-  },
-  {
-    "sr": 5,
-    "nsecode": "ANGELONE",
-    "name": "Angel One Ltd",
-    "bsecode": null,
-    "close": 302.25,
-    "per_chg": 3.51,
-    "volume": 6496974,
     "added_at": "2026-10-12T20:22:27"
   },
   {
@@ -78,25 +118,5 @@
     "per_chg": 1.1,
     "volume": 426581,
     "added_at": "2026-10-07T17:52:40"
-  },
-  {
-    "sr": 2,
-    "nsecode": "GVPIL",
-    "name": "GE Power India Ltd",
-    "bsecode": "532309",
-    "close": 734.85,
-    "per_chg": 4.33,
-    "volume": 421992,
-    "added_at": "2026-10-06T17:19:23"
-  },
-  {
-    "sr": 3,
-    "nsecode": "CEINSYS",
-    "name": "Ceinsys Tech Ltd",
-    "bsecode": "538734",
-    "close": 718.45,
-    "per_chg": 10.6,
-    "volume": 501355,
-    "added_at": "2026-10-06T17:19:23"
   }
 ]

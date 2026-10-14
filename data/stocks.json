@@ -1,13 +1,63 @@
 [
   {
     "sr": 1,
+    "nsecode": "FORCEMOT",
+    "name": "Force Motors Ltd",
+    "bsecode": "500033",
+    "close": 17270,
+    "per_chg": 0.58,
+    "volume": 37536,
+    "added_at": "2026-10-14T15:52:18"
+  },
+  {
+    "sr": 2,
     "nsecode": "TATAELXSI",
     "name": "Tata Elxsi Limited",
     "bsecode": "500408",
-    "close": 3426.7,
-    "per_chg": 5.21,
-    "volume": 1037830,
+    "close": 3623.1,
+    "per_chg": 5.73,
+    "volume": 3980591,
     "added_at": "2026-10-13T18:25:06"
+  },
+  {
+    "sr": 3,
+    "nsecode": "POWERMECH",
+    "name": "Power Mech Projects Limited",
+    "bsecode": "539302",
+    "close": 2470.2,
+    "per_chg": 1.11,
+    "volume": 54829,
+    "added_at": "2026-10-14T15:52:18"
+  },
+  {
+    "sr": 4,
+    "nsecode": "MAYURUNIQ",
+    "name": "Mayur Uniquoters Ltd",
+    "bsecode": "522249",
+    "close": 803.9,
+    "per_chg": 2.54,
+    "volume": 73050,
+    "added_at": "2026-10-12T20:22:27"
+  },
+  {
+    "sr": 5,
+    "nsecode": "TIPSMUSIC",
+    "name": "Tips Music Ltd",
+    "bsecode": "532375",
+    "close": 718.25,
+    "per_chg": 1.6,
+    "volume": 603685,
+    "added_at": "2026-10-12T20:22:27"
+  },
+  {
+    "sr": 6,
+    "nsecode": "PFC",
+    "name": "Power Finance Corporation Limited",
+    "bsecode": "532810",
+    "close": 344.5,
+    "per_chg": 0.72,
+    "volume": 10614177,
+    "added_at": "2026-10-14T15:52:18"
   },
   {
     "sr": 2,
@@ -40,16 +90,6 @@
     "added_at": "2026-10-13T18:25:06"
   },
   {
-    "sr": 5,
-    "nsecode": "TIPSMUSIC",
-    "name": "Tips Music Ltd",
-    "bsecode": "532375",
-    "close": 706.95,
-    "per_chg": 3.62,
-    "volume": 619262,
-    "added_at": "2026-10-12T20:22:27"
-  },
-  {
     "sr": 6,
     "nsecode": "ANGELONE",
     "name": "Angel One Ltd",
@@ -67,16 +107,6 @@
     "close": 2332.9,
     "per_chg": 6.57,
     "volume": 87605,
-    "added_at": "2026-10-12T20:22:27"
-  },
-  {
-    "sr": 2,
-    "nsecode": "MAYURUNIQ",
-    "name": "Mayur Uniquoters Ltd",
-    "bsecode": "522249",
-    "close": 806.1,
-    "per_chg": 2.25,
-    "volume": 215689,
     "added_at": "2026-10-12T20:22:27"
   },
   {

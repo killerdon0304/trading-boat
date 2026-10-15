@@ -1,6 +1,76 @@
 [
   {
     "sr": 1,
+    "nsecode": "TATAELXSI",
+    "name": "Tata Elxsi Limited",
+    "bsecode": "500408",
+    "close": 3700,
+    "per_chg": 2.12,
+    "volume": 1114438,
+    "added_at": "2026-10-13T18:25:06"
+  },
+  {
+    "sr": 2,
+    "nsecode": "BSE",
+    "name": "BSE (Bombay stock exchange) Ltd",
+    "bsecode": "20",
+    "close": 3428,
+    "per_chg": 2.7,
+    "volume": 5223929,
+    "added_at": "2026-10-13T18:25:06"
+  },
+  {
+    "sr": 3,
+    "nsecode": "BBL",
+    "name": "Bharat Bijlee Limited",
+    "bsecode": "503960",
+    "close": 2508.6,
+    "per_chg": 3.84,
+    "volume": 112584,
+    "added_at": "2026-10-12T20:22:27"
+  },
+  {
+    "sr": 4,
+    "nsecode": "TATACOMM",
+    "name": "Tata Communications Limited",
+    "bsecode": "500483",
+    "close": 1763.7,
+    "per_chg": 6.32,
+    "volume": 5090596,
+    "added_at": "2026-10-15T15:39:56"
+  },
+  {
+    "sr": 5,
+    "nsecode": "RIIL",
+    "name": "Reliance Industrial Infrastructure Limited",
+    "bsecode": "523445",
+    "close": 733.4,
+    "per_chg": 4.99,
+    "volume": 3176972,
+    "added_at": "2026-10-15T15:39:56"
+  },
+  {
+    "sr": 6,
+    "nsecode": "GALLANTT",
+    "name": "Gallant Ispat Ltd",
+    "bsecode": "532726",
+    "close": 628.15,
+    "per_chg": 10.65,
+    "volume": 28405871,
+    "added_at": "2026-10-12T20:22:27"
+  },
+  {
+    "sr": 7,
+    "nsecode": "ANGELONE",
+    "name": "Angel One Ltd",
+    "bsecode": null,
+    "close": 313,
+    "per_chg": 2.27,
+    "volume": 11641856,
+    "added_at": "2026-10-12T20:22:27"
+  },
+  {
+    "sr": 1,
     "nsecode": "FORCEMOT",
     "name": "Force Motors Ltd",
     "bsecode": "500033",
@@ -8,16 +78,6 @@
     "per_chg": 0.58,
     "volume": 37536,
     "added_at": "2026-10-14T15:52:18"
-  },
-  {
-    "sr": 2,
-    "nsecode": "TATAELXSI",
-    "name": "Tata Elxsi Limited",
-    "bsecode": "500408",
-    "close": 3623.1,
-    "per_chg": 5.73,
-    "volume": 3980591,
-    "added_at": "2026-10-13T18:25:06"
   },
   {
     "sr": 3,
@@ -60,16 +120,6 @@
     "added_at": "2026-10-14T15:52:18"
   },
   {
-    "sr": 2,
-    "nsecode": "BSE",
-    "name": "BSE (Bombay stock exchange) Ltd",
-    "bsecode": "20",
-    "close": 3375.4,
-    "per_chg": 1.36,
-    "volume": 4119552,
-    "added_at": "2026-10-13T18:25:06"
-  },
-  {
     "sr": 3,
     "nsecode": "TRENT",
     "name": "Trent Limited",
@@ -90,36 +140,6 @@
     "added_at": "2026-10-13T18:25:06"
   },
   {
-    "sr": 6,
-    "nsecode": "ANGELONE",
-    "name": "Angel One Ltd",
-    "bsecode": null,
-    "close": 310,
-    "per_chg": 2.56,
-    "volume": 6643325,
-    "added_at": "2026-10-12T20:22:27"
-  },
-  {
-    "sr": 1,
-    "nsecode": "BBL",
-    "name": "Bharat Bijlee Limited",
-    "bsecode": "503960",
-    "close": 2332.9,
-    "per_chg": 6.57,
-    "volume": 87605,
-    "added_at": "2026-10-12T20:22:27"
-  },
-  {
-    "sr": 4,
-    "nsecode": "GALLANTT",
-    "name": "Gallant Ispat Ltd",
-    "bsecode": "532726",
-    "close": 595.6,
-    "per_chg": 18.23,
-    "volume": 23263167,
-    "added_at": "2026-10-12T20:22:27"
-  },
-  {
     "sr": 1,
     "nsecode": "AXISBANK",
     "name": "Axis Bank Limited",
@@ -138,15 +158,5 @@
     "per_chg": 5.52,
     "volume": 82123,
     "added_at": "2026-10-09T17:29:41"
-  },
-  {
-    "sr": 1,
-    "nsecode": "ENRIN",
-    "name": "Siemens Energy India Ltd",
-    "bsecode": null,
-    "close": 3344,
-    "per_chg": 1.1,
-    "volume": 426581,
-    "added_at": "2026-10-07T17:52:40"
   }
 ]

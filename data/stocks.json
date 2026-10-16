@@ -1,13 +1,83 @@
 [
   {
     "sr": 1,
+    "nsecode": "FORCEMOT",
+    "name": "Force Motors Ltd",
+    "bsecode": "500033",
+    "close": 17700,
+    "per_chg": 0.69,
+    "volume": 49088,
+    "added_at": "2026-10-14T15:52:18"
+  },
+  {
+    "sr": 2,
     "nsecode": "TATAELXSI",
     "name": "Tata Elxsi Limited",
     "bsecode": "500408",
-    "close": 3700,
-    "per_chg": 2.12,
-    "volume": 1114438,
+    "close": 3850.1,
+    "per_chg": 4.06,
+    "volume": 1323988,
     "added_at": "2026-10-13T18:25:06"
+  },
+  {
+    "sr": 3,
+    "nsecode": "TRENT",
+    "name": "Trent Limited",
+    "bsecode": "500251",
+    "close": 2958.7,
+    "per_chg": 0.31,
+    "volume": 521694,
+    "added_at": "2026-10-13T18:25:06"
+  },
+  {
+    "sr": 4,
+    "nsecode": "WAAREEENER",
+    "name": "Waaree Energies Ltd",
+    "bsecode": "544277",
+    "close": 2565.4,
+    "per_chg": 2.86,
+    "volume": 1194976,
+    "added_at": "2026-10-16T15:25:44"
+  },
+  {
+    "sr": 5,
+    "nsecode": "DCMSHRIRAM",
+    "name": "Dcm Shriram Limited",
+    "bsecode": "523367",
+    "close": 1014.2,
+    "per_chg": 0.13,
+    "volume": 41200,
+    "added_at": "2026-10-16T15:25:44"
+  },
+  {
+    "sr": 6,
+    "nsecode": "TIPSMUSIC",
+    "name": "Tips Music Ltd",
+    "bsecode": "532375",
+    "close": 746.9,
+    "per_chg": 9.13,
+    "volume": 4468460,
+    "added_at": "2026-10-12T20:22:27"
+  },
+  {
+    "sr": 7,
+    "nsecode": "RIIL",
+    "name": "Reliance Industrial Infrastructure Limited",
+    "bsecode": "523445",
+    "close": 730.75,
+    "per_chg": -0.36,
+    "volume": 139014,
+    "added_at": "2026-10-15T15:39:56"
+  },
+  {
+    "sr": 8,
+    "nsecode": "APOLLO",
+    "name": "Apollo Micro Systems Ltd",
+    "bsecode": "540879",
+    "close": 429,
+    "per_chg": 2.85,
+    "volume": 14129273,
+    "added_at": "2026-10-16T15:25:44"
   },
   {
     "sr": 2,
@@ -40,16 +110,6 @@
     "added_at": "2026-10-15T15:39:56"
   },
   {
-    "sr": 5,
-    "nsecode": "RIIL",
-    "name": "Reliance Industrial Infrastructure Limited",
-    "bsecode": "523445",
-    "close": 733.4,
-    "per_chg": 4.99,
-    "volume": 3176972,
-    "added_at": "2026-10-15T15:39:56"
-  },
-  {
     "sr": 6,
     "nsecode": "GALLANTT",
     "name": "Gallant Ispat Ltd",
@@ -68,16 +128,6 @@
     "per_chg": 2.27,
     "volume": 11641856,
     "added_at": "2026-10-12T20:22:27"
-  },
-  {
-    "sr": 1,
-    "nsecode": "FORCEMOT",
-    "name": "Force Motors Ltd",
-    "bsecode": "500033",
-    "close": 17270,
-    "per_chg": 0.58,
-    "volume": 37536,
-    "added_at": "2026-10-14T15:52:18"
   },
   {
     "sr": 3,
@@ -100,16 +150,6 @@
     "added_at": "2026-10-12T20:22:27"
   },
   {
-    "sr": 5,
-    "nsecode": "TIPSMUSIC",
-    "name": "Tips Music Ltd",
-    "bsecode": "532375",
-    "close": 718.25,
-    "per_chg": 1.6,
-    "volume": 603685,
-    "added_at": "2026-10-12T20:22:27"
-  },
-  {
     "sr": 6,
     "nsecode": "PFC",
     "name": "Power Finance Corporation Limited",
@@ -118,16 +158,6 @@
     "per_chg": 0.72,
     "volume": 10614177,
     "added_at": "2026-10-14T15:52:18"
-  },
-  {
-    "sr": 3,
-    "nsecode": "TRENT",
-    "name": "Trent Limited",
-    "bsecode": "500251",
-    "close": 2987.8,
-    "per_chg": 2.57,
-    "volume": 893115,
-    "added_at": "2026-10-13T18:25:06"
   },
   {
     "sr": 4,

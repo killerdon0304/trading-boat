@@ -1,6 +1,16 @@
 [
   {
     "sr": 1,
+    "nsecode": "KSCL",
+    "name": "Kaveri Seed Company Limited",
+    "bsecode": "532899",
+    "close": 731.7,
+    "per_chg": 0.08,
+    "volume": 104327,
+    "added_at": "2026-10-19T17:37:45"
+  },
+  {
+    "sr": 1,
     "nsecode": "FORCEMOT",
     "name": "Force Motors Ltd",
     "bsecode": "500033",
@@ -168,25 +178,5 @@
     "per_chg": 0.64,
     "volume": 57256,
     "added_at": "2026-10-13T18:25:06"
-  },
-  {
-    "sr": 1,
-    "nsecode": "AXISBANK",
-    "name": "Axis Bank Limited",
-    "bsecode": "532215",
-    "close": 1259.1,
-    "per_chg": 1.13,
-    "volume": 5173548,
-    "added_at": "2026-10-09T17:29:41"
-  },
-  {
-    "sr": 2,
-    "nsecode": "RPSGVENT",
-    "name": "RPSG Ventures Ltd",
-    "bsecode": null,
-    "close": 891.3,
-    "per_chg": 5.52,
-    "volume": 82123,
-    "added_at": "2026-10-09T17:29:41"
   }
 ]

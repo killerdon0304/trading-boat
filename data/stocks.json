@@ -60,16 +60,6 @@
     "added_at": "2026-10-16T15:25:44"
   },
   {
-    "sr": 6,
-    "nsecode": "TIPSMUSIC",
-    "name": "Tips Music Ltd",
-    "bsecode": "532375",
-    "close": 746.9,
-    "per_chg": 9.13,
-    "volume": 4468460,
-    "added_at": "2026-10-12T20:22:27"
-  },
-  {
     "sr": 7,
     "nsecode": "RIIL",
     "name": "Reliance Industrial Infrastructure Limited",
@@ -100,16 +90,6 @@
     "added_at": "2026-10-13T18:25:06"
   },
   {
-    "sr": 3,
-    "nsecode": "BBL",
-    "name": "Bharat Bijlee Limited",
-    "bsecode": "503960",
-    "close": 2508.6,
-    "per_chg": 3.84,
-    "volume": 112584,
-    "added_at": "2026-10-12T20:22:27"
-  },
-  {
     "sr": 4,
     "nsecode": "TATACOMM",
     "name": "Tata Communications Limited",
@@ -120,26 +100,6 @@
     "added_at": "2026-10-15T15:39:56"
   },
   {
-    "sr": 6,
-    "nsecode": "GALLANTT",
-    "name": "Gallant Ispat Ltd",
-    "bsecode": "532726",
-    "close": 628.15,
-    "per_chg": 10.65,
-    "volume": 28405871,
-    "added_at": "2026-10-12T20:22:27"
-  },
-  {
-    "sr": 7,
-    "nsecode": "ANGELONE",
-    "name": "Angel One Ltd",
-    "bsecode": null,
-    "close": 313,
-    "per_chg": 2.27,
-    "volume": 11641856,
-    "added_at": "2026-10-12T20:22:27"
-  },
-  {
     "sr": 3,
     "nsecode": "POWERMECH",
     "name": "Power Mech Projects Limited",
@@ -148,16 +108,6 @@
     "per_chg": 1.11,
     "volume": 54829,
     "added_at": "2026-10-14T15:52:18"
-  },
-  {
-    "sr": 4,
-    "nsecode": "MAYURUNIQ",
-    "name": "Mayur Uniquoters Ltd",
-    "bsecode": "522249",
-    "close": 803.9,
-    "per_chg": 2.54,
-    "volume": 73050,
-    "added_at": "2026-10-12T20:22:27"
   },
   {
     "sr": 6,

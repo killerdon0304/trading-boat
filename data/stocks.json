@@ -1,6 +1,16 @@
 [
   {
     "sr": 1,
+    "nsecode": "FRACTAL",
+    "name": "Fractal Analytics Ltd",
+    "bsecode": "544700",
+    "close": 785.9,
+    "per_chg": 10.15,
+    "volume": 13710880,
+    "added_at": "2026-10-21T16:00:41"
+  },
+  {
+    "sr": 1,
     "nsecode": "KSCL",
     "name": "Kaveri Seed Company Limited",
     "bsecode": "532899",
@@ -8,36 +18,6 @@
     "per_chg": 0.08,
     "volume": 104327,
     "added_at": "2026-10-19T17:37:45"
-  },
-  {
-    "sr": 1,
-    "nsecode": "FORCEMOT",
-    "name": "Force Motors Ltd",
-    "bsecode": "500033",
-    "close": 17700,
-    "per_chg": 0.69,
-    "volume": 49088,
-    "added_at": "2026-10-14T15:52:18"
-  },
-  {
-    "sr": 2,
-    "nsecode": "TATAELXSI",
-    "name": "Tata Elxsi Limited",
-    "bsecode": "500408",
-    "close": 3850.1,
-    "per_chg": 4.06,
-    "volume": 1323988,
-    "added_at": "2026-10-13T18:25:06"
-  },
-  {
-    "sr": 3,
-    "nsecode": "TRENT",
-    "name": "Trent Limited",
-    "bsecode": "500251",
-    "close": 2958.7,
-    "per_chg": 0.31,
-    "volume": 521694,
-    "added_at": "2026-10-13T18:25:06"
   },
   {
     "sr": 4,
@@ -80,16 +60,6 @@
     "added_at": "2026-10-16T15:25:44"
   },
   {
-    "sr": 2,
-    "nsecode": "BSE",
-    "name": "BSE (Bombay stock exchange) Ltd",
-    "bsecode": "20",
-    "close": 3428,
-    "per_chg": 2.7,
-    "volume": 5223929,
-    "added_at": "2026-10-13T18:25:06"
-  },
-  {
     "sr": 4,
     "nsecode": "TATACOMM",
     "name": "Tata Communications Limited",
@@ -98,35 +68,5 @@
     "per_chg": 6.32,
     "volume": 5090596,
     "added_at": "2026-10-15T15:39:56"
-  },
-  {
-    "sr": 3,
-    "nsecode": "POWERMECH",
-    "name": "Power Mech Projects Limited",
-    "bsecode": "539302",
-    "close": 2470.2,
-    "per_chg": 1.11,
-    "volume": 54829,
-    "added_at": "2026-10-14T15:52:18"
-  },
-  {
-    "sr": 6,
-    "nsecode": "PFC",
-    "name": "Power Finance Corporation Limited",
-    "bsecode": "532810",
-    "close": 344.5,
-    "per_chg": 0.72,
-    "volume": 10614177,
-    "added_at": "2026-10-14T15:52:18"
-  },
-  {
-    "sr": 4,
-    "nsecode": "MIDWESTLTD",
-    "name": "Midwest Ltd",
-    "bsecode": "544587",
-    "close": 1019.25,
-    "per_chg": 0.64,
-    "volume": 57256,
-    "added_at": "2026-10-13T18:25:06"
   }
 ]

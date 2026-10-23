@@ -4,9 +4,9 @@
     "nsecode": "KSCL",
     "name": "Kaveri Seed Company Limited",
     "bsecode": "532899",
-    "close": 732.45,
-    "per_chg": -0.35,
-    "volume": 126085,
+    "close": 730.05,
+    "per_chg": -0.33,
+    "volume": 127601,
     "added_at": "2026-10-19T17:37:45"
   },
   {
@@ -18,35 +18,5 @@
     "per_chg": 10.15,
     "volume": 13710880,
     "added_at": "2026-10-21T16:00:41"
-  },
-  {
-    "sr": 4,
-    "nsecode": "WAAREEENER",
-    "name": "Waaree Energies Ltd",
-    "bsecode": "544277",
-    "close": 2565.4,
-    "per_chg": 2.86,
-    "volume": 1194976,
-    "added_at": "2026-10-16T15:25:44"
-  },
-  {
-    "sr": 5,
-    "nsecode": "DCMSHRIRAM",
-    "name": "Dcm Shriram Limited",
-    "bsecode": "523367",
-    "close": 1014.2,
-    "per_chg": 0.13,
-    "volume": 41200,
-    "added_at": "2026-10-16T15:25:44"
-  },
-  {
-    "sr": 8,
-    "nsecode": "APOLLO",
-    "name": "Apollo Micro Systems Ltd",
-    "bsecode": "540879",
-    "close": 429,
-    "per_chg": 2.85,
-    "volume": 14129273,
-    "added_at": "2026-10-16T15:25:44"
   }
 ]

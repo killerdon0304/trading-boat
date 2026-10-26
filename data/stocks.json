@@ -1,6 +1,36 @@
 [
   {
     "sr": 1,
+    "nsecode": "SHREECEM",
+    "name": "Shree Cements Limited",
+    "bsecode": "500387",
+    "close": 23540,
+    "per_chg": 3.54,
+    "volume": 29367,
+    "added_at": "2026-10-26T17:30:08"
+  },
+  {
+    "sr": 2,
+    "nsecode": "ULTRACEMCO",
+    "name": "Ultratech Cement Limited",
+    "bsecode": "532538",
+    "close": 11180,
+    "per_chg": 1.18,
+    "volume": 275159,
+    "added_at": "2026-10-26T17:30:08"
+  },
+  {
+    "sr": 3,
+    "nsecode": "SASKEN",
+    "name": "Sasken Communication Technologies Limited",
+    "bsecode": "532663",
+    "close": 1834.1,
+    "per_chg": 2.56,
+    "volume": 44247,
+    "added_at": "2026-10-26T17:30:08"
+  },
+  {
+    "sr": 1,
     "nsecode": "KSCL",
     "name": "Kaveri Seed Company Limited",
     "bsecode": "532899",

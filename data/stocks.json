@@ -1,22 +1,52 @@
 [
   {
     "sr": 1,
+    "nsecode": "ULTRACEMCO",
+    "name": "Ultratech Cement Limited",
+    "bsecode": "532538",
+    "close": 11150,
+    "per_chg": -0.27,
+    "volume": 288694,
+    "added_at": "2026-10-26T17:30:08"
+  },
+  {
+    "sr": 2,
+    "nsecode": "ACUTAAS",
+    "name": "Acutaas Chemicals Ltd",
+    "bsecode": "543349",
+    "close": 3793.3,
+    "per_chg": 13.27,
+    "volume": 4746620,
+    "added_at": "2026-10-27T16:45:42"
+  },
+  {
+    "sr": 3,
+    "nsecode": "INDIASHLTR",
+    "name": "India Shelter Finance Corporation Ltd",
+    "bsecode": "544044",
+    "close": 644.65,
+    "per_chg": 3.54,
+    "volume": 302808,
+    "added_at": "2026-10-27T16:45:42"
+  },
+  {
+    "sr": 4,
+    "nsecode": "APOLLO",
+    "name": "Apollo Micro Systems Ltd",
+    "bsecode": "540879",
+    "close": 425.4,
+    "per_chg": 3.53,
+    "volume": 39162735,
+    "added_at": "2026-10-27T16:45:42"
+  },
+  {
+    "sr": 1,
     "nsecode": "SHREECEM",
     "name": "Shree Cements Limited",
     "bsecode": "500387",
     "close": 23540,
     "per_chg": 3.54,
     "volume": 29367,
-    "added_at": "2026-10-26T17:30:08"
-  },
-  {
-    "sr": 2,
-    "nsecode": "ULTRACEMCO",
-    "name": "Ultratech Cement Limited",
-    "bsecode": "532538",
-    "close": 11180,
-    "per_chg": 1.18,
-    "volume": 275159,
     "added_at": "2026-10-26T17:30:08"
   },
   {
@@ -28,16 +58,6 @@
     "per_chg": 2.56,
     "volume": 44247,
     "added_at": "2026-10-26T17:30:08"
-  },
-  {
-    "sr": 1,
-    "nsecode": "KSCL",
-    "name": "Kaveri Seed Company Limited",
-    "bsecode": "532899",
-    "close": 730.05,
-    "per_chg": -0.33,
-    "volume": 127601,
-    "added_at": "2026-10-19T17:37:45"
   },
   {
     "sr": 1,

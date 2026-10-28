@@ -4,10 +4,20 @@
     "nsecode": "ULTRACEMCO",
     "name": "Ultratech Cement Limited",
     "bsecode": "532538",
-    "close": 11150,
-    "per_chg": -0.27,
-    "volume": 288694,
+    "close": 11104,
+    "per_chg": -0.41,
+    "volume": 213720,
     "added_at": "2026-10-26T17:30:08"
+  },
+  {
+    "sr": 2,
+    "nsecode": "TATACONSUM",
+    "name": "TATA Consumer Products Ltd",
+    "bsecode": "500800",
+    "close": 1000.2,
+    "per_chg": 0.02,
+    "volume": 3141717,
+    "added_at": "2026-10-28T17:14:00"
   },
   {
     "sr": 2,
@@ -58,15 +68,5 @@
     "per_chg": 2.56,
     "volume": 44247,
     "added_at": "2026-10-26T17:30:08"
-  },
-  {
-    "sr": 1,
-    "nsecode": "FRACTAL",
-    "name": "Fractal Analytics Ltd",
-    "bsecode": "544700",
-    "close": 785.9,
-    "per_chg": 10.15,
-    "volume": 13710880,
-    "added_at": "2026-10-21T16:00:41"
   }
 ]

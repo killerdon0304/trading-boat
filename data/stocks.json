@@ -1,6 +1,26 @@
 [
   {
     "sr": 1,
+    "nsecode": "ACUTAAS",
+    "name": "Acutaas Chemicals Ltd",
+    "bsecode": "543349",
+    "close": 4003.6,
+    "per_chg": 0.68,
+    "volume": 1147965,
+    "added_at": "2026-10-27T16:45:42"
+  },
+  {
+    "sr": 2,
+    "nsecode": "ZYDUSLIFE",
+    "name": "Zydus Lifesciences Ltd",
+    "bsecode": "532321",
+    "close": 1245.5,
+    "per_chg": 5.16,
+    "volume": 3660709,
+    "added_at": "2026-10-30T17:04:26"
+  },
+  {
+    "sr": 1,
     "nsecode": "ULTRACEMCO",
     "name": "Ultratech Cement Limited",
     "bsecode": "532538",
@@ -8,16 +28,6 @@
     "per_chg": 0.64,
     "volume": 139118,
     "added_at": "2026-10-26T17:30:08"
-  },
-  {
-    "sr": 2,
-    "nsecode": "ACUTAAS",
-    "name": "Acutaas Chemicals Ltd",
-    "bsecode": "543349",
-    "close": 3976.7,
-    "per_chg": 7.19,
-    "volume": 2936878,
-    "added_at": "2026-10-27T16:45:42"
   },
   {
     "sr": 3,

@@ -7,7 +7,7 @@ def send_single_stock(token, chat_id, stock):
 
     # Links
     tv_weekly = f"https://www.tradingview.com/chart/?symbol=NSE:{symbol}&interval=W"
-    dhan_trade = f"https://web.dhan.co/stocks/NSE:{symbol}"
+    dhan_trade = f"https://web.dhan.co/Charts?exch=BSE&seg=E&secid={stock["bsecode"]}"
 
     change = stock.get("per_chg", 0)
     emoji = "🟢" if change >= 0 else "🔴"

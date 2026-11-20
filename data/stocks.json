@@ -1,43 +1,153 @@
 [
   {
     "sr": 1,
-    "nsecode": "SJS",
-    "name": "S J S Enterprises Ltd",
-    "bsecode": "543387",
-    "close": 2246.8,
-    "per_chg": 9.48,
-    "volume": 347523,
-    "added_at": "2026-11-19T19:32:58"
+    "nsecode": "DATAPATTNS",
+    "name": "Data Patterns (India) Ltd",
+    "bsecode": "543428",
+    "close": 4215,
+    "per_chg": 2.48,
+    "volume": 487518,
+    "added_at": "2026-11-17T19:57:13"
   },
   {
     "sr": 2,
-    "nsecode": "SAFARI",
-    "name": "Safari Industries (India) Ltd",
-    "bsecode": "523025",
-    "close": 1405,
-    "per_chg": 2.29,
-    "volume": 193753,
-    "added_at": "2026-11-16T21:08:17"
-  },
-  {
-    "sr": 3,
-    "nsecode": "NESTLEIND",
-    "name": "Nestle India Limited",
-    "bsecode": "500790",
-    "close": 1303.4,
-    "per_chg": 1.7,
-    "volume": 1309494,
+    "nsecode": "SJS",
+    "name": "S J S Enterprises Ltd",
+    "bsecode": "543387",
+    "close": 2229.2,
+    "per_chg": -0.78,
+    "volume": 111185,
     "added_at": "2026-11-19T19:32:58"
   },
   {
+    "sr": 3,
+    "nsecode": "SAFARI",
+    "name": "Safari Industries (India) Ltd",
+    "bsecode": "523025",
+    "close": 1435.8,
+    "per_chg": 2.19,
+    "volume": 274182,
+    "added_at": "2026-11-16T21:08:17"
+  },
+  {
     "sr": 4,
+    "nsecode": "NESTLEIND",
+    "name": "Nestle India Limited",
+    "bsecode": "500790",
+    "close": 1325,
+    "per_chg": 1.66,
+    "volume": 1801255,
+    "added_at": "2026-11-19T19:32:58"
+  },
+  {
+    "sr": 5,
+    "nsecode": "RAINBOW",
+    "name": "Rainbow Childrens Medicare Ltd",
+    "bsecode": "543524",
+    "close": 1259.7,
+    "per_chg": 1.52,
+    "volume": 451199,
+    "added_at": "2026-11-16T21:08:17"
+  },
+  {
+    "sr": 6,
     "nsecode": "AUBANK",
     "name": "AU Small Finance Bank Ltd",
     "bsecode": "540611",
-    "close": 983.9,
-    "per_chg": 0.71,
-    "volume": 867099,
+    "close": 984.9,
+    "per_chg": 0.1,
+    "volume": 1742301,
     "added_at": "2026-11-16T21:08:17"
+  },
+  {
+    "sr": 7,
+    "nsecode": "GOKEX",
+    "name": "Gokaldas Exports Limited",
+    "bsecode": "532630",
+    "close": 757.6,
+    "per_chg": 2.57,
+    "volume": 777605,
+    "added_at": "2026-11-16T21:08:17"
+  },
+  {
+    "sr": 8,
+    "nsecode": "NEPHROPLUS",
+    "name": "Nephrocare Health Services Ltd",
+    "bsecode": "544647",
+    "close": 655.8,
+    "per_chg": 2.16,
+    "volume": 103737,
+    "added_at": "2026-11-17T19:57:13"
+  },
+  {
+    "sr": 9,
+    "nsecode": "SFL",
+    "name": "Sheela Foam Limited",
+    "bsecode": "540203",
+    "close": 599.9,
+    "per_chg": -0.98,
+    "volume": 147714,
+    "added_at": "2026-11-17T19:57:13"
+  },
+  {
+    "sr": 10,
+    "nsecode": "HDBFS",
+    "name": "HDB Financial Services Ltd",
+    "bsecode": "544429",
+    "close": 567.75,
+    "per_chg": 0.91,
+    "volume": 332672,
+    "added_at": "2026-11-17T19:57:13"
+  },
+  {
+    "sr": 11,
+    "nsecode": "THYROCARE",
+    "name": "Thyrocare Technologies Limited",
+    "bsecode": "539871",
+    "close": 528.45,
+    "per_chg": 4.67,
+    "volume": 9096697,
+    "added_at": "2026-11-20T19:11:07"
+  },
+  {
+    "sr": 12,
+    "nsecode": "JKIL",
+    "name": "J.kumar Infraprojects Limited",
+    "bsecode": "532940",
+    "close": 459.25,
+    "per_chg": 3.02,
+    "volume": 116053,
+    "added_at": "2026-11-17T19:57:13"
+  },
+  {
+    "sr": 13,
+    "nsecode": "TENNIND",
+    "name": "Tenneco Clean Air India Ltd",
+    "bsecode": "544612",
+    "close": 454.95,
+    "per_chg": 4.35,
+    "volume": 1409149,
+    "added_at": "2026-11-20T19:11:07"
+  },
+  {
+    "sr": 14,
+    "nsecode": "ASHAPURMIN",
+    "name": "Ashapura Minechem Limited",
+    "bsecode": "527001",
+    "close": 434.95,
+    "per_chg": 2.02,
+    "volume": 499032,
+    "added_at": "2026-11-20T19:11:07"
+  },
+  {
+    "sr": 15,
+    "nsecode": "EXIDEIND",
+    "name": "Exide Industries Limited",
+    "bsecode": "500086",
+    "close": 408.55,
+    "per_chg": 2.07,
+    "volume": 4204196,
+    "added_at": "2026-11-19T19:32:58"
   },
   {
     "sr": 5,
@@ -50,16 +160,6 @@
     "added_at": "2026-11-19T19:32:58"
   },
   {
-    "sr": 6,
-    "nsecode": "GOKEX",
-    "name": "Gokaldas Exports Limited",
-    "bsecode": "532630",
-    "close": 738.65,
-    "per_chg": 3.57,
-    "volume": 910138,
-    "added_at": "2026-11-16T21:08:17"
-  },
-  {
     "sr": 7,
     "nsecode": "AJAXENGG",
     "name": "Ajax Engineering Ltd",
@@ -68,16 +168,6 @@
     "per_chg": 0.17,
     "volume": 176844,
     "added_at": "2026-11-18T19:28:17"
-  },
-  {
-    "sr": 8,
-    "nsecode": "SFL",
-    "name": "Sheela Foam Limited",
-    "bsecode": "540203",
-    "close": 605.85,
-    "per_chg": 2.43,
-    "volume": 97272,
-    "added_at": "2026-11-17T19:57:13"
   },
   {
     "sr": 9,
@@ -98,36 +188,6 @@
     "per_chg": 3.37,
     "volume": 287036,
     "added_at": "2026-11-17T19:57:13"
-  },
-  {
-    "sr": 11,
-    "nsecode": "HDBFS",
-    "name": "HDB Financial Services Ltd",
-    "bsecode": "544429",
-    "close": 562.65,
-    "per_chg": 0.57,
-    "volume": 1395367,
-    "added_at": "2026-11-17T19:57:13"
-  },
-  {
-    "sr": 12,
-    "nsecode": "JKIL",
-    "name": "J.kumar Infraprojects Limited",
-    "bsecode": "532940",
-    "close": 445.8,
-    "per_chg": 2.11,
-    "volume": 74685,
-    "added_at": "2026-11-17T19:57:13"
-  },
-  {
-    "sr": 13,
-    "nsecode": "EXIDEIND",
-    "name": "Exide Industries Limited",
-    "bsecode": "500086",
-    "close": 400.25,
-    "per_chg": 2.88,
-    "volume": 4266133,
-    "added_at": "2026-11-19T19:32:58"
   },
   {
     "sr": 14,
@@ -180,16 +240,6 @@
     "added_at": "2026-11-18T19:28:17"
   },
   {
-    "sr": 1,
-    "nsecode": "DATAPATTNS",
-    "name": "Data Patterns (India) Ltd",
-    "bsecode": "543428",
-    "close": 4215.9,
-    "per_chg": 0.62,
-    "volume": 335719,
-    "added_at": "2026-11-17T19:57:13"
-  },
-  {
     "sr": 4,
     "nsecode": "VINATIORGA",
     "name": "Vinati Organics Limited",
@@ -197,16 +247,6 @@
     "close": 1144.4,
     "per_chg": 0.11,
     "volume": 65945,
-    "added_at": "2026-11-17T19:57:13"
-  },
-  {
-    "sr": 8,
-    "nsecode": "NEPHROPLUS",
-    "name": "Nephrocare Health Services Ltd",
-    "bsecode": "544647",
-    "close": 667.75,
-    "per_chg": 4.01,
-    "volume": 147543,
     "added_at": "2026-11-17T19:57:13"
   },
   {
@@ -230,16 +270,6 @@
     "added_at": "2026-11-17T19:57:13"
   },
   {
-    "sr": 4,
-    "nsecode": "RAINBOW",
-    "name": "Rainbow Childrens Medicare Ltd",
-    "bsecode": "543524",
-    "close": 1276.8,
-    "per_chg": 0.42,
-    "volume": 213909,
-    "added_at": "2026-11-16T21:08:17"
-  },
-  {
     "sr": 5,
     "nsecode": "CCL",
     "name": "Ccl Products (india) Limited",
@@ -248,75 +278,5 @@
     "per_chg": 1.11,
     "volume": 188368,
     "added_at": "2026-11-16T21:08:17"
-  },
-  {
-    "sr": 1,
-    "nsecode": "POWERINDIA",
-    "name": "Hitachi Energy India Ltd",
-    "bsecode": "543187",
-    "close": 31595,
-    "per_chg": 10.68,
-    "volume": 892554,
-    "added_at": "2026-11-13T18:38:13"
-  },
-  {
-    "sr": 3,
-    "nsecode": "AMBER",
-    "name": "Amber Enterprises India Ltd",
-    "bsecode": "540902",
-    "close": 6772,
-    "per_chg": 9.07,
-    "volume": 2720361,
-    "added_at": "2026-11-13T18:38:13"
-  },
-  {
-    "sr": 4,
-    "nsecode": "ENRIN",
-    "name": "Siemens Energy India Ltd",
-    "bsecode": null,
-    "close": 3125.9,
-    "per_chg": 2.9,
-    "volume": 1768160,
-    "added_at": "2026-11-13T18:38:13"
-  },
-  {
-    "sr": 8,
-    "nsecode": "XPROINDIA",
-    "name": "Xpro India Limited",
-    "bsecode": "590013",
-    "close": 1190.1,
-    "per_chg": 4.19,
-    "volume": 54757,
-    "added_at": "2026-11-13T18:38:13"
-  },
-  {
-    "sr": 12,
-    "nsecode": "MSTCLTD",
-    "name": "MSTC Ltd",
-    "bsecode": "542597",
-    "close": 783.35,
-    "per_chg": 20,
-    "volume": 6328161,
-    "added_at": "2026-11-13T18:38:13"
-  },
-  {
-    "sr": 15,
-    "nsecode": "KSCL",
-    "name": "Kaveri Seed Company Limited",
-    "bsecode": "532899",
-    "close": 728.05,
-    "per_chg": 1.46,
-    "volume": 116992,
-    "added_at": "2026-11-13T18:38:13"
-  },
-  {
-    "sr": 22,
-    "nsecode": "SILVERTUC",
-    "name": "Silver Touch Technologies Ltd",
-    "bsecode": "535031",
-    "close": 138.67,
-    "per_chg": 9.77,
-    "volume": 1001984,
-    "added_at": "2026-11-13T18:38:13"
   }
 ]

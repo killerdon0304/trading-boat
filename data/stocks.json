@@ -1,6 +1,66 @@
 [
   {
     "sr": 1,
+    "nsecode": "TORNTPHARM",
+    "name": "Torrent Pharmaceuticals Limited",
+    "bsecode": "500420",
+    "close": 4763.7,
+    "per_chg": 1.58,
+    "volume": 585099,
+    "added_at": "2026-11-23T22:47:24"
+  },
+  {
+    "sr": 2,
+    "nsecode": "SCHAEFFLER",
+    "name": "Schaeffler India Ltd",
+    "bsecode": "505790",
+    "close": 3607.9,
+    "per_chg": 0.14,
+    "volume": 190477,
+    "added_at": "2026-11-23T22:47:24"
+  },
+  {
+    "sr": 3,
+    "nsecode": "CHOICEIN",
+    "name": "Choice International Ltd",
+    "bsecode": "531358",
+    "close": 747.9,
+    "per_chg": 2.71,
+    "volume": 445907,
+    "added_at": "2026-11-23T22:47:24"
+  },
+  {
+    "sr": 4,
+    "nsecode": "TATAINVEST",
+    "name": "Tata Investment Corporation Limited",
+    "bsecode": "501301",
+    "close": 586.95,
+    "per_chg": 0.74,
+    "volume": 290127,
+    "added_at": "2026-11-17T19:57:13"
+  },
+  {
+    "sr": 5,
+    "nsecode": "INTELLECT",
+    "name": "Intellect Design Arena Limited",
+    "bsecode": "538835",
+    "close": 578.45,
+    "per_chg": 5.36,
+    "volume": 3354711,
+    "added_at": "2026-11-23T22:47:24"
+  },
+  {
+    "sr": 6,
+    "nsecode": "ARVIND",
+    "name": "Arvind Limited",
+    "bsecode": "500101",
+    "close": 537.7,
+    "per_chg": 2.22,
+    "volume": 476295,
+    "added_at": "2026-11-23T22:47:24"
+  },
+  {
+    "sr": 1,
     "nsecode": "DATAPATTNS",
     "name": "Data Patterns (India) Ltd",
     "bsecode": "543428",
@@ -20,16 +80,6 @@
     "added_at": "2026-11-19T19:32:58"
   },
   {
-    "sr": 3,
-    "nsecode": "SAFARI",
-    "name": "Safari Industries (India) Ltd",
-    "bsecode": "523025",
-    "close": 1435.8,
-    "per_chg": 2.19,
-    "volume": 274182,
-    "added_at": "2026-11-16T21:08:17"
-  },
-  {
     "sr": 4,
     "nsecode": "NESTLEIND",
     "name": "Nestle India Limited",
@@ -38,36 +88,6 @@
     "per_chg": 1.66,
     "volume": 1801255,
     "added_at": "2026-11-19T19:32:58"
-  },
-  {
-    "sr": 5,
-    "nsecode": "RAINBOW",
-    "name": "Rainbow Childrens Medicare Ltd",
-    "bsecode": "543524",
-    "close": 1259.7,
-    "per_chg": 1.52,
-    "volume": 451199,
-    "added_at": "2026-11-16T21:08:17"
-  },
-  {
-    "sr": 6,
-    "nsecode": "AUBANK",
-    "name": "AU Small Finance Bank Ltd",
-    "bsecode": "540611",
-    "close": 984.9,
-    "per_chg": 0.1,
-    "volume": 1742301,
-    "added_at": "2026-11-16T21:08:17"
-  },
-  {
-    "sr": 7,
-    "nsecode": "GOKEX",
-    "name": "Gokaldas Exports Limited",
-    "bsecode": "532630",
-    "close": 757.6,
-    "per_chg": 2.57,
-    "volume": 777605,
-    "added_at": "2026-11-16T21:08:17"
   },
   {
     "sr": 8,
@@ -170,16 +190,6 @@
     "added_at": "2026-11-18T19:28:17"
   },
   {
-    "sr": 9,
-    "nsecode": "SANDHAR",
-    "name": "Sandhar Technologies Limited",
-    "bsecode": "541163",
-    "close": 574.95,
-    "per_chg": 2.47,
-    "volume": 247645,
-    "added_at": "2026-11-16T21:08:17"
-  },
-  {
     "sr": 10,
     "nsecode": "RAYMONDLSL",
     "name": "Raymond Lifestyle Ltd",
@@ -188,36 +198,6 @@
     "per_chg": 3.37,
     "volume": 287036,
     "added_at": "2026-11-17T19:57:13"
-  },
-  {
-    "sr": 14,
-    "nsecode": "IVALUE",
-    "name": "Ivalue Infosolutions Ltd",
-    "bsecode": "544523",
-    "close": 235.48,
-    "per_chg": 0.8,
-    "volume": 92089,
-    "added_at": "2026-11-16T21:08:17"
-  },
-  {
-    "sr": 1,
-    "nsecode": "DEEPAKFERT",
-    "name": "Deepak Fertilizers And Petrochemicals Corporation Limited",
-    "bsecode": "500645",
-    "close": 1480.5,
-    "per_chg": 2.55,
-    "volume": 1187154,
-    "added_at": "2026-11-16T21:08:17"
-  },
-  {
-    "sr": 2,
-    "nsecode": "SPAL",
-    "name": "S. P. Apparels Limited",
-    "bsecode": "540048",
-    "close": 933.35,
-    "per_chg": -0.69,
-    "volume": 28985,
-    "added_at": "2026-11-16T21:08:17"
   },
   {
     "sr": 3,
@@ -250,16 +230,6 @@
     "added_at": "2026-11-17T19:57:13"
   },
   {
-    "sr": 9,
-    "nsecode": "TATAINVEST",
-    "name": "Tata Investment Corporation Limited",
-    "bsecode": "501301",
-    "close": 609.55,
-    "per_chg": 5.74,
-    "volume": 2790253,
-    "added_at": "2026-11-17T19:57:13"
-  },
-  {
     "sr": 15,
     "nsecode": "GOCOLORS",
     "name": "Go Fashion (India) Ltd",
@@ -268,15 +238,5 @@
     "per_chg": 0.58,
     "volume": 49057,
     "added_at": "2026-11-17T19:57:13"
-  },
-  {
-    "sr": 5,
-    "nsecode": "CCL",
-    "name": "Ccl Products (india) Limited",
-    "bsecode": "519600",
-    "close": 989,
-    "per_chg": 1.11,
-    "volume": 188368,
-    "added_at": "2026-11-16T21:08:17"
   }
 ]

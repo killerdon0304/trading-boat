@@ -60,16 +60,6 @@
     "added_at": "2026-11-23T22:47:24"
   },
   {
-    "sr": 1,
-    "nsecode": "DATAPATTNS",
-    "name": "Data Patterns (India) Ltd",
-    "bsecode": "543428",
-    "close": 4215,
-    "per_chg": 2.48,
-    "volume": 487518,
-    "added_at": "2026-11-17T19:57:13"
-  },
-  {
     "sr": 2,
     "nsecode": "SJS",
     "name": "S J S Enterprises Ltd",
@@ -90,36 +80,6 @@
     "added_at": "2026-11-19T19:32:58"
   },
   {
-    "sr": 8,
-    "nsecode": "NEPHROPLUS",
-    "name": "Nephrocare Health Services Ltd",
-    "bsecode": "544647",
-    "close": 655.8,
-    "per_chg": 2.16,
-    "volume": 103737,
-    "added_at": "2026-11-17T19:57:13"
-  },
-  {
-    "sr": 9,
-    "nsecode": "SFL",
-    "name": "Sheela Foam Limited",
-    "bsecode": "540203",
-    "close": 599.9,
-    "per_chg": -0.98,
-    "volume": 147714,
-    "added_at": "2026-11-17T19:57:13"
-  },
-  {
-    "sr": 10,
-    "nsecode": "HDBFS",
-    "name": "HDB Financial Services Ltd",
-    "bsecode": "544429",
-    "close": 567.75,
-    "per_chg": 0.91,
-    "volume": 332672,
-    "added_at": "2026-11-17T19:57:13"
-  },
-  {
     "sr": 11,
     "nsecode": "THYROCARE",
     "name": "Thyrocare Technologies Limited",
@@ -128,16 +88,6 @@
     "per_chg": 4.67,
     "volume": 9096697,
     "added_at": "2026-11-20T19:11:07"
-  },
-  {
-    "sr": 12,
-    "nsecode": "JKIL",
-    "name": "J.kumar Infraprojects Limited",
-    "bsecode": "532940",
-    "close": 459.25,
-    "per_chg": 3.02,
-    "volume": 116053,
-    "added_at": "2026-11-17T19:57:13"
   },
   {
     "sr": 13,
@@ -190,16 +140,6 @@
     "added_at": "2026-11-18T19:28:17"
   },
   {
-    "sr": 10,
-    "nsecode": "RAYMONDLSL",
-    "name": "Raymond Lifestyle Ltd",
-    "bsecode": "544240",
-    "close": 565.1,
-    "per_chg": 3.37,
-    "volume": 287036,
-    "added_at": "2026-11-17T19:57:13"
-  },
-  {
     "sr": 3,
     "nsecode": "TITAGARH",
     "name": "Titagarh Rail Systems Ltd",
@@ -218,25 +158,5 @@
     "per_chg": 13.1,
     "volume": 5971955,
     "added_at": "2026-11-18T19:28:17"
-  },
-  {
-    "sr": 4,
-    "nsecode": "VINATIORGA",
-    "name": "Vinati Organics Limited",
-    "bsecode": "524200",
-    "close": 1144.4,
-    "per_chg": 0.11,
-    "volume": 65945,
-    "added_at": "2026-11-17T19:57:13"
-  },
-  {
-    "sr": 15,
-    "nsecode": "GOCOLORS",
-    "name": "Go Fashion (India) Ltd",
-    "bsecode": "543401",
-    "close": 279.04,
-    "per_chg": 0.58,
-    "volume": 49057,
-    "added_at": "2026-11-17T19:57:13"
   }
 ]

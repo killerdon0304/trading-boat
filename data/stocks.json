@@ -4,10 +4,80 @@
     "nsecode": "TORNTPHARM",
     "name": "Torrent Pharmaceuticals Limited",
     "bsecode": "500420",
-    "close": 4763.7,
-    "per_chg": 1.58,
-    "volume": 585099,
+    "close": 4895.5,
+    "per_chg": 2.77,
+    "volume": 411180,
     "added_at": "2026-11-23T22:47:24"
+  },
+  {
+    "sr": 2,
+    "nsecode": "INOXINDIA",
+    "name": "Inox India Ltd",
+    "bsecode": "544046",
+    "close": 2137.3,
+    "per_chg": 2.36,
+    "volume": 123278,
+    "added_at": "2026-11-25T20:32:42"
+  },
+  {
+    "sr": 3,
+    "nsecode": "DALBHARAT",
+    "name": "Dalmia Bharat Limited",
+    "bsecode": "533309",
+    "close": 1586.8,
+    "per_chg": 1.43,
+    "volume": 153019,
+    "added_at": "2026-11-25T20:32:42"
+  },
+  {
+    "sr": 4,
+    "nsecode": "ABSLAMC",
+    "name": "Aditya Birla Sun Life AMC Ltd",
+    "bsecode": "543374",
+    "close": 958.7,
+    "per_chg": 3.21,
+    "volume": 457453,
+    "added_at": "2026-11-25T20:32:42"
+  },
+  {
+    "sr": 5,
+    "nsecode": "TITAGARH",
+    "name": "Titagarh Rail Systems Ltd",
+    "bsecode": "532966",
+    "close": 745,
+    "per_chg": 3.82,
+    "volume": 1781291,
+    "added_at": "2026-11-18T19:28:17"
+  },
+  {
+    "sr": 6,
+    "nsecode": "HCG",
+    "name": "Healthcare Global Enterprises Limited",
+    "bsecode": "539787",
+    "close": 630.45,
+    "per_chg": 1.28,
+    "volume": 56356,
+    "added_at": "2026-11-25T20:32:42"
+  },
+  {
+    "sr": 7,
+    "nsecode": "INTELLECT",
+    "name": "Intellect Design Arena Limited",
+    "bsecode": "538835",
+    "close": 601.4,
+    "per_chg": 3.97,
+    "volume": 1384573,
+    "added_at": "2026-11-23T22:47:24"
+  },
+  {
+    "sr": 8,
+    "nsecode": "SAATVIKGL",
+    "name": "Saatvik Green Energy Ltd",
+    "bsecode": null,
+    "close": 371.95,
+    "per_chg": 3.94,
+    "volume": 202115,
+    "added_at": "2026-11-25T20:32:42"
   },
   {
     "sr": 2,
@@ -27,26 +97,6 @@
     "close": 747.9,
     "per_chg": 2.71,
     "volume": 445907,
-    "added_at": "2026-11-23T22:47:24"
-  },
-  {
-    "sr": 4,
-    "nsecode": "TATAINVEST",
-    "name": "Tata Investment Corporation Limited",
-    "bsecode": "501301",
-    "close": 586.95,
-    "per_chg": 0.74,
-    "volume": 290127,
-    "added_at": "2026-11-17T19:57:13"
-  },
-  {
-    "sr": 5,
-    "nsecode": "INTELLECT",
-    "name": "Intellect Design Arena Limited",
-    "bsecode": "538835",
-    "close": 578.45,
-    "per_chg": 5.36,
-    "volume": 3354711,
     "added_at": "2026-11-23T22:47:24"
   },
   {
@@ -128,35 +178,5 @@
     "per_chg": 14.15,
     "volume": 5689748,
     "added_at": "2026-11-19T19:32:58"
-  },
-  {
-    "sr": 7,
-    "nsecode": "AJAXENGG",
-    "name": "Ajax Engineering Ltd",
-    "bsecode": "544356",
-    "close": 624.95,
-    "per_chg": 0.17,
-    "volume": 176844,
-    "added_at": "2026-11-18T19:28:17"
-  },
-  {
-    "sr": 3,
-    "nsecode": "TITAGARH",
-    "name": "Titagarh Rail Systems Ltd",
-    "bsecode": "532966",
-    "close": 734.7,
-    "per_chg": 0.38,
-    "volume": 424000,
-    "added_at": "2026-11-18T19:28:17"
-  },
-  {
-    "sr": 5,
-    "nsecode": "SUBROS",
-    "name": "Subros Limited",
-    "bsecode": "517168",
-    "close": 693.25,
-    "per_chg": 13.1,
-    "volume": 5971955,
-    "added_at": "2026-11-18T19:28:17"
   }
 ]

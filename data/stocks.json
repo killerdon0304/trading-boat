@@ -4,20 +4,110 @@
     "nsecode": "TORNTPHARM",
     "name": "Torrent Pharmaceuticals Limited",
     "bsecode": "500420",
-    "close": 4895.5,
-    "per_chg": 2.77,
-    "volume": 411180,
+    "close": 5019.1,
+    "per_chg": 2.52,
+    "volume": 1610970,
     "added_at": "2026-11-23T22:47:24"
   },
   {
     "sr": 2,
+    "nsecode": "SCHAEFFLER",
+    "name": "Schaeffler India Ltd",
+    "bsecode": "505790",
+    "close": 3701.7,
+    "per_chg": 2.8,
+    "volume": 301091,
+    "added_at": "2026-11-23T22:47:24"
+  },
+  {
+    "sr": 3,
     "nsecode": "INOXINDIA",
     "name": "Inox India Ltd",
     "bsecode": "544046",
-    "close": 2137.3,
-    "per_chg": 2.36,
-    "volume": 123278,
+    "close": 2162.8,
+    "per_chg": 1.19,
+    "volume": 113751,
     "added_at": "2026-11-25T20:32:42"
+  },
+  {
+    "sr": 4,
+    "nsecode": "KAJARIACER",
+    "name": "Kajaria Ceramics Limited",
+    "bsecode": "500233",
+    "close": 1223.4,
+    "per_chg": 1.44,
+    "volume": 336908,
+    "added_at": "2026-11-26T20:20:23"
+  },
+  {
+    "sr": 5,
+    "nsecode": "ABSLAMC",
+    "name": "Aditya Birla Sun Life AMC Ltd",
+    "bsecode": "543374",
+    "close": 992.15,
+    "per_chg": 3.49,
+    "volume": 397837,
+    "added_at": "2026-11-25T20:32:42"
+  },
+  {
+    "sr": 6,
+    "nsecode": "CHOICEIN",
+    "name": "Choice International Ltd",
+    "bsecode": "531358",
+    "close": 760.7,
+    "per_chg": 1.66,
+    "volume": 809826,
+    "added_at": "2026-11-23T22:47:24"
+  },
+  {
+    "sr": 7,
+    "nsecode": "TATATECH",
+    "name": "Tata Technologies Ltd",
+    "bsecode": "544028",
+    "close": 700.35,
+    "per_chg": 1.16,
+    "volume": 470843,
+    "added_at": "2026-11-26T20:20:23"
+  },
+  {
+    "sr": 8,
+    "nsecode": "HCG",
+    "name": "Healthcare Global Enterprises Limited",
+    "bsecode": "539787",
+    "close": 632.7,
+    "per_chg": 0.36,
+    "volume": 57447,
+    "added_at": "2026-11-25T20:32:42"
+  },
+  {
+    "sr": 9,
+    "nsecode": "AMAGI",
+    "name": "Amagi Media Labs Ltd",
+    "bsecode": "544679",
+    "close": 582.8,
+    "per_chg": 2.06,
+    "volume": 203301,
+    "added_at": "2026-11-26T20:20:23"
+  },
+  {
+    "sr": 10,
+    "nsecode": "TATAINVEST",
+    "name": "Tata Investment Corporation Limited",
+    "bsecode": "501301",
+    "close": 581.25,
+    "per_chg": -0.16,
+    "volume": 122431,
+    "added_at": "2026-11-26T20:20:23"
+  },
+  {
+    "sr": 11,
+    "nsecode": "SANGHVIMOV",
+    "name": "Sanghvi Movers Limited",
+    "bsecode": "530073",
+    "close": 396.65,
+    "per_chg": 5.24,
+    "volume": 495447,
+    "added_at": "2026-11-26T20:20:23"
   },
   {
     "sr": 3,
@@ -27,36 +117,6 @@
     "close": 1586.8,
     "per_chg": 1.43,
     "volume": 153019,
-    "added_at": "2026-11-25T20:32:42"
-  },
-  {
-    "sr": 4,
-    "nsecode": "ABSLAMC",
-    "name": "Aditya Birla Sun Life AMC Ltd",
-    "bsecode": "543374",
-    "close": 958.7,
-    "per_chg": 3.21,
-    "volume": 457453,
-    "added_at": "2026-11-25T20:32:42"
-  },
-  {
-    "sr": 5,
-    "nsecode": "TITAGARH",
-    "name": "Titagarh Rail Systems Ltd",
-    "bsecode": "532966",
-    "close": 745,
-    "per_chg": 3.82,
-    "volume": 1781291,
-    "added_at": "2026-11-18T19:28:17"
-  },
-  {
-    "sr": 6,
-    "nsecode": "HCG",
-    "name": "Healthcare Global Enterprises Limited",
-    "bsecode": "539787",
-    "close": 630.45,
-    "per_chg": 1.28,
-    "volume": 56356,
     "added_at": "2026-11-25T20:32:42"
   },
   {
@@ -80,26 +140,6 @@
     "added_at": "2026-11-25T20:32:42"
   },
   {
-    "sr": 2,
-    "nsecode": "SCHAEFFLER",
-    "name": "Schaeffler India Ltd",
-    "bsecode": "505790",
-    "close": 3607.9,
-    "per_chg": 0.14,
-    "volume": 190477,
-    "added_at": "2026-11-23T22:47:24"
-  },
-  {
-    "sr": 3,
-    "nsecode": "CHOICEIN",
-    "name": "Choice International Ltd",
-    "bsecode": "531358",
-    "close": 747.9,
-    "per_chg": 2.71,
-    "volume": 445907,
-    "added_at": "2026-11-23T22:47:24"
-  },
-  {
     "sr": 6,
     "nsecode": "ARVIND",
     "name": "Arvind Limited",
@@ -108,26 +148,6 @@
     "per_chg": 2.22,
     "volume": 476295,
     "added_at": "2026-11-23T22:47:24"
-  },
-  {
-    "sr": 2,
-    "nsecode": "SJS",
-    "name": "S J S Enterprises Ltd",
-    "bsecode": "543387",
-    "close": 2229.2,
-    "per_chg": -0.78,
-    "volume": 111185,
-    "added_at": "2026-11-19T19:32:58"
-  },
-  {
-    "sr": 4,
-    "nsecode": "NESTLEIND",
-    "name": "Nestle India Limited",
-    "bsecode": "500790",
-    "close": 1325,
-    "per_chg": 1.66,
-    "volume": 1801255,
-    "added_at": "2026-11-19T19:32:58"
   },
   {
     "sr": 11,
@@ -158,25 +178,5 @@
     "per_chg": 2.02,
     "volume": 499032,
     "added_at": "2026-11-20T19:11:07"
-  },
-  {
-    "sr": 15,
-    "nsecode": "EXIDEIND",
-    "name": "Exide Industries Limited",
-    "bsecode": "500086",
-    "close": 408.55,
-    "per_chg": 2.07,
-    "volume": 4204196,
-    "added_at": "2026-11-19T19:32:58"
-  },
-  {
-    "sr": 5,
-    "nsecode": "GLOBUSSPR",
-    "name": "Globus Spirits Limited",
-    "bsecode": "533104",
-    "close": 810.4,
-    "per_chg": 14.15,
-    "volume": 5689748,
-    "added_at": "2026-11-19T19:32:58"
   }
 ]

@@ -4,10 +4,90 @@
     "nsecode": "TORNTPHARM",
     "name": "Torrent Pharmaceuticals Limited",
     "bsecode": "500420",
-    "close": 5019.1,
-    "per_chg": 2.52,
-    "volume": 1610970,
+    "close": 5034,
+    "per_chg": 0.3,
+    "volume": 713250,
     "added_at": "2026-11-23T22:47:24"
+  },
+  {
+    "sr": 2,
+    "nsecode": "BDL",
+    "name": "Bharat Dynamics Ltd",
+    "bsecode": "541143",
+    "close": 1077.5,
+    "per_chg": 4.13,
+    "volume": 3361533,
+    "added_at": "2026-11-27T20:07:01"
+  },
+  {
+    "sr": 3,
+    "nsecode": "WAAREERTL",
+    "name": "Waaree Renewables Technologies Ltd",
+    "bsecode": "534618",
+    "close": 825.7,
+    "per_chg": 20,
+    "volume": 22013732,
+    "added_at": "2026-11-27T20:07:01"
+  },
+  {
+    "sr": 4,
+    "nsecode": "CHOICEIN",
+    "name": "Choice International Ltd",
+    "bsecode": "531358",
+    "close": 770.45,
+    "per_chg": 1.28,
+    "volume": 1491334,
+    "added_at": "2026-11-23T22:47:24"
+  },
+  {
+    "sr": 5,
+    "nsecode": "TITAGARH",
+    "name": "Titagarh Rail Systems Ltd",
+    "bsecode": "532966",
+    "close": 751.35,
+    "per_chg": 0.47,
+    "volume": 1094312,
+    "added_at": "2026-11-27T20:07:01"
+  },
+  {
+    "sr": 6,
+    "nsecode": "TATATECH",
+    "name": "Tata Technologies Ltd",
+    "bsecode": "544028",
+    "close": 705.2,
+    "per_chg": 0.69,
+    "volume": 622033,
+    "added_at": "2026-11-26T20:20:23"
+  },
+  {
+    "sr": 7,
+    "nsecode": "HCG",
+    "name": "Healthcare Global Enterprises Limited",
+    "bsecode": "539787",
+    "close": 639.4,
+    "per_chg": 1.06,
+    "volume": 60230,
+    "added_at": "2026-11-25T20:32:42"
+  },
+  {
+    "sr": 8,
+    "nsecode": "AMAGI",
+    "name": "Amagi Media Labs Ltd",
+    "bsecode": "544679",
+    "close": 584.65,
+    "per_chg": 0.32,
+    "volume": 137771,
+    "added_at": "2026-11-26T20:20:23"
+  },
+  {
+    "sr": 9,
+    "nsecode": "SANGHVIMOV",
+    "name": "Sanghvi Movers Limited",
+    "bsecode": "530073",
+    "close": 397.9,
+    "per_chg": 0.32,
+    "volume": 283763,
+    "added_at": "2026-11-26T20:20:23"
   },
   {
     "sr": 2,
@@ -50,46 +130,6 @@
     "added_at": "2026-11-25T20:32:42"
   },
   {
-    "sr": 6,
-    "nsecode": "CHOICEIN",
-    "name": "Choice International Ltd",
-    "bsecode": "531358",
-    "close": 760.7,
-    "per_chg": 1.66,
-    "volume": 809826,
-    "added_at": "2026-11-23T22:47:24"
-  },
-  {
-    "sr": 7,
-    "nsecode": "TATATECH",
-    "name": "Tata Technologies Ltd",
-    "bsecode": "544028",
-    "close": 700.35,
-    "per_chg": 1.16,
-    "volume": 470843,
-    "added_at": "2026-11-26T20:20:23"
-  },
-  {
-    "sr": 8,
-    "nsecode": "HCG",
-    "name": "Healthcare Global Enterprises Limited",
-    "bsecode": "539787",
-    "close": 632.7,
-    "per_chg": 0.36,
-    "volume": 57447,
-    "added_at": "2026-11-25T20:32:42"
-  },
-  {
-    "sr": 9,
-    "nsecode": "AMAGI",
-    "name": "Amagi Media Labs Ltd",
-    "bsecode": "544679",
-    "close": 582.8,
-    "per_chg": 2.06,
-    "volume": 203301,
-    "added_at": "2026-11-26T20:20:23"
-  },
-  {
     "sr": 10,
     "nsecode": "TATAINVEST",
     "name": "Tata Investment Corporation Limited",
@@ -97,16 +137,6 @@
     "close": 581.25,
     "per_chg": -0.16,
     "volume": 122431,
-    "added_at": "2026-11-26T20:20:23"
-  },
-  {
-    "sr": 11,
-    "nsecode": "SANGHVIMOV",
-    "name": "Sanghvi Movers Limited",
-    "bsecode": "530073",
-    "close": 396.65,
-    "per_chg": 5.24,
-    "volume": 495447,
     "added_at": "2026-11-26T20:20:23"
   },
   {
@@ -148,35 +178,5 @@
     "per_chg": 2.22,
     "volume": 476295,
     "added_at": "2026-11-23T22:47:24"
-  },
-  {
-    "sr": 11,
-    "nsecode": "THYROCARE",
-    "name": "Thyrocare Technologies Limited",
-    "bsecode": "539871",
-    "close": 528.45,
-    "per_chg": 4.67,
-    "volume": 9096697,
-    "added_at": "2026-11-20T19:11:07"
-  },
-  {
-    "sr": 13,
-    "nsecode": "TENNIND",
-    "name": "Tenneco Clean Air India Ltd",
-    "bsecode": "544612",
-    "close": 454.95,
-    "per_chg": 4.35,
-    "volume": 1409149,
-    "added_at": "2026-11-20T19:11:07"
-  },
-  {
-    "sr": 14,
-    "nsecode": "ASHAPURMIN",
-    "name": "Ashapura Minechem Limited",
-    "bsecode": "527001",
-    "close": 434.95,
-    "per_chg": 2.02,
-    "volume": 499032,
-    "added_at": "2026-11-20T19:11:07"
   }
 ]
